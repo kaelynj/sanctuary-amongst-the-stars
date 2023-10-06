@@ -1,0 +1,2 @@
+
+Throughout the system, places attacked by the #TITANs during the Fall remain off limits.  The weapons used to detroy the #TITAN machines frequently left these locations uninhabitable or destroyed beyond repair

@@ -1,0 +1,2 @@
+
+Venus may be the planet most like Earth in size and geology, but its climate couldn't be more different.  The infernal temperatures, the crushing atmospheric pressure, and the rains of sulphuric acid evoke the myriad hells primitive humanity imagined for itself.

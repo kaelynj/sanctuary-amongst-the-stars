@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "efd6f4f2a3a9524c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dac39a48463fe557",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gear/Armor.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98861d10192ef260",
+    "type": "split",
+    "children": [
+      {
+        "id": "42039a0aa24dedd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be0db3a5c2829acb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0518e5aec36993a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7d5196a3514e907",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cc05afd23084c21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "662e93cf7f156390",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gear/Armor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dac39a48463fe557",
+  "lastOpenFiles": [
+    "Gear/Armor.md",
+    "Gear/Weapons.md"
+  ]
+}
