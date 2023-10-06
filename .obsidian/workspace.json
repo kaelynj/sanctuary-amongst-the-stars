@@ -244,8 +244,12 @@
   },
   "active": "264f060a85105ba5",
   "lastOpenFiles": [
-    "LICENSE.md",
     "Campaign Information/One-Shots/Oneshot Ideas.md",
+    "Campaign Information/NPCs",
+    "Campaign Information/Session Journal",
+    "Campaign Information/One-Shots",
+    "Campaign Information",
+    "LICENSE.md",
     "README.md",
     "Game Mechanics/The Mesh/Authentication.md",
     "sanctuary-amongst-the-starts",
@@ -273,13 +277,8 @@
     "Untitled.canvas",
     "Game Mechanics/Action & Combat/Resolving Combat.md",
     "Hacking Tests.md",
-    "Game Mechanics/Action & Combat/Skills.md",
     "SanctuaryAmongstTheStars/Firewall_Handout.docx",
     "Game Mechanics/The Mesh/Hacking",
-    "z_Document Assets/DIvoMessage.docx",
-    "z_Document Assets/FormattedTradingCards.docx",
-    "z_Document Assets/EclipsePhase_BlankCharacterSheet.pdf",
-    "z_Document Assets/Eclipse_Phase_Second_Edition.pdf",
-    "z_Document Assets/TradingCardPage.docx"
+    "z_Document Assets/DIvoMessage.docx"
   ]
 }
