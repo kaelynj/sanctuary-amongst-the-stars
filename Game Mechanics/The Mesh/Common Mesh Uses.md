@@ -21,7 +21,7 @@ Since reality can be overlaid with hyper-real entoptics, you can "skin" your env
 
 # Virtual Reality [VR]
 ---
-Only [[Devices & Authentication#Servers|servers]] have the bandwidth and processing requirements to run full VR simulspaces, especially ones with multiple users.  For extra stability, most VR services are offered in locations with hardwired physical networks.  Comfortable enclosed couches are provided for users, as their physical sense are cut off.  See [[Virtual Reality]] for more information.
+Only [[Devices#Servers|servers]] have the bandwidth and processing requirements to run full VR simulspaces, especially ones with multiple users.  For extra stability, most VR services are offered in locations with hardwired physical networks.  Comfortable enclosed couches are provided for users, as their physical sense are cut off.  See [[Virtual Reality]] for more information.
 
 # Backups, Forking, Egocasting
 ---
@@ -33,7 +33,7 @@ Physical currency is a thing of the past.  Polities that still use money deploy 
 
 # Communications
 ---
-Messaging, video calls (using avatars), and emails remain dominant forms of communication, though these are sometimes hampered by distance lag.  For discussions across great distances or that require face-to-face privacy, forks are deployed.  Non-encrypted comms can be [[Devices & Authentication#Sniffing|sniffed]] by hostile parties.
+Messaging, video calls (using avatars), and emails remain dominant forms of communication, though these are sometimes hampered by distance lag.  For discussions across great distances or that require face-to-face privacy, forks are deployed.  Non-encrypted comms can be [[Devices#Sniffing|sniffed]] by hostile parties.
 
 # Experience Playback [XP]
 ---
@@ -63,7 +63,7 @@ MARGs function as [[Mesh Introduction#VPNs Virtual Private Networks|VPNs]].  Muc
 ---
 You can almost always pinpoint your location on an inhabited world or in a habitat by measuring signals either from orbiting GPS satellites or nearby mesh nodes.  Finding your way is easy with AR cues such as visual trails or arrows or audio directions.  Location services can tell you where to find the nearest local autocook, give you review on nearby cafes, and tell you who in the area matches your dating profile, personal interests, or is looking for a game match.
 
-A side effect of location services is that your movements are logged by every nearby mesh node due to automated pings and your physical activity can be correlated with your online activity and [[Authentication#Mesh ID|mesh ID]].  This feature is considered an advantage by parents watching over their kids, businesses monitoring their employees, and friends seeking out other friends, but can be a detriment to those seeking a low profile.
+A side effect of location services is that your movements are logged by every nearby mesh node due to automated pings and your physical activity can be correlated with your online activity and [[Authentication & Encryption#Mesh ID|mesh ID]].  This feature is considered an advantage by parents watching over their kids, businesses monitoring their employees, and friends seeking out other friends, but can be a detriment to those seeking a low profile.
 
 # Media & News
 ---
@@ -97,5 +97,5 @@ The drawback to some social networks is that *you* are the product.  *CivicNet*,
 ---
 Entoptic tags are a way for people to "tag" a physical person, place or object with virtual data.  These e-tags are stored in networks local to the tagged item and move with the item if it changes location.  E-tags are viewable in AR and can hold almost any type of data, though short notes and pictures are the most common.  E-tags are often linked to particular social networks or circles within that network so that people can leave notes, reviews, memorabilia, media, and similar things for friends and colleagues.
 
-Finding hidden tags in an area requires an [[Skills#Interface|Interface Test]] at -30 at best or may be impossible without access to the right networks/devices (GM discretion).  Even when found, they may require [[Devices & Authentication#Encryption|decryption]].
+Finding hidden tags in an area requires an [[Skills#Interface|Interface Test]] at -30 at best or may be impossible without access to the right networks/devices (GM discretion).  Even when found, they may require [[Devices#Encryption|decryption]].
  

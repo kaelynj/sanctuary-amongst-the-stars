@@ -1,16 +1,16 @@
 
 Your actions online are largely influenced by the particular system(s) you are accessing.  The following list is not comprehensive, btut should give your and your GM a basis for handling online tasks.
 
-Keep in mind that your actions are limited by your current [[Devices & Authentication#Accounts & Access Privileges|device access priviliges]].  If you wish to do something that your privileges do not allow -- access a file ine a restricted riectory, edit a log, manipulate a security device -- then you must hack the system to do so.  Actions that specifically require hacking are detailed under [[Hacking]], and [[Hacking#System Subversion|Subversion]].
+Keep in mind that your actions are limited by your current [[Devices#Accounts & Access Privileges|device access priviliges]].  If you wish to do something that your privileges do not allow -- access a file ine a restricted riectory, edit a log, manipulate a security device -- then you must hack the system to do so.  Actions that specifically require hacking are detailed under [[Hacking]], and [[Hacking#System Subversion|Subversion]].
 
 Unless otherwise noted, these actions each take a complex action but require no skill test, assuming you have access privileges.
 
 # Universal Actions
 
-These actions apply to [[Devices & Authentication#Motes |motes]], [[Devices & Authentication#Hosts|hosts]], [[Devices & Authentication#Servers|servers]], and most other electronics.  Any user can take these actions, though high-security systems may restrict some of these to users with security or admin privileges.
+These actions apply to [[Devices#Motes|motes]], [[Devices#Hosts|hosts]], [[Devices#Servers|servers]], and most other electronics.  Any user can take these actions, though high-security systems may restrict some of these to users with security or admin privileges.
 
 ##### Access Another System
-You can authenticate and [[Devices & Authentication#Acounts & Access Privileges|access]] an account on another system.  This creates an account shell, representing your presence on that system.
+You can authenticate and [[Devices#Acounts & Access Privileges|access]] an account on another system.  This creates an account shell, representing your presence on that system.
 
 ##### Apply Tag
 You can mark a physical person, place, or thing with an e-tag viewable in AR.
@@ -19,7 +19,7 @@ You can mark a physical person, place, or thing with an e-tag viewable in AR.
 you can email, text, and voice or video chat others online, as long as you have their mesh ID
 
 ##### Encrypt/Decrypt
-You can protect a file from prying eyes or access it with the proper [[Devices & Authentication#Authentication Methods|authorization]]
+You can protect a file from prying eyes or access it with the proper [[Devices#Authentication Methods|authorization]]
 
 ##### Filter AR Mist
 You can attempt to remove spam and other obtrusive AR "mists"
@@ -52,7 +52,7 @@ You may search a system you are accessing or the [[Research|mesh at large]]
 You may actively protect software that is targeted in [[Mesh Combat|mesh combat]]
 
 ##### Stealth Wireless Signals
-You can attempt to [[Devices & Authentication#Stealthed Signals|hide your wireless activity]]
+You can attempt to [[Devices#Stealthed Signals|hide your wireless activity]]
 
 ##### Switch Home Device
 If you are an infomorph, you may transfer your virtual mind-state to another system or distribute it among several systems

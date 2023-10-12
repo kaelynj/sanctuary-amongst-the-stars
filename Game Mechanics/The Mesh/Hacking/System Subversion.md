@@ -1,12 +1,12 @@
 Once you have successfully penetrated a system, your options will depend on your access privileges and the nature of the system.  Many of the actions you take as an intruder are not that different from a regular user (i.e. searching files, operating devices, etc.) See [[Mesh Actions]]
 
-Any time you attempt to do something that your [[Devices & Authentication#Accounts & Access Privileges|access privileges]] do not allow for, you must [[Hacking|hack]] the system to do what you want.  In most cases, this requires a [[Hacking]].  Apply modifiers from ongoing [[Countermeasures#Security Alerts|system alerts]].  If you win the contest, you succeed, but each attempt puts you in risk of discovery if you roll a superior or critical failure (see [[Hacking#Exposure|Exposure]]).
+Any time you attempt to do something that your [[Devices#Accounts & Access Privileges|access privileges]] do not allow for, you must [[Hacking|hack]] the system to do what you want.  In most cases, this requires a [[Hacking]].  Apply modifiers from ongoing [[Countermeasures#Security Alerts|system alerts]].  If you win the contest, you succeed, but each attempt puts you in risk of discovery if you roll a superior or critical failure (see [[Hacking#Exposure|Exposure]]).
 
 Aside from exceeding your privileges, there are some techniques that are explicitly subversive.  A sampling of common subversions are described below; GMs should use these as guidelines for arbitrating others.
 
 # Break Encryption
 ---
-You can attempt to decrypt an encrypted file without proper authorization (see [[Devices & Authentication#Codebreaking|codebreaking]]).
+You can attempt to decrypt an encrypted file without proper authorization (see [[Devices#Codebreaking|codebreaking]]).
 
 # Control Ware
 ---
@@ -29,7 +29,7 @@ To hinder [[Countermeasures#Security Audits|security audits]], you can clean up 
 
 # Force Re-Authentication
 ---
-While sniffing a target, you can break the connection and force them to re-authenticate in order to capture their login credentials ([[Devices & Authentication#Sniffing|Sniffing]]).  This requires winning a [[Hacking]] against the authenticating firewall.
+While sniffing a target, you can break the connection and force them to re-authenticate in order to capture their login credentials ([[Devices#Sniffing|Sniffing]]).  This requires winning a [[Hacking]] against the authenticating firewall.
 
 # Hide File or Process
 ---
@@ -54,7 +54,7 @@ Backdoors are ways into a system that bypass normal authentication and security 
 
 Most backdoors are installed by replacing an existing app with a copy that was modified to incorporate a vulnerability that allows instant remote access to the system.  The trick lies in making the copied app look like the unmodified original, so that it isn't detected during security audits.
 
-To install a backdoor, you must have access to the system, take a complex action, and win a [[Hacking#Hacking Test|Hacking Test]].  Apply a -20 modifier if you want the backdoor to provide [[Devices & Authentication#Security Accounts|security access privileges]], -30 for [[Devices & Authentication#Admin Accounts|admin privileges]].  If you succeed, the backdoor is installed -- you may use it to access the system without making a test until it is removed; you automatically acquire [[Hacking#Covert|covert status]].  Every superior success applies a -10 modifier towards attempts to discover the backdoor later (see [[Countermeasures#Security Audits|Security Audits]]).  On a critical success, the backdoor provides [[Hacking#Hidden|hidden status]].
+To install a backdoor, you must have access to the system, take a complex action, and win a [[Hacking#Hacking Test|Hacking Test]].  Apply a -20 modifier if you want the backdoor to provide [[Devices#Security Accounts|security access privileges]], -30 for [[Devices#Admin Accounts|admin privileges]].  If you succeed, the backdoor is installed -- you may use it to access the system without making a test until it is removed; you automatically acquire [[Hacking#Covert|covert status]].  Every superior success applies a -10 modifier towards attempts to discover the backdoor later (see [[Countermeasures#Security Audits|Security Audits]]).  On a critical success, the backdoor provides [[Hacking#Hidden|hidden status]].
 
 # Install Blocker
 ---
@@ -80,7 +80,7 @@ If hacking a tacnet-enabled system, you can alter, block, or inject tacnet data 
 
 # Sniff Traffic
 ---
-You can intercept and monitor wireless signals (see [[Devices & Authentication#Sniffing]]).
+You can intercept and monitor wireless signals (see [[Devices#Sniffing]]).
 
 # Suppress Alarm
 ---

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Mechanics/The Mesh/Devices & Authentication.md",
+                "file": "Game Mechanics/The Mesh/Devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,109 +47,40 @@
             "id": "1d9926f92938228c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8fcd1ae4c3f04d1c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Mechanics/The Mesh/Devices & Authentication.md",
+                "file": "Game Mechanics/The Mesh/AIs & Muses.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "73110ce0cea2d839",
+            "id": "130cd9960d2455f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Mechanics/The Mesh/START HERE (The Mesh).md",
+                "file": "Campaign Information/One-Shots/Grinder.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "754e426c75bdb1dd",
+            "id": "d1f706cb7275028a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Mechanics/The Mesh/Devices & Authentication.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df62e000472972cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Mechanics/The Mesh/Authentication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d9e51907e466c72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "264f060a85105ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "542f1d2698b929ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Mechanics/The Mesh/Hacking/Hacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6e376e048ad70f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Mechanics/Action & Combat/Making Tests.md",
+                "file": "World Information/Locations/Outer System/Saturn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Game Mechanics/The Mesh/AIs & Muses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,43 +173,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "264f060a85105ba5",
+  "active": "1d9926f92938228c",
   "lastOpenFiles": [
     "Campaign Information/One-Shots/Oneshot Ideas.md",
+    "Campaign Information/One-Shots/Grinder.md",
+    "World Information/Locations/Outer System/Saturn.md",
+    "World Information/Locations/Outer System/The Main Belt.md",
+    "World Information/Factions/Inner System Polities.md",
+    "World Information/Factions/Social Movements.md",
+    "World Information/Locations/The Pandora Gates.md",
+    "World Information/Locations/Quarantine Zones.md",
+    "World Information/Locations/Extrasolar Systems.md",
+    "World Information/Locations/Inner System/Sol and Mercury.md",
+    "World Information/Locations/Inner System/Luna.md",
+    "Untitled",
+    "Game Mechanics/The Mesh/AIs & Muses.md",
+    "Game Mechanics/The Mesh/Devices.md",
+    "Game Mechanics/The Mesh/Authentication & Encryption.md",
+    "Game Mechanics/The Mesh/Hacking/Hacking.md",
+    "README.md",
+    "Game Mechanics/The Mesh/START HERE (The Mesh).md",
+    "Game Mechanics/Action & Combat/Skills.md",
+    "Game Mechanics/Action & Combat/Resolving Combat.md",
+    "Game Mechanics/Action & Combat/Pools.md",
+    "Game Mechanics/Action & Combat/Making Tests.md",
+    "Game Mechanics/Action & Combat/Health.md",
     "Campaign Information/NPCs",
     "Campaign Information/Session Journal",
     "Campaign Information/One-Shots",
     "Campaign Information",
     "LICENSE.md",
-    "README.md",
-    "Game Mechanics/The Mesh/Authentication.md",
     "sanctuary-amongst-the-starts",
     "EclipsePhase",
     "New folder",
     "Player Resources/Gear/Services.md",
     "Game Mechanics/The Mesh/Common Mesh Uses.md",
     "Game Mechanics/The Mesh/Hacking/Countermeasures.md",
-    "Game Mechanics/The Mesh/Devices & Authentication.md",
-    "Game Mechanics/The Mesh/Hacking/Hacking.md",
-    "Game Mechanics/The Mesh/Hacking/System Subversion.md",
-    "Game Mechanics/The Mesh/Identity Systems.md",
-    "Game Mechanics/The Mesh/Virtual Reality.md",
-    "Game Mechanics/The Mesh/Hacking/Surveillance Hacking.md",
-    "Game Mechanics/The Mesh/Infomorphs.md",
-    "Game Mechanics/The Mesh/START HERE (The Mesh).md",
-    "Game Mechanics/The Mesh/Tracking.md",
-    "Game Mechanics/The Mesh/Mesh Introduction.md",
-    "Game Mechanics/The Mesh/Research.md",
-    "Game Mechanics/The Mesh/Mesh Actions.md",
-    "Game Mechanics/The Mesh/AIs & Muses.md",
-    "Game Mechanics/The Mesh/Hacking/Mesh Combat.md",
-    "Game Mechanics/The Mesh/Hacking/Mindware Hacking.md",
-    "Game Mechanics/Action & Combat/Making Tests.md",
     "Untitled.canvas",
-    "Game Mechanics/Action & Combat/Resolving Combat.md",
-    "Hacking Tests.md",
     "SanctuaryAmongstTheStars/Firewall_Handout.docx",
-    "Game Mechanics/The Mesh/Hacking",
-    "z_Document Assets/DIvoMessage.docx"
+    "Game Mechanics/The Mesh/Hacking"
   ]
 }

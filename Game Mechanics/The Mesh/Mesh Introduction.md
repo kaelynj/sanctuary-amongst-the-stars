@@ -21,7 +21,7 @@ Though the mesh as a whole consists of innumerable devices all connected to the 
 Some devices are slaved to others, so that any traffic and access attempts go through a single well-protected gateway node.  For example, individual components of a security system (doors, sensors, etc.) are usually slaved to a central security node that serves as a chokepoint against anyone hoping to hack the system.  All traffic to and from the slaved devices is routed through the master.  This allows a slaved device to rely on the master's security features and active monitoring.  Anyone that wants to connect to or hack into a slaved device is rerouted to the master for authentication and security scrutiny.
 
 > [!tip]
->Slaved devices automatically accept commands from their master device.  This means that a hacker who penetrates a master system can legitimately access and issue commands to a slaved device, assuming their [[Devices & Authentication#Accounts & Access Privileges|access privileges]] allow for it.
+>Slaved devices automatically accept commands from their master device.  This means that a hacker who penetrates a master system can legitimately access and issue commands to a slaved device, assuming their [[Devices#Accounts & Access Privileges|access privileges]] allow for it.
 
 
 ## PANs: Personal Area Networks
@@ -33,7 +33,7 @@ VPNs link together nodes via a point-to-point encrypted "tunnel" across the publ
 In practical terms, VPNs offer better encryption than standard mesh traffic, making it difficult to [[Tracking#Physical Tracking|sniff]] your connections, though you can still be [[Tracking|tracked]].  If one of the nodes within the VPN is hacked, however, that traffic becomes vulnerable.
 
 ## Tiered Systems
-Hypercorp networks, habitats, and similar large systems operate on a tiered model.  In order to access one particular device or network, you may first need to access the nodes or networks tiered above it.  Nodes in a lower tier will only communicate with recognized devices in the tier above them.  Usually the deeper you go, the harder the security gets.  Tiered systems can sometimes be defeated with [[Devices & Authentication#Spoofing|spoofing attacks]], by faking signals from a node in the tier above.
+Hypercorp networks, habitats, and similar large systems operate on a tiered model.  In order to access one particular device or network, you may first need to access the nodes or networks tiered above it.  Nodes in a lower tier will only communicate with recognized devices in the tier above them.  Usually the deeper you go, the harder the security gets.  Tiered systems can sometimes be defeated with [[Devices#Spoofing|spoofing attacks]], by faking signals from a node in the tier above.
 ## Air-Gapped Systems
 The most heavily secured systems are air-gapped -- physically separated from the mesh.  They may be hardwired, lacking wireless transceivers, or enclosed within radio-proof barriers.  The only way to access such systems is physically, either directly plugging in, defeating the radio-blocking enclosure, or somehow attaching a wireless transceiver to the system.
 

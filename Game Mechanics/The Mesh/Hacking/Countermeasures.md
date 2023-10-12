@@ -86,23 +86,23 @@ As a protective measure, the system temporarily reduces access privileges availa
 Active countermeasures are initiated when an intruder is fully detected ([[Hacking#Spotted|spotted status]]).  Systems/firewalls can be set to immediately trigger automatic countermeasures; others may be pursued at the defender's discretion.
 
 ### Counter-Intrusion
-Though illegal in some jurisdictions, system defenders may proactively protect their wards by counter-attacking the hacker.  For this to occur, the intruder must first be *successfully* [[Tracking|traced]] and their [[Authentication#Mesh ID|mesh ID]] obtained.  Once this occurs, the defender can then launch their own intrusions on the system from which the hacker originates.
+Though illegal in some jurisdictions, system defenders may proactively protect their wards by counter-attacking the hacker.  For this to occur, the intruder must first be *successfully* [[Tracking|traced]] and their [[Authentication & Encryption#Mesh ID|mesh ID]] obtained.  Once this occurs, the defender can then launch their own intrusions on the system from which the hacker originates.
 
 ### Crash & Lockout
-The defender can attempt to crash the account shell of an intruder that has been spotted ([[Mesh Combat]]).  If successful, the intruder's [[Authentication#Mesh ID|Mesh ID]] can be blocked from accessing the system again ([[Mesh Actions#Lockout|Lockout]]).  Hacked accounts are quarantined or deleted and not usable again until a security audit approves and reinstates it.
+The defender can attempt to crash the account shell of an intruder that has been spotted ([[Mesh Combat]]).  If successful, the intruder's [[Authentication & Encryption#Mesh ID|Mesh ID]] can be blocked from accessing the system again ([[Mesh Actions#Lockout|Lockout]]).  Hacked accounts are quarantined or deleted and not usable again until a security audit approves and reinstates it.
 
 ### Reboot/Shutdown
 The nuclear option for handling an interloper is to reboot or shut down the system.  In this case, the system closes all connections to other systems, logs off users, terminates all processes, and shuts itself down -- thereby booting out the intruder (at least temporarily).  The disadvantage, of course, is that the system must interrupt its activities.  For example, shutting down your mesh inserts means losing all communication with teammates, access to augmented reality, and control over [[Mesh Introduction#Slaved Devices|slaved or linked devices]].  The intruder may attempt to access the system when it reboots, but if they don't have account credentials or a [[Hacking#Intrusion|back door]], they will need to hack in again.  Remote defenders will also need to take an action to log back in.
 
-Initiating a reboot/shutdown only takes a complex action, but the actual shutdown process takes 1d6 actions turns (for [[Devices & Authentication#Motes|motes & hosts]]) or 1d6 minutes (for [[Devices & Authentication#Servers|servers]]).  Rebooting takes an equivalent amount of time.
+Initiating a reboot/shutdown only takes a complex action, but the actual shutdown process takes 1d6 actions turns (for [[Devices#Motes|motes & hosts]]) or 1d6 minutes (for [[Devices#Servers|servers]]).  Rebooting takes an equivalent amount of time.
 
-Logged-in users (including [[Hacking#Intrusion|intruders]]) are warned when a reboot or shutdown is initiated.  Once started, the shutdown process cannot be stopped, but it may be prolonged by 1d6 action turns with a complex action;  this requires [[Devices & Authentication#Accounts & Access Privileges|security or admin privileges]] or an [[Skills#Infosec|Infosec Test]].
+Logged-in users (including [[Hacking#Intrusion|intruders]]) are warned when a reboot or shutdown is initiated.  Once started, the shutdown process cannot be stopped, but it may be prolonged by 1d6 action turns with a complex action;  this requires [[Devices#Accounts & Access Privileges|security or admin privileges]] or an [[Skills#Infosec|Infosec Test]].
 
 #### Hard Shutdown:
 The shutdown process takes time in order to warn users, save files, end processes neatly, and otherwise protect the system.  A "hard" shutdown is also possible in emergency situations.  This requires:
 - An [[Skills#Interface|Interface Test]] 
 - A complex action 
-- [[Devices & Authentication#Accounts & Access Privileges|Admin privileges]]
+- [[Devices#Accounts & Access Privileges|Admin privileges]]
 
 If successful, the system shuts down at the end of that action turn.  hard shutdowns require double the reboot time and may result in lost data (GM discretion).  You can also cause a hard shutdown by physically powering down, cutting power, or destroying the device.
 
@@ -110,7 +110,7 @@ If successful, the system shuts down at the end of that action turn.  hard shutd
 An alternative to shutdown or rebooting is simply to sever all connections (usually by temporarily disabling the device's wireless capabilities and going into "airplane mode").  The system loses all active connections, but any intruders are dumped.  Termination takes a complex action to initiate and completes at the end of that action turn.  Connectivity may be set to restore on the next action turn, in a set time frame, or only when initiated by a local admin.  Restarting connectivity takes 1 action turn.  Any remote users will need to log back in; intruders without proper credentials will need to [[Hacking|hack]] the system again.  While connections are terminated, the system cannot communicate and interact with other systems.
 
 ### Trace [Automatic]
-Defenders can initiate a trace on a spotted intruder.  Most hackers are careful to use an anonymizing service to mask their [[Authentication#Mesh ID|mesh ID]] and location, but this is not always the case.  If an intruder is physically located, the standard procedure is to alert habitat security or other local or private police, who will mobilize to apprehend the suspect.
+Defenders can initiate a trace on a spotted intruder.  Most hackers are careful to use an anonymizing service to mask their [[Authentication & Encryption#Mesh ID|mesh ID]] and location, but this is not always the case.  If an intruder is physically located, the standard procedure is to alert habitat security or other local or private police, who will mobilize to apprehend the suspect.
 
 # Security Audits
 ---
