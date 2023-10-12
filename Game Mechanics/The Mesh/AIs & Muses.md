@@ -43,6 +43,8 @@ ALis user their own individual infomorphs.  ALIs may be sleeved into any morph w
 ---
 Muses are a subtype of ALI designed to be personal aides and companions.  Most transhumans grew up with a muse at their virtual side.  Muses have more personality and psychological programming than standard ALIs and over time they build up an extensive database of their user's preferences, likes and dislikes, and personality quirks so that they may more effectively be of service and anticipate needs.  Most muses reside within their owner's mesh inserts or ecto, where they can manage their owner's [PAN](Mesh%20Introduction.md#pans-personal-area-networks), communications, online searches, rep interactions,  and other mesh activity.
 
+
+
 > 👩‍🚀 Roleplaying Muses
 > 
 > Muses provide boundless roleplaying opportunities.  GMs can use them to remind, nag, encourage, or pester PCs -- no one is ever really alone.  If you find it overwhelming to keep track of the PCs' muses and their personalities, have the players roleplay each others' muses.  Simply give each player an index card with the muse's skills and personality notes; hold the card up when roleplaying as the muse.  This can also be a useful tool for keeping players involved in a scene when the party splits up and their own PCs are busy elsewhere.
