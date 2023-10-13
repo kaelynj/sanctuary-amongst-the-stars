@@ -12,3 +12,58 @@ Another impediment to online searches is the amount of incorrect data and misinf
 
 # Searching Specific Systems
 ---
+Online research in *Eclipse Phase* is not the same as just googling something.  Here are five ways in which it is vastly improved:
+
+<details>
+   <summary> <b>Pattern Recognition </b> </summary>
+   <br>
+   #### Pattern Recognition
+
+   Biometrics and other forms of pattern recognition are efficient and intelligent.  It is not only possible to run image recognition searches (in real time, via all available motes and XP feeds) but to search for patterns such as gait, sounds, colors, emotive displays, traffic, crowd movement, etc.  Kinesics and behavioral analysis even allow sensor searches for people exhibiting certain patterns such as suspicious loitering, nervousness, or agitation.
+
+</details>
+
+
+<details>
+   <summary> <b>Metadata </b> </summary>
+   <br>
+#### Metadata
+Information and files online come with hidden data about their creation, alteration, and access.  A photo's metadata, for example, will note what gear it was taken on, who took it, when and where, as well as who accessed it online, though such metadata may be easily scrubbed or anonymized.
+</details>
+
+
+<details>
+   <summary> <b>Semantic Tags </b> </summary>
+   <br>
+#### Semantic Tags
+Most data is semantically tagged, meaning that it's accompanied by code that an ALI can use to understand the context of that information as a transhuman would.
+</details>
+
+
+<details>
+   <summary> <b>Translation </b> </summary>
+   <br>
+#### Translation
+Real-time translation of audio and video is available from open-source translation bots.
+</details>
+
+
+<details>
+   <summary> <b>Forecasting </b> </summary>
+   <br>
+#### Forecasting
+A significant percentage of what people do on any day or in response to certain situations conforms to routines, enabling easy behavioral prediction.  Muses take advantage of this to anticipate needs and provide whatever is desired by their user at the right moment and in the right context.  The same logic applies to actions by groups of people, such as economics and social discourse.  ALIs use algorithms to cross-index data and contexts to predict most likely outcomes.  Security forces use this to place patrols where trouble is likely to occur.
+</details>
+
+<details>
+   <summary> <b>Data Mash-Ups </b> </summary>
+   <br>>
+#### Data Mash-Ups
+The combination of abundant computing, archived data, and ubiquitous public sensors, along with intricate algorithms, means that intriguing correlations can be drawn from data that is mined and collated.  In the midst of a habitat emergency such as a terrorist bombing, for example, the ID of everyone in that vicinity would be scanned, compared to data archives to separate out those who have a history of being in the vicinity at that particular time, with those remaining checked against databases of criminal/suspect history, their recorded actions analyzed for unusual behavior, and anything they've spoken compared to keyword lists.
+</details>
+
+# Research Tests
+---
+Online research is a crucial element of most *Eclipse Phase* scenarios, as characters take to the mesh to unearth backgrounds and uncover clues.  Cammon and inconsequential public information is immediately available without requiring a roll at all.  your muse will handle these searches for you, passing on the results while you focus on other things.
+
+For searches that are more detailed, difficult, or central to the plot, make a [Research Test](../Action%20&%20Combat/Skills.md#research) (or have your muse make one for you).  If you are searching for data tied to a particular subject or field of study, you can use an appropriate [Know skill](../Action%20&%20Combat/Skills.md#know-skills) as a complementary skill.
