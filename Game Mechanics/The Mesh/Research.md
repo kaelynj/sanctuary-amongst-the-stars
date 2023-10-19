@@ -50,9 +50,10 @@ Real-time translation of audio and video is available from open-source translati
 
 <details>
    <summary> <b>Forecasting </b> </summary>
-   <br>
+   <p>
 #### Forecasting
 A significant percentage of what people do on any day or in response to certain situations conforms to routines, enabling easy behavioral prediction.  Muses take advantage of this to anticipate needs and provide whatever is desired by their user at the right moment and in the right context.  The same logic applies to actions by groups of people, such as economics and social discourse.  ALIs use algorithms to cross-index data and contexts to predict most likely outcomes.  Security forces use this to place patrols where trouble is likely to occur.
+</p>
 </details>
 
 <details>
@@ -66,4 +67,62 @@ The combination of abundant computing, archived data, and ubiquitous public sens
 ---
 Online research is a crucial element of most *Eclipse Phase* scenarios, as characters take to the mesh to unearth backgrounds and uncover clues.  Cammon and inconsequential public information is immediately available without requiring a roll at all.  your muse will handle these searches for you, passing on the results while you focus on other things.
 
+Research Tests are handled as task actions.  The suggested timeframe is 1 hour, though this should be modified by the GM according to the amount of data you must sift through to get the result and the needs of the plot.  Searches that require you to access non-local parts of the mesh may increase the timeframe due to bonus details and nuance.  A critical success leads to a breakthrough understand.  A critical failure, however, results in false and misleading information.
+
 For searches that are more detailed, difficult, or central to the plot, make a [Research Test](../Action%20&%20Combat/Skills.md#research) (or have your muse make one for you).  If you are searching for data tied to a particular subject or field of study, you can use an appropriate [Know skill](../Action%20&%20Combat/Skills.md#know-skills) as a complementary skill.
+
+For searches that are more detailed, difficult, or central to the plot, make a [Research Test](#research-tests) (or have your muse make one for you).  If you are searching for data tied to a particular subject or field of study, you can use an appropriate [Know](../Action%20&%20Combat/Skills.md#know-skills) skill as a complementary skill.
+
+
+> ## Online Research
+> | Situation | Modifiers|
+> | :--- | ---:|
+> | Conflicting Sources | -10 |
+> | Possess Hints, Traces, or Corroborating Details | +10 to +30
+> | **Availability** | |
+> | &nbsp;&nbsp;&nbsp; Widespread Information | timeframe / 2 |
+> | &nbsp;&nbsp;&nbsp; Buried Within Other Details | timeframe x 2 |
+> |&nbsp;&nbsp;&nbsp; Obscure or Unusual Data | -10 to -30 |
+> |&nbsp;&nbsp;&nbsp; Private or Proprietary data | -30 or NA |
+> | **Analysis/Comparison of Data Sets** | |
+> |&nbsp;&nbsp;&nbsp; Small Data Set (single scientific study/sample) | timeframe / 2 |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Medium Data Set (multiple studies/samples) | -- |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Large Data Set (dozens of studies/samples) | timeframe x 4 |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Massive Data Set (hundreds of studies/samples) | timeframe x 20 |
+> |**Real-Time Biometric Scanning** | |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Facility/Small Habitat | -- |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Neighborhood/Medium Habitat | -10 |
+> |&nbsp;&nbsp;&nbsp;&nbsp; City/Large Habitat | -30 |
+> |**Forecasting** | |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Small Data Set (1 week) | -30 |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Medium Data Set (1 month) | -- |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Large Data Set (1 year) | +10 |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Massive Data Set (5+ years) | +30 |
+
+
+## Private and Proprietary Data
+Not everything can be found online.  Some data may only be acquired by asking the right people (see [Networking](../Transhuman%20Tech/Networking.md)).  Information that is considered secret or proprietary could be stored away in private networks behind firewalls, in off-mesh hardwired networks, or in commercial archives.  This would requrie you to gain access to such networks in order to get the dat you need (though a successful Research Test may tell you where to look).
+
+## Analyzing the Results
+Just because you've acquired the data doesn't mean you understand it.  You may need to make a skill test using [Know](../Action%20&%20Combat/Skills.md#know-skills) or another appropriate skill to analyze the results and discover what you're looking for.  For example, a [Research Test](#research-tests) might pull up the chemical details of a particular alien toxin, but a [*Know: Chemistry* Test](../Action%20&%20Combat/Skills.md#know-skills) may be necessary to actually understand the repercussions and concoct an antidote.
+
+# Real-Time Alerts
+---
+You may ask your muse to monitor mesh feeds for news or other mentions as they occur in real time.  You can also monitor existing data for any updates or changes.  If and when the information comes up, the GM makes a secret Research Test on your muse's behalf.  If successful, the update in noted.  if not, it is missed, though the GM may allow another test if and when the topic reaches a wider range of circulation or interest.
+
+# Searching Specific Systems
+---
+You can also use the [Research skill](../Action%20&%20Combat/Skills.md#research) to scan for specific keywords, file names, media, or other data on a system.  When searching a single device such as a mote or host, this simply takes a complex action.  For larger devices and networks, this is a task action with a longer timeframe; see the *Searching Timeframes* table below for suggestions.
+
+The rules above assume you are looking for something specific.  Sometimes, however, you may simply be browsing through an opponent's captured device, looking for something interesting, incriminating, or that otherwise stands out as a clue.  If you are searching a system without knowing exactly what you are looking for, the process can take significantly longer.  In this case, make a [Research Test](#research-tests) for every hour you search.  The GM should apply a negative modifier between 0 and -30 based on the size of the system and the density of information it contains.  If you succeed, you find one clue or other intriguing bit of data, plus one per superior success.  Note that encrypted files must first be decrypted before they can be searched.
+
+
+> ## Searching Timeframes
+> | System | Timeframe |
+> |:--- | ---: |
+> | Small Server | 1d6 action turns |
+> | Large Server | 1d6 minutes |
+> | PAN | 1d6 action turns |
+> |TacNet | 1d6 minutes |
+> | Small Network (Mesh Site, Lab, Ship Net) | 1d6 x 5 minutes |
+> | Large Network (Hypercorp Division, Habitat Net) | 1d6 x 10 minutes |
