@@ -2,24 +2,24 @@ Campaign Information/Session Journal/*
 Campaign Information/One-Shots/*
 .vscode/*
 .obsidian/*
-my-website/docs/.obsidian/*
+/docs/.obsidian/*
 # Dependencies
-my-website/node_modules
+/node_modules
 
 # Production
-my-website/build
+/build
 
 # Generated files
-my-website/.docusaurus
-my-website/.cache-loader
+.docusaurus
+.cache-loader
 
 # Misc
-my-website/.DS_Store
-my-website/.env.local
-my-website/.env.development.local
-my-website/.env.test.local
-my-website/.env.production.local
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-my-website/npm-debug.log*
-my-website/yarn-debug.log*
-my-website/yarn-error.log*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
