@@ -1,9 +1,58 @@
+# Research Tests
+---
+Online research is a crucial element of most *Eclipse Phase* scenarios, as characters take to the mesh to unearth backgrounds and uncover clues.  Cammon and inconsequential public information is immediately available without requiring a roll at all.  your muse will handle these searches for you, passing on the results while you focus on other things.
+
+Research Tests are handled as task actions.  The suggested timeframe is 1 hour, though this should be modified by the GM according to the amount of data you must sift through to get the result and the needs of the plot.  Searches that require you to access non-local parts of the mesh may increase the timeframe due to bonus details and nuance.  A critical success leads to a breakthrough understand.  A critical failure, however, results in false and misleading information.
+
+For searches that are more detailed, difficult, or central to the plot, make a [Research Test](../Action%20&%20Combat/Skills.md#research) (or have your muse make one for you).  If you are searching for data tied to a particular subject or field of study, you can use an appropriate [Know skill](../Action%20&%20Combat/Skills.md#know-skills) as a complementary skill.
+
+For searches that are more detailed, difficult, or central to the plot, make a [Research Test](#research-tests) (or have your muse make one for you).  If you are searching for data tied to a particular subject or field of study, you can use an appropriate [Know](../Action%20&%20Combat/Skills.md#know-skills) skill as a complementary skill.
+
+<details>
+   <summary> GMing Research Tests </summary> 
+   <p>
+   Research Tests are often important for the story line as one of the main methods PCs have for acquiring clues.  For this reason, it is important for GMs to have some flexibility.  If the timeframes provided in the rules don't plug so well into your plot framework, modify them to fit your needs.  Some evidence may simply take more work to dig up, and sometimes clues will fall right into the PCs' outstretched mandibles.  Especially sleuthful PCs sometimes get ahead of the game -- for this reason, it helps to structure your story so that they don't even know what clue they next need until it comes close to the time they will need it.
+
+   If the Pcs fail their Research Tests, they should have other opportunities for discovering the information they need.  [Insight Pool](AIs%20&%20Muses.md#aptitudes-skills-and-pools) can also be useful here, when spent to acquire a clue.  Insight expenditures should still come with some effort, however.  A Pc that buys intel with an Insight point may still need to spend a few hours crawling through the mesh.
+</details>
+
+> ## Online Research
+> | Situation | Modifiers|
+> | :--- | ---:|
+> | Conflicting Sources | -10 |
+> | Possess Hints, Traces, or Corroborating Details | +10 to +30
+> | **Availability** | |
+> | &nbsp;&nbsp;&nbsp; Widespread Information | timeframe / 2 |
+> | &nbsp;&nbsp;&nbsp; Buried Within Other Details | timeframe x 2 |
+> |&nbsp;&nbsp;&nbsp; Obscure or Unusual Data | -10 to -30 |
+> |&nbsp;&nbsp;&nbsp; Private or Proprietary data | -30 or NA |
+> | **Analysis/Comparison of Data Sets** | |
+> |&nbsp;&nbsp;&nbsp; Small Data Set (single scientific study/sample) | timeframe / 2 |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Medium Data Set (multiple studies/samples) | -- |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Large Data Set (dozens of studies/samples) | timeframe x 4 |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Massive Data Set (hundreds of studies/samples) | timeframe x 20 |
+> |**Real-Time Biometric Scanning** | |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Facility/Small Habitat | -- |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Neighborhood/Medium Habitat | -10 |
+> |&nbsp;&nbsp;&nbsp;&nbsp; City/Large Habitat | -30 |
+> |**Forecasting** | |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Small Data Set (1 week) | -30 |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Medium Data Set (1 month) | -- |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Large Data Set (1 year) | +10 |
+> |&nbsp;&nbsp;&nbsp;&nbsp; Massive Data Set (5+ years) | +30 |
+
+<details>
+   <summary> Chaining Results </summary>
+   <p>
+   The path to the information you need may not always be obvious or direct.  GMs are encouraged to structure necessary data and clues in such a way that several separate Research Tests are required and the next step is not apparent until the previous step is uncovered.  For example, when researching a strange alien relic, a search may first lead to an account of a gatecrasher who saw something similar, so the trail takes you towards the logs from a specific pandora gate, which then leads to a mission report, which then points you towards a specific hypercorp that may have smuggled the device back to the Solar System.  GMs should be careful to allow multiple paths towards the end-goal data, in case one trail goes cold.
+   </p>
+</details>
+
 # Online Research
 ---
 The mesh is a treasure trove of data for those skilled in exploring its nooks and filtering out the detritus.  Use the [Research skill](../Action%20&%20Combat/Skills.md#Research) when looking things up online.  You can search for news, research papers, public sensor feeds, social network activity, personal information, corporate information, SolArchive entries, criminal records, government data, leaked reports, mesh-connected devices, and much, much more.  Digitized data of all kinds can be searched: text, pictures, audio, video, XP, raw data, software, etc.  This data is culled from all manner of sources: archives, databases, directories, social networks, cloud services, blogs/vlogs, forums, chat rooms, and regular mesh sites.  Research is conducted using various public and private search engines, both general and specialized, as well as data indices and search AIs.
 
 You also use [Research](../Action%20&%20Combat/Skills.md#research) when looking for information on a specific network or device to which you have access: a sensor mote, someone's ecto or tablet, a robot , or an opponent's  mesh inserts (see [Searching Specific Systems](#searching-specific-systems)).  Likewise, since everyone inevitably uses and interacts with the mesh, Research skill is also a way to identify, backtrack, and/or gather information on people as long as they have not hidden their identity with a shroud of disinformation (see [Tracking](Tracking.md)).
-
 
 # Search Challenges
 Due to the sheet amount of data available, finding what you're looking for can be a daunting task.  Thankfully, information is fairly well-organized, thanks to the hard work of "spider" AIs that cruise the mesh and update data and search indices.
@@ -60,41 +109,6 @@ The combination of abundant computing, archived data, and ubiquitous public sens
 </p>
 </details>
 
-# Research Tests
----
-Online research is a crucial element of most *Eclipse Phase* scenarios, as characters take to the mesh to unearth backgrounds and uncover clues.  Cammon and inconsequential public information is immediately available without requiring a roll at all.  your muse will handle these searches for you, passing on the results while you focus on other things.
-
-Research Tests are handled as task actions.  The suggested timeframe is 1 hour, though this should be modified by the GM according to the amount of data you must sift through to get the result and the needs of the plot.  Searches that require you to access non-local parts of the mesh may increase the timeframe due to bonus details and nuance.  A critical success leads to a breakthrough understand.  A critical failure, however, results in false and misleading information.
-
-For searches that are more detailed, difficult, or central to the plot, make a [Research Test](../Action%20&%20Combat/Skills.md#research) (or have your muse make one for you).  If you are searching for data tied to a particular subject or field of study, you can use an appropriate [Know skill](../Action%20&%20Combat/Skills.md#know-skills) as a complementary skill.
-
-For searches that are more detailed, difficult, or central to the plot, make a [Research Test](#research-tests) (or have your muse make one for you).  If you are searching for data tied to a particular subject or field of study, you can use an appropriate [Know](../Action%20&%20Combat/Skills.md#know-skills) skill as a complementary skill.
-
-
-> ## Online Research
-> | Situation | Modifiers|
-> | :--- | ---:|
-> | Conflicting Sources | -10 |
-> | Possess Hints, Traces, or Corroborating Details | +10 to +30
-> | **Availability** | |
-> | &nbsp;&nbsp;&nbsp; Widespread Information | timeframe / 2 |
-> | &nbsp;&nbsp;&nbsp; Buried Within Other Details | timeframe x 2 |
-> |&nbsp;&nbsp;&nbsp; Obscure or Unusual Data | -10 to -30 |
-> |&nbsp;&nbsp;&nbsp; Private or Proprietary data | -30 or NA |
-> | **Analysis/Comparison of Data Sets** | |
-> |&nbsp;&nbsp;&nbsp; Small Data Set (single scientific study/sample) | timeframe / 2 |
-> |&nbsp;&nbsp;&nbsp;&nbsp; Medium Data Set (multiple studies/samples) | -- |
-> |&nbsp;&nbsp;&nbsp;&nbsp; Large Data Set (dozens of studies/samples) | timeframe x 4 |
-> |&nbsp;&nbsp;&nbsp;&nbsp; Massive Data Set (hundreds of studies/samples) | timeframe x 20 |
-> |**Real-Time Biometric Scanning** | |
-> |&nbsp;&nbsp;&nbsp;&nbsp; Facility/Small Habitat | -- |
-> |&nbsp;&nbsp;&nbsp;&nbsp; Neighborhood/Medium Habitat | -10 |
-> |&nbsp;&nbsp;&nbsp;&nbsp; City/Large Habitat | -30 |
-> |**Forecasting** | |
-> |&nbsp;&nbsp;&nbsp;&nbsp; Small Data Set (1 week) | -30 |
-> |&nbsp;&nbsp;&nbsp;&nbsp; Medium Data Set (1 month) | -- |
-> |&nbsp;&nbsp;&nbsp;&nbsp; Large Data Set (1 year) | +10 |
-> |&nbsp;&nbsp;&nbsp;&nbsp; Massive Data Set (5+ years) | +30 |
 
 
 ## Private and Proprietary Data
