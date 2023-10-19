@@ -16,51 +16,48 @@ Online research in *Eclipse Phase* is not the same as just googling something.  
 
 <details>
    <summary> <b>Pattern Recognition </b> </summary>
-   <br>
-   #### Pattern Recognition
-
+   <p>
    Biometrics and other forms of pattern recognition are efficient and intelligent.  It is not only possible to run image recognition searches (in real time, via all available motes and XP feeds) but to search for patterns such as gait, sounds, colors, emotive displays, traffic, crowd movement, etc.  Kinesics and behavioral analysis even allow sensor searches for people exhibiting certain patterns such as suspicious loitering, nervousness, or agitation.
-
+   </p>
 </details>
 
 
 <details>
    <summary> <b>Metadata </b> </summary>
-   <br>
-#### Metadata
+   <p>
 Information and files online come with hidden data about their creation, alteration, and access.  A photo's metadata, for example, will note what gear it was taken on, who took it, when and where, as well as who accessed it online, though such metadata may be easily scrubbed or anonymized.
+   </p>
 </details>
 
 
 <details>
    <summary> <b>Semantic Tags </b> </summary>
-   <br>
-#### Semantic Tags
+   <p>
 Most data is semantically tagged, meaning that it's accompanied by code that an ALI can use to understand the context of that information as a transhuman would.
+   </p>
 </details>
 
 
 <details>
    <summary> <b>Translation </b> </summary>
-   <br>
-#### Translation
+   <p>
 Real-time translation of audio and video is available from open-source translation bots.
+   </p>
 </details>
 
 
 <details>
    <summary> <b>Forecasting </b> </summary>
    <p>
-#### Forecasting
 A significant percentage of what people do on any day or in response to certain situations conforms to routines, enabling easy behavioral prediction.  Muses take advantage of this to anticipate needs and provide whatever is desired by their user at the right moment and in the right context.  The same logic applies to actions by groups of people, such as economics and social discourse.  ALIs use algorithms to cross-index data and contexts to predict most likely outcomes.  Security forces use this to place patrols where trouble is likely to occur.
 </p>
 </details>
 
 <details>
    <summary> <b>Data Mash-Ups </b> </summary>
-   <br>>
-#### Data Mash-Ups
+   <p>
 The combination of abundant computing, archived data, and ubiquitous public sensors, along with intricate algorithms, means that intriguing correlations can be drawn from data that is mined and collated.  In the midst of a habitat emergency such as a terrorist bombing, for example, the ID of everyone in that vicinity would be scanned, compared to data archives to separate out those who have a history of being in the vicinity at that particular time, with those remaining checked against databases of criminal/suspect history, their recorded actions analyzed for unusual behavior, and anything they've spoken compared to keyword lists.
+</p>
 </details>
 
 # Research Tests
