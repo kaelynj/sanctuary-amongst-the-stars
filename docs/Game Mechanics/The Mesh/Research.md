@@ -14,6 +14,7 @@ For searches that are more detailed, difficult, or central to the plot, make a [
    Research Tests are often important for the story line as one of the main methods PCs have for acquiring clues.  For this reason, it is important for GMs to have some flexibility.  If the timeframes provided in the rules don't plug so well into your plot framework, modify them to fit your needs.  Some evidence may simply take more work to dig up, and sometimes clues will fall right into the PCs' outstretched mandibles.  Especially sleuthful PCs sometimes get ahead of the game -- for this reason, it helps to structure your story so that they don't even know what clue they next need until it comes close to the time they will need it.
 
    If the Pcs fail their Research Tests, they should have other opportunities for discovering the information they need.  [Insight Pool](AIs%20&%20Muses.md#aptitudes-skills-and-pools) can also be useful here, when spent to acquire a clue.  Insight expenditures should still come with some effort, however.  A Pc that buys intel with an Insight point may still need to spend a few hours crawling through the mesh.
+   </p>
 </details>
 
 > ## Online Research
