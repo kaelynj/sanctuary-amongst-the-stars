@@ -13,6 +13,13 @@ Most traits provide modifiers in certain situations.  Ego traits are purchased d
 # Negative Traits
 ---
 
+
 ### Addiction
 
+### Enhanced Behavior
+
+### Neural Damage
+
 ### Mental Disorder
+
+### Restricted Behavior

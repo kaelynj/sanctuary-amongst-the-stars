@@ -31,6 +31,12 @@ $$
 $$
 Every time you use psi-gamma sleights or [push a sleight](using_psi#pushing-sleights), your Infection Rating [increases](using_psi#infection-modifiers).  Every time you recharge, it [decreases](using_psi#easing-the-infection).
 
+### Infection Rating Thresholds
+As your infection takes a stronger hold, your sleights become more powerful:
+- **Infection Rating 33+**: Apply the Increased Effect push effect to all of your psi-chi sleights.  This lasts until your Infection Rating drops below 33.
+- **Infection Rating 66+**: Apply one free [push effect](using_psi.md#pushing-sleights) to all of your psi-gamma sleights.  The same effect must be applied to each.  This lasts until your Infection Rating drops below 66.
+
+You may still [push](using_psi.md#pushing-sleights) sleights when you are over a threshold, but you may not apply the same push effect that a threshold already provides, with the exception of the *extra target* effect.
 
 # Roleplaying Asyncs
 ---
