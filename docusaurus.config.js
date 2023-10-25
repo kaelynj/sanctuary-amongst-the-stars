@@ -12,8 +12,8 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Eclipse Phase: Sanctuary Amongst The Stars',
+  tagline: 'A campaign website',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -24,8 +24,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'kaelynj', // Usually your GitHub org/user name.
+  projectName: 'sanctuary-amongst-the-stars', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -86,7 +86,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'EP: SATS',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -94,13 +94,25 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'gameSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Game Mechanics',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            type: 'docSidebar',
+            sidebarId: 'loreSidebar',
+            position: 'left',
+            label: 'World Information',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'playerSidebar',
+            position: 'left',
+            label: 'Player Resources',
+          },
+          {to: '/journal', label: 'Campaign Journal', position: 'left'},
+          {
+            href: 'https://github.com/kaelynj/sanctuary-amongst-the-stars/',
             label: 'GitHub',
             position: 'right',
           },
@@ -113,8 +125,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Game Mechanics',
+                to: '/docs/Game Mechanics',
+              },
+              {
+                label: 'Player Resources',
+                to: '/docs/Player Resources',
+              },
+              {
+                label: 'World Information',
+                to: '/docs/World Information',
               },
             ],
           },
@@ -140,16 +160,16 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: '/journal',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/kaelynj/sanctuary-amongst-the-stars',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License \u1F16D\u1F16F\u1F10F\u1F10E \n Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
