@@ -130,7 +130,120 @@ You may not affect extra targets with this sleight, unless you have more than on
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You force the target's mine into a recursive loop.  They will repeat their actions from the previous 15-30 seconds (5-10 action turns) for the next WIL $\div$ 5 minutes.  They will repeat their actions as closely as possible, even if their environment and circumstances change.  If someone actively interrupts or restrains the target, or otherwise disrupts the loop, they may make a WIL Check to break out of the loop, ending the sleight.
 
+### Downtime
+**Action:** Task $\cdot$ **Duration:** Sustained $\cdot$ **Infection Mod:** 2
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You slip the target's mind into a fugue-state regenerative downtime, to repair their psyche.  You must sustain this sleight for 4 hours during which you may take no other complex actions.  Downtime cannot be concurrent with a long recharge.  This process heals 1d6 stress, +1d6 per superior success.  Traumas and disorders are unaffected by this sleight.  If interrupted, no stress is healed.  For all sensory purposes, you and the target are catatonic during downtime, completely oblivious to the outside world.  Only severe disturbances or physical shock (such as being wounded or hit by a shock weapon) will bring you or the target out of it.  Any target of this sleight other than yourself must make a WIL Check; if they fail, sometime within the next 24 hours they will be subject to one of your influence effects.
+
 
 ### Ego Sense
-### Psi Shield
+**Action:** Complex $\cdot$ **Duration:** Action Turns $\cdot$ **Infection Mod:** 2
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You detect the presence and location (rough direction from yourself) of other sentient and biological life forms (i.e., egos and animals) within Close range.  Each life form makes an opposed test against your roll.  You suffer modifiers for size, the same as for ranged attacks.  Superior successes provide additional details: approximate size, exact distance, type of creature, etc.  If the target moves during the duration (WIL $\div$ 5 action turns), you will have a rough idea of their speed and bearing.
+
+### Empathic Scan
+**Action:** Complex $\cdot$ **Duration:** Action Turns $\cdot$ **Infection Mod:** 4
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You sense the target's emotional state for WIL $\div$ 5 action turns.  This provides you with a +10 modifier for social skill tests against the target, +10 per superior success.  This sleight will not automatically detect deceit, but it will pick up on nervousness, doubt, anxiety, etc. and provide a bonus to Kinesics Tests against Deceive.
+
+### Illusion
+**Action:** Complex $\cdot$ **Duration:** Sustained $\cdot$ **Infection Mod:** 8
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You craft an illusion and inflict it upon the target.  The illusion can range from a simple single-sense impression to a completely immersive false reality and can override actual sensory input.  The illusion cannot directly harm the target, but it can provoke reactions that are dangerous or even fatal (e.g., tricking someone into walking off a roof).  because the illusion is unsubstantial, it also may not stop or start movement, hold weight, provide protection, etc.  If the target carefully examines the illusion or physically interacts with it, they receive an INT Check to see through it.  Likewise, if the illusion in any way defies reality or inspires common-sense incredulity, or the real world interferes with the illusion (sudden loud noises, walls hidden by the illusion impeded movement, etc.), the target gets an INT Check to disbelieve.  Targets that succeed in their INT Check will still faintly experience the illusory input, but recognize it as unreal.  No check is needed if the target has proof the illusion is false.  Complex or lengthy illusions are hard to sustain; the GM may call for INT Checks or appropriate skill tests to maintain the constructed façade.
+
+Illusions require intense mental power to sustain.  You may not take any complex actions while sustaining this sleight, else the illusion will falter.
+
+### Implant Memory
+**Action:** Complex $\cdot$ **Duration:** Instant $\cdot$ **Infection Mod:** 6
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You implant a memory of up to an hour's length inside the target's mind.  This memory may be completely fabricated, based on your real memories, or a combination of the two.  Implanting real memories is useful for archiving important data with an ally, providing a literal alternate perspective, or simply making a memory dump for the target to peruse.  Fake memories are often fuzzy and lacking detail, but bolstering them with real memories makes them more convincing.  At the GM's discretion, a fake memory that contradicts the target's other memories, is drastically out of character, or includes details that inspire skepticism may be identified as false with an INT Check.  Particularly traumatic memories may inflict mental stress on the recipient when they are first experienced.  Implanted memories do not overwrite real memories.
+
+### Implant Skill
+**Action:** Complex $\cdot$ **Duration:** Hours $\cdot$ **Infection Mod:** 6
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You impart your expertise and implant it into the target's mind.  The target acquires your chosen existing skill at half value for WIL $\div$ 5 hours.  If the target already has the skill, they use whichever value is higher.  Specialization bonuses also apply.  Psi skill may only be implanted if the target has the Psi trait.  Recipients of skills will exercise them with the async's flair and mannerisms.
+
+### Induce Error
+**Action:** Complex $\cdot$ **Duration:** Minutes $\cdot$ **Infection Mod:** 6
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You create a glitch in the target's mind that causes them to unconsciously do something wrong.  The target automatically fails a random skill test (chosen by the GM) made in the next WIL $\div$ 5 minutes.  With a superior success, you may choose which skill will fail the next time it is used (if that skill is not sued within the duration, the sleight has no effect) or make the failure a superior failure.  This usually manifests as the type of common mistake that even a seasoned professional might make.  For example, in combat the target could forget to reload a weapon or alert an ally of a flanking foe.  Out of combat, the target might save the wrong file, forget where they left something, mistake someone for someone else, or leave a security door unlocked.
+
+### Infectious Mind
+**Action:** Complex $\cdot$ **Duration:** Sustained $\cdot$ **Infection Mod:** 4
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You share a triggered disorder or active infection influence effect with the target.  At the GM's discretion, prolonged exposure may inflict stress damage to the target.
+
+### Influence
+**Action:** Complex $\cdot$ **Duration:** Action Turns $\cdot$ **Infection Mod:** 4
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is an offensive version of the [Control Behavior](psi_chi.md#control-behavior) sleight.  You manipulate the target's cortices and emotions.  Apply an Enhanced Behavior or Restricted Behavior (Level 2) trait.  You may push this trait to Level 3.
+
+### Invigorate
+**Action:** Complex $\cdot$ **Duration:** Instant $\cdot$ **Infection Mod:** 4
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You trigger a rush of neurochemical energy in the target.  They may expend their next complex action collecting themselves; this counts as a short recharge action, without needing to expend the full 10 minutes.  Note that this sleight doe snot provide an extra recharge, it simply shortens the time frame.
+
+### Mimic
+**Action:** Quick $\cdot$ **Duration:** Instant $\cdot$ **Infection Mod:** 4
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You telepathically ping the target, collecting an intuitive snapshot of their personality quirks and mannerisms.  You may use this imprint of the target's mind to your advantage when mimicking their behavior and social cues.  Apply a +10 modifier to Deceive Tests to impersonate the target, +10 per superior success.
+
+### Mindlink
+**Action:** Quick $\cdot$ **Duration:** Sustained $\cdot$ **Infection Mod:** 2
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You establish two-way mental communication with the target.  If mindlinked with more than one target simultaneously, you may act as a telepathic server so that everyone mindlinked with you can also telepathically communicate with each other (though you will overhear everything).  Language is still a factor in mindlinked communications, but this barrier may be overcome by transmitting sounds, images, emotions, and other sensations.
+
+### Neural Hardening
+**Action:** Complex $\cdot$ **Duration:** Minutes $\cdot$ **Infection Mod:** 4
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You harden the target's sensory input pathways and mechanisms.  For WIL $\div$ 5 minutes, they receive +10 to resist basilisk hacks, +10 per superior success.
+
+### Nightmare
+**Action:** Complex $\cdot$ **Duration:** Instant $\cdot$ **Infection Mod:** 6
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You bombard the target with horrific images and sensations, eroding their mental stability.  You inflict 2d10 SV to the target, +1d6 per superior success.  This is reduced by mental armor.
+
+### Pain
+**Action:** Complex $\cdot$ **Duration:** Instant $\cdot$ **Infection Mod:** 6
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You activate the target's nerve endings and clusters, inflicting a painful burning sensation.  Treat as a pain effect; the target must take their next action to flee away from the async or area at full movement.
+
+### Psi Shield
+**Action:** Complex $\cdot$ **Duration:** Sustained $\cdot$ **Infection Mod:** 2
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You rally the mind's defenses against psychic attacks.  Increase mental armor by 1d6, +1d6 per superior success.
+
+### Psychic Stab
+**Action:** Complex $\cdot$ **Duration:** Instant $\cdot$ **Infection Mod:** 6
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You trigger dangerous neurochemical impulses and biofeedback in the target's brain and nervous system.  You inflict 2d10 DV, +1d6 per superior success, reduced by mental armor.
+
+### Sense Infection
+**Action:** Complex $\cdot$ **Duration:** Instant $\cdot$ **Infection Mod:** 2
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You detect whether the target is infected with a biological nanovirus or nanoplague strain of the exsurgent virus -- or if they are an async.  You know only whether or not the target is infected; superior successes may provide gut feelings about the target's specific strain and its effects.
+
+### Short Circuit
+**Action:** Complex $\cdot$ **Duration:** Instant $\cdot$ **Infection Mod:** 6
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You force the target's synapses to misfire.  This functions like a shock attack; the target loses neuromuscular control, falls down, and is incapacitated for 1 action turn (+2 turns per superior success) and stunned for 3 minutes.
+
+### Spam
+**Action:** Complex $\cdot$ **Duration:** Action Turns $\cdot$ **Infection Mod:** 6
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You overload and flood the target's sensory cortices, spamming them with confusing and distracting sensory input.  The target is impaired, suffering -10 to all actions, plus an extra -10 per superior success, for WIL $\div$ 5 action turns.
+
+### Static
+**Action:** Complex $\cdot$ **Duration:** Sustained $\cdot$ **Infection Mod:** 4
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You generate an anti-psi jamming field, impeding the use of ranged sleights within Close range by -30.  This sleight has no effect on self or Touch range sleights.
+
+### Subliminal
+**Action:** Complex $\cdot$ **Duration:** Hours $\cdot$ **Infection Mod:** 10
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You implant a single post-hypnotic suggestion into the target's mind which they will carry out as if it was their own idea.  Implanted suggestions must be short and simple; the GM may require suggestions be encompasses in a short sentence (for example: "open the airlock" or "hand over the weapon").  Suggestions may include a short trigger condition ("when the alarm goes off, ignore it").  The target receives a WIL Check to resist any suggestion that is immediately life threatening ("jump off the bridge") or that violates their motivations or personal strictures.
+
+### Tranquility
+**Action:** Complex $\cdot$ **Duration:** Minutes $\cdot$ **Infection Mod:** 4
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You calm the target, relieving stress and anxiety.  The target is relived of the effects of an acute stress response or triggered disorder for WIL $\div$ 5 minutes.  You may not use this sleight on yourself.
