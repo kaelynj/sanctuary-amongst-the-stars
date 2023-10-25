@@ -6,7 +6,7 @@ Not all of your character's actions take place on missions or in scenarios.  In 
 
 
 # Rez Points
-(Taken from pg, 366) Rez Points (RP) are a method for measuring your character's advancement.  You use them to define how your PC learns and grows, bringing them into a higher resolution, a sharper focus.  They represent learning experiences and growth and the GM determines when to assign them.
+(Taken from pg., 366) Rez Points (RP) are a method for measuring your character's advancement.  You use them to define how your PC learns and grows, bringing them into a higher resolution, a sharper focus.  They represent learning experiences and growth and the GM determines when to assign them.
 
 ### Rez Points & Forks
 
