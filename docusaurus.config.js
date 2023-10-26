@@ -110,7 +110,7 @@ const config = {
             position: 'left',
             label: 'Player Resources',
           },
-          {to: '/journal', label: 'Campaign Journal', position: 'left'},
+          {to: '/blog', label: 'Campaign Journal', position: 'left'},
           {
             href: 'https://github.com/kaelynj/sanctuary-amongst-the-stars/',
             label: 'GitHub',
@@ -159,8 +159,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/journal',
+                label: 'Campaign Journal',
+                to: '/blog',
               },
               {
                 label: 'GitHub',
