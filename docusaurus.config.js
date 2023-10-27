@@ -126,7 +126,7 @@ const config = {
             items: [
               {
                 label: 'Game Mechanics',
-                to: '/docs/Game Mechanics',
+                to: '/docs/Game Mechanics/getting-started',
               },
               {
                 label: 'Player Resources',
