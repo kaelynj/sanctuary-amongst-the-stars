@@ -1,7 +1,7 @@
 
-Your actions online are largely influenced by the particular system(s) you are accessing.  The following list is not comprehensive, btut should give your and your GM a basis for handling online tasks.
+Your actions online are largely influenced by the particular system(s) you are accessing.  The following list is not comprehensive, but should give your and your GM a basis for handling online tasks.
 
-Keep in mind that your actions are limited by your current [[Devices#Accounts & Access Privileges|device access priviliges]].  If you wish to do something that your privileges do not allow -- access a file ine a restricted riectory, edit a log, manipulate a security device -- then you must hack the system to do so.  Actions that specifically require hacking are detailed under [[Hacking]], and [[Hacking#System Subversion|Subversion]].
+Keep in mind that your actions are limited by your current [[Devices#Accounts & Access Privileges|device access priviliges]].  If you wish to do something that your privileges do not allow -- access a file in a restricted directory, edit a log, manipulate a security device -- then you must hack the system to do so.  Actions that specifically require hacking are detailed under [[Hacking]], and [[Hacking#System Subversion|Subversion]].
 
 Unless otherwise noted, these actions each take a complex action but require no skill test, assuming you have access privileges.
 
