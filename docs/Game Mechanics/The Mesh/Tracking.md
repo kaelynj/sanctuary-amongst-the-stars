@@ -1,3 +1,8 @@
+---
+sidebar_position: 7
+sidebar_label: Tracking Users
+---
+
 # Tracking
 
 Every time you interact with other systems on the mesh, you leave traces of your presence.  Logins are recorded, access is logged, and most devices even keep a record of all other devices that have been within radio range.  At the least your [mesh ID](Authentication%20&%20Encryption.md#mesh-id) will be recorded, and possibly other data as well: type of device, length of connection, apps used, AR perceived, time, physical location, and possibly the mesh IDs of other systems you were connected to.  On top of this, apps and services -- particularly commercial ones -- keep a usage history and often surreptitiously log other data about you, which is then transmitted to their vendors and sold to advertising networks and other data brokers.  This may include friends lists, installed apps, browsing history, personal data, cached forms, and a "fingerprint" of your device that can be used to track you online even if you switch your mesh ID.

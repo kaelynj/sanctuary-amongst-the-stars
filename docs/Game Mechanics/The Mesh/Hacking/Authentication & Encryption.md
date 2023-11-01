@@ -1,8 +1,13 @@
+---
+sidebar_position: 6
+sidebar_label: Authentication & Encryption
+---
+
 Mesh security relies heavily on authentication and encryption to identify legitimate users and keep protected data from being intercepted
 
 ## Mesh ID
 ---
-Your mesh ID is a unique identifier code that distinguishes you from every other user and device on the mesh.  Your cranial computer or ecto automatically associates this ID address with your accounts and screen names, enabling you to receive messages and other transmissions.  This ID is automatically generated each time you come online and required for almost all online interactions.  These interactions are universally logged, leaving a data trail that can be used to [track your activity](Tracking.md) [[Tracking|track your activity]].  Fortunately, [[Services|anonymizing services]] are available for those who value their privacy.
+Your mesh ID is a unique identifier code that distinguishes you from every other user and device on the mesh.  Your cranial computer or ecto automatically associates this ID address with your accounts and screen names, enabling you to receive messages and other transmissions.  This ID is automatically generated each time you come online and required for almost all online interactions.  These interactions are universally logged, leaving a data trail that can be used to [track your activity](Tracking.md).  Fortunately, [anonymizing services](../Tracking.md#anonymous-proxy-services) are available for those who value their privacy.
 
 Many mesh IDs are publicly registered (and in some jurisdictions, this is legally mandated).  Looking up a registered mesh ID is trivial.  Registration data may include a name, physical address, and social media profile if so desired.
 
@@ -10,9 +15,9 @@ Many mesh IDs are publicly registered (and in some jurisdictions, this is legall
 ---
 To access any mesh device or service, you need an account.  Your account links to your mesh ID and determines your access privileges -- what you are allowed to see and do with the device/service.  As some systems are more restrictive than others, the GM ultimately decides what privileges an account provides.  There are four types of accounts: **public**, **user**, **security**, and **admin**.
 
-> [!note] Account Shell
-> When you log onto a system, an account shell is created.  This account shell is the user interface that allows you to interact with the system.  This process represents your presence as you access the system.  It can be attacked in [[Mesh Combat]].
-
+:::note Account Shell
+When you log onto a system, an account shell is created.  This account shell is the user interface that allows you to interact with the system.  This process represents your presence as you access the system.  It can be attacked in [Mesh Combat](Mesh%20Combat.md#mesh-combat).
+:::
 
 
 ## Public Accounts
@@ -43,7 +48,7 @@ This system authenticates the user's ego ID, verified with a brainwave scan.  As
 If you have implants or embedded hardware, these are directly spliced into you nervous system, with the physical links themselves providing the authentication.
 
 ## Mesh ID
-Some systems accept your [[Authentication & Encryption#Mesh ID|mesh ID]] as authentication.  This is extremely common with most public systems, which merely log the mesh ID of any user that wishes access.  Other systems will only allow access to specific mesh IDs, but there are vulnerable to [[Authentication & Encryption#Spoofing|spoofing attacks]].
+Some systems accept your [mesh ID](#mesh-id) as authentication.  This is extremely common with most public systems, which merely log the mesh ID of any user that wishes access.  Other systems will only allow access to specific mesh IDs, but there are vulnerable to [spoofing attacks](#spoofing).
 
 ## Other Account 
 If you have access to an account on one system or service, and are logged in, this may give you automatic access to accounts on related systems or services.  For example, having an account with a social network portal may give you free access to certain online news feeds or commercial data archives.  This is also the method used for slaved devices, where access to the master device automatically grants you access to its slaved devices.  hackers favor going after master accounts as a way of accessing other systems.
@@ -64,15 +69,16 @@ Since hacking or breaking encryption can be challenging or take time, it is some
 If you can somehow acquire the passcode, passkey, biometrics, or quantum-entangled device used to authenticate an account, you can log in as a legitimate user, no tests necessary.  This may require creative means to acquire: theft, blackmail, bribery, social engineering, forknapping, or unsavory methods like torture.
 
 ## Forging Authentication
-Lacking actual credentials, you can try to fake them.  Biometric and passkey systems can potentially be forged by hackers who are able to get a look at the originals.  The means and techniques for doing so differ and are beyond the scope of this book, but successfully forging such systems would allow a hacker to log in as the legitimate user.  At the least, forging should require multiple skill tests (for example, [[Skills#Infosec|Infosec]] and [[Skills#Hardware|Hardware: Electronics]] to extract a retinal print from a retinal scanner's memory, and [[Skills#Medicine|Medicine: Biotech]] to grow a duplicate eye) and lengthy timeframes.
+Lacking actual credentials, you can try to fake them.  Biometric and passkey systems can potentially be forged by hackers who are able to get a look at the originals.  The means and techniques for doing so differ and are beyond the scope of this book, but successfully forging such systems would allow a hacker to log in as the legitimate user.  At the least, forging should require multiple skill tests (for example, [Infosec](../../Skills.md#infosec) and [Hardware: Electronics](../../Skills.md#hardware-field) to extract a retinal print from a retinal scanner's memory, and [Medicine: Biotech](../../Skills.md#medicine-field) to grow a duplicate eye) and lengthy timeframes.
 
 ## Spoofing
 You can attempt to disguise your connection as if it came from a legitimate user or system.  If successful, the recipient system is fooled by the charade and treats your commands and other traffic as legitimate.
 
-To spoof signals, you must first successfully monitor an active connection between the two systems using a [[Devices#Sniffing|sniffer app]].  Armed with this data, you can use it to mask your own signals with a spoofer app.  This requires a complex action and a [[Hacking#Hacking Test|Hacking Test]] between you and the target system (the one *receiving* the signals).  If you win, your communications are treated as if coming from the legitimate system.  If the firewall loses the contest but also succeeds, it is aware that there are discrepancies with the transmission (which is not that unusual).  It may investigate further; this requires another Hacking Test (the spoofer suffers -30 against a [[Mesh Introduction#VPNs Virtual Private Networks|VPN]]); if the defender wins, they detect evidence that incoming communications are being tampered with and may respond accordingly.
+To spoof signals, you must first successfully monitor an active connection between the two systems using a [sniffer app](../Devices.md#sniffing).  Armed with this data, you can use it to mask your own signals with a spoofer app.  This requires a complex action and a [Hacking Test](Hacking.md#hacking-test) between you and the target system (the one *receiving* the signals).  If you win, your communications are treated as if coming from the legitimate system.  If the firewall loses the contest but also succeeds, it is aware that there are discrepancies with the transmission (which is not that unusual).  It may investigate further; this requires another Hacking Test (the spoofer suffers -30 against a [VPN](../Mesh%20Introduction.md#vpns-virtual-private-networks)); if the defender wins, they detect evidence that incoming communications are being tampered with and may respond accordingly.
 
-> [!info]+
-> Note that spoofing only allows you to fake signals from one system to another.  To fake signals back the other way, you must succeed in a [[Hacking#Hacking Test|Hacking Test]] against the other system as well.  Successful man-in-the-middle attacks against both systems can be challenging but quite devastating.
+:::info
+Note that spoofing only allows you to fake signals from one system to another.  To fake signals back the other way, you must succeed in a [Hacking Test](Hacking.md#hacking-test) against the other system as well.  Successful man-in-the-middle attacks against both systems can be challenging but quite devastating.
+:::
 
 # Encryption
 There are two types of cryptography commonly used in *Eclipse Phase*: public key and quantum.
@@ -89,4 +95,4 @@ While quantum-key systems have an advantage over public-key systems, they are mo
 What this means is that public-key-encrypted files are somewhat safe and quantum-encrypted communications are absolutely safe.  GMs should take note: this may be useful to PCs, but may also hinder them.  If the PCs need to get at something that is encrypted, they may need to deploy non-hacking methods to get the secret key/passcode to find some way to bypass the encryption entirely.
 
 ## Quantum Codebreaking
-Quantum computers can also be used to break public-key encryption.  This is an [[Skills#Infosec|Infosec]] task action with a timeframe of 1 week.  Once started, the quantum computer finishes the job on its own; you do not need to provide constant oversight.  This process does not benefit from time-accelerated simulspaces.  GMs should modify this timeframe to fit the needs of their game.  Note that quantum computers cannot break quantum-encrypted communications, only public-key-encrypted files.
+Quantum computers can also be used to break public-key encryption.  This is an [Infosec](../../Skills.md#infosec) task action with a timeframe of 1 week.  Once started, the quantum computer finishes the job on its own; you do not need to provide constant oversight.  This process does not benefit from time-accelerated simulspaces.  GMs should modify this timeframe to fit the needs of their game.  Note that quantum computers cannot break quantum-encrypted communications, only public-key-encrypted files.

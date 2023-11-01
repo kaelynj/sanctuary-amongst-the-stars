@@ -305,6 +305,8 @@ Survival encompasses the skills needed to survive in and maneuver through hostil
 **Specializations:** Forage, Hunt, Navigate, Track
 
 ---
+---
+
 ## Know Skills
 ---
 
@@ -327,6 +329,42 @@ Academic fields cover all of the disciplines of scientific knowledge and advance
 **Sample Fields:** Archeology, Astrobiology, Astronomy, Astrophysics, Astrosociology, Biology, Botany, Chemistry, Computer Science, Cryptography, Economics, Engineering, Genetics, Geology, History, Law, Linguistics, Mathematics, Memetics, Nanotechnology, Physics, Political Science, Psychology, Sociology, Xeno-archeology, Xenolinguistics, Zoology
 
 **Specializations:** As appropriate to the field
+
+# Arts
+---
+**Linked Aptitude:** Intuition
+
+Arts fields include various modes of artistic expression and evaluation.  This is a particularly useful skill in economies and clades where creativity and vision can be a key component of your reputation.  Use Art fields to bring your imagination to life, create a work of art, critique an artist's style or performance, or appraise an artistic project's work.
+
+Note that Art fields should not be used in place of Active skills to directly deceive, influence, or sway others.  Crafting a realistic augmented reality illusion requires [Program](#program) skill, incorporating a hidden message within a public song or speech would rely on [Deceive](#deceive) skill, making a speech to convince a panel or rally a crowd requires [Persuade](#persuade) or [Provoke](#provoke).  However, Art fields may be used as complementary skills in such cases.
+
+**Sample Fields:** Architecture, AR Design, Criticism, Dance, Drama, Drawing, Music, Painting, Performance, Sculpture, Singing, Speech, VR Design, Writing
+
+**Specializations:** As appropriate to the field
+
+
+# Interests
+---
+**Linked Aptitude:** Cognition
+
+Interest fields includes specialized knowledge in any topic that might be considered a hobby, recreational pursuit, social topic, or other obsession.  Use Interest fields whenever you need to recall or use knowledge related to that particular subject.
+
+**Sample Fields:** Celebrities, Conspiracies, Factors, Exhumans, Exoplanet Colonies, Gambling, Hypercorp Politics, Lunar Habitats, Martian Beers, Morphs, Reclaimer Blogs, Scum Drug Dealers, Spaceship Models, Strategy Games, TITAN Tech, Triad Economics, Transhuman Factions, Underground XP, VR Games
+
+**Specializations:** As appropriate to the field
+
+# Professional Training
+---
+**Linked Aptitude:** Cognition
+
+Profession fields cover knowledge and training in the practices and procedures of various legal and extralegal trades.  Use Profession fields to recall specialized knowledge available to someone trained or experienced in that particular industry: notable figures, common practices, apps and gear used, logistics, scheduling, accounting, terminology, legalities, internal politics, trade history, ethics standards, major locations, influential hypercorps/cartels/collectives, and so on.
+
+**Sample Fields:** Accounting, Administration, ASteroid Mining, Body Bank Ops, Bodyguarding, Cool Hunting, Con Artistry, Data Processing, Ego Hunting, Emergency Services, Entertainment, Fencing, Field Science, First-Contact Ops, Flight Crew Ops, Freelancing, Gas Mining, Gatecrashing, Habitat Ops, Instruction, Investigation, Journalism, Lab Ops, Medical Services, Military Ops, Morph Design, Nanofacturing, Network Engineering, Police Ops, Racketeering, Scavenging, Security Ops, Service Work, Smuggling, Social Engineering, Social Services, Spycraft, Surveying, System Administration, Terraforming
+
+**Specializations:** As appropriate to the field.
+
+
+---
 
 
 ### Using Know Skills
