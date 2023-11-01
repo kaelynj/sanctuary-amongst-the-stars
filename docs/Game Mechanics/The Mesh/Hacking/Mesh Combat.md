@@ -1,4 +1,4 @@
-
+# Mesh Combat
 Mesh "combat" is an abstraction.  Unlike physical combat, there are no dueling avatars, no digital maneuvering, no deadly programs.  mesh combat represents efforts to undermine the stability of software -- infomorph mind-states (including #cyberbrains), account shells, apps (including the firewall), or operating systems themselves -- forcing them to crash.  Mesh combat follows the normal rules for combat, as described below.
 
 

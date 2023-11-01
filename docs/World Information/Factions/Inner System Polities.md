@@ -3,5 +3,7 @@ The inner system is the cradle of transhumanity, home to its largest political b
 
 ---
 
-# The Lunar-Lagrange Alliance
+## The Lunar-Lagrange Alliance
+
+## The Planetary Consortium
 

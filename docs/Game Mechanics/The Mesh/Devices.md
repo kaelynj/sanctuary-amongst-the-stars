@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+sidebar_label: Mesh Devices
+---
+
 # Devices
 ---
 ---
@@ -83,34 +88,3 @@ Microwave links function much like laser links, except that they do not require 
 ## Accessing Multiple Systems
 ---
 Online, you may connect to and interact with numerous devices, networks, and services simultaneously.  You can only focus on and interact with one system at a time, though you may switch between them freely, even within the same action turn.  You could, for example, use 3 quick actions to directly message your friend, instruct your home oven to start cooking dinner, and ding a stranger's social network profile, all within the same action turn.  You may also send the same command to multiple meshed systems, slaved devices, or teleoperated drones with the same quick action.  However, any complex action may only be directed towards one system at a time.
-
-
-# Authentication
----
----
-Mesh security relies heavily on authentication and encryption to identify legitimate users and keep protected data from being intercepted
-
-## Mesh ID
-
-## Accounts & Access Privileges
-
-### Public Accounts
-
-### User Accounts
-
-### Security Accounts
-### Admin Accounts
-
-## Authentication Methods
-
-## Circumventing Authentication
-
-### Acquiring Credentials
-
-### Forging Authentication
-
-### Spoofing
-
-## Encryption
-
-### Codebreaking

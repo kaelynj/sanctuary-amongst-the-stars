@@ -1,3 +1,9 @@
+---
+sidebar_position: 1
+sidebar_label: Mesh Introduction
+---
+
+# Introduction to the Mesh
 Getting online in *Eclipse Phase* is easy -- everyone and everything is meshed, all the time.  Most transhumans get online via the mesh insert implants within their head.  This headware enables them to network with other devices around them and store data and files.  Best of all, it's all mentally controlled.  You can browse mesh sites, play games, interface with gear, and talk with your friends, all within your head!  Messages are mentally recorded in your voice (or another of your choosing) or transcribed into text, all without speaking aloud.  Sensory input is routed through your mesh inserts directly into your brain and experienced as augmented reality.
 
 You can also skin your perceptions with AR data, so that you always view the world with the hazy glow of a sunset in the background or experience it with your own personal soundtrack.  Walls are never blank, and rooms never quiet, unless you want them to be.  You can even mute or filter out things you don't want to see or hear.
@@ -8,9 +14,9 @@ Given that most mesh interactions take place within your head, face-to-face inte
 ---
 However, those without cranial computers and mesh inserts must rely on **ecto** devices for mesh access.  These portable and flexible computers are typically worn as a bracelet or held as a tablet.  They feature interactive holographic displays or transmit AR data to the user via worn glasses, contacts, and decorative ear pieces.  Ectos are slower than mesh inserts; using them inflicts a -10 modifier to all mesh actions.
 
-> [!info]
->## Privacy Mode
->If you'd prefer to keep a low profile, you can go into privacy mode, which provides a small degree of anonymity.  Privacy mode hides your social profile -- no one will be able to view your data, but they will still be able to anonymously ping and ding your rep scores.  Privacy mode will also ask sensors and other devices to ignore and not track you, though depending on their configurations or AIs they may simply ignore this request.  It applies a -30 modifier to [[Tracking|mesh tracking]] attempts.  Privacy mode is considered rude or gauche in some circumstances.  An option to allow authenticated police/security override this mode is legally required in some authoritarian jurisdictions, but it may be easily toggled off.
+:::info Privacy Mode
+If you'd prefer to keep a low profile, you can go into privacy mode, which provides a small degree of anonymity.  Privacy mode hides your social profile -- no one will be able to view your data, but they will still be able to anonymously ping and ding your rep scores.  Privacy mode will also ask sensors and other devices to ignore and not track you, though depending on their configurations or AIs they may simply ignore this request.  It applies a -30 modifier to [[Tracking|mesh tracking]] attempts.  Privacy mode is considered rude or gauche in some circumstances.  An option to allow authenticated police/security override this mode is legally required in some authoritarian jurisdictions, but it may be easily toggled off.
+:::
 
 # Mesh Topology
 ---

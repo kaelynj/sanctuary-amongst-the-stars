@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+sidebar_label: Online Research
+---
+
 # Research Tests
 ---
 Online research is a crucial element of most *Eclipse Phase* scenarios, as characters take to the mesh to unearth backgrounds and uncover clues.  Cammon and inconsequential public information is immediately available without requiring a roll at all.  your muse will handle these searches for you, passing on the results while you focus on other things.

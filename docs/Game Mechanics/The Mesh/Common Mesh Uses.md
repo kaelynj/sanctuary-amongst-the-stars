@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+sidebar_label: Common Mesh Uses
+---
+
 Using the mesh is an everyday, intuitive affair for most transhumans.  This section details some of the more common uses and any considerations when it comes to security or hacking.
 
 # Augmented Reality [AR]
@@ -6,14 +11,14 @@ AR overlays data and sensory input from the mesh onto your physical senses.  Thi
 
 Most habitats and businesses transmit data on public AR channels.  Directories, signs, maps, help guides, tourist information, available services, and public alerts are easily toggled and perceived.  Corporations and private groups also offer their own AR channels to authenticated users, ranging from streaming music and networked games to underground night life and black-market services.
 
-> [!info]
-> AR also has its downsides: if you are hacked, it can be used [[System Subversion#Inject AR Illusion|against you]].  (AR sensory input is also a potential vector for so-called basilisk mind hacks)
-
+:::info
+AR also has its downsides: if you are hacked, it can be used [against you](Hacking/System%20Subversion.md#inject-ar-illusion).  (AR sensory input is also a potential vector for so-called basilisk mind hacks)
+:::
 
 ## AR Mist and Filters
 Online advertising is still a major business in the inner system.  Modern adverts, political screeds, scams, and porn are experienced as entoptics and other AR sensory input.  These are often transmitted on public channels and highly intrusive or distracting.  It's hard to ignore ads that cite your name (pulled from your public profile) at high-volume, bombard you with tickles and NSFW visuals, assault you with savory smells for desserts, or trigger the sensation of bugs crawling on your skin to sell insecticides.  Though these can be filtered out, unfortunately, advertisers seem to be winning the ongoing war between adverts and blockers, and many are not above using malware techniques to bypass your security or even permanently infect your devices.
 
-In some locations, AR adverts can be so overwhelming, they are referred to as "mist."  This fog of data can inflict an impairment modifier of -10 to -30, though this can be overcome with a successful [[Skills#Interface|Interface Test]] (with mist modifiers applied).  Alternatively, you can turn off AR inputs entirely, but this may impeded you in more significant ways.
+In some locations, AR adverts can be so overwhelming, they are referred to as "mist."  This fog of data can inflict an impairment modifier of -10 to -30, though this can be overcome with a successful [Interface Test](../Skills.md#interface) (with mist modifiers applied).  Alternatively, you can turn off AR inputs entirely, but this may impeded you in more significant ways.
 
 ## Skinning
 Since reality can be overlaid with hyper-real entoptics, you can "skin" your environment by modifying your perceptual input to fit your particular tastes or mood.  Need your spirits boosted?  Pull up a skin that makes it seem like you're outdoors, with the sun shining down, the sounds of gentle surf in the background, and butterflies drifting lazily overhead.  Pissed off?  Be comforted as flames engulf the walls and thunder grumbles ominously in the distance.  You can go about your day accompanies by your own personal soundtrack or the smell of roses, the ocean air, or freshly baked pastries.  Tired of listening to your co-worker's babble?  A simple filter can block them out, replacing them with a gray-shaded outline and the pleasant sounds of birds.  Entire libraries of skins may be freely downloaded for the express purpose of making the cheaply fabricated less distasteful and countering the space-induced cabin fever of cramped environments.
@@ -21,11 +26,11 @@ Since reality can be overlaid with hyper-real entoptics, you can "skin" your env
 
 # Virtual Reality [VR]
 ---
-Only [[Devices#Servers|servers]] have the bandwidth and processing requirements to run full VR simulspaces, especially ones with multiple users.  For extra stability, most VR services are offered in locations with hardwired physical networks.  Comfortable enclosed couches are provided for users, as their physical sense are cut off.  See [[Virtual Reality]] for more information.
+Only [servers](Devices.md#servers) have the bandwidth and processing requirements to run full VR simulspaces, especially ones with multiple users.  For extra stability, most VR services are offered in locations with hardwired physical networks.  Comfortable enclosed couches are provided for users, as their physical sense are cut off.  See [Virtual Reality](#virtual-reality-vr) for more information.
 
 # Backups, Forking, Egocasting
 ---
-Most people have backups taken and forks created at reputable body banks.  The sanctity of egos is highly valued, so mesh security tends to be top notch.  Even black-market body banks and darkcasters have reputations to protect.  If you have a cyberbrain or access to an ego bridge, you can make backups and forks at any time, but are reliant on your own security.  Inactive backups/forks/egos are simply large files that can be stored on any device.  Activated [[Infomorphs]], however, can only be run on hosts or servers.
+Most people have backups taken and forks created at reputable body banks.  The sanctity of egos is highly valued, so mesh security tends to be top notch.  Even black-market body banks and darkcasters have reputations to protect.  If you have a cyberbrain or access to an ego bridge, you can make backups and forks at any time, but are reliant on your own security.  Inactive backups/forks/egos are simply large files that can be stored on any device.  Activated Infomorphs, however, can only be run on hosts or servers.
 
 # Banking
 ---
@@ -33,7 +38,7 @@ Physical currency is a thing of the past.  Polities that still use money deploy 
 
 # Communications
 ---
-Messaging, video calls (using avatars), and emails remain dominant forms of communication, though these are sometimes hampered by distance lag.  For discussions across great distances or that require face-to-face privacy, forks are deployed.  Non-encrypted comms can be [[Devices#Sniffing|sniffed]] by hostile parties.
+Messaging, video calls (using avatars), and emails remain dominant forms of communication, though these are sometimes hampered by distance lag.  For discussions across great distances or that require face-to-face privacy, forks are deployed.  Non-encrypted comms can be [sniffed](Devices.md#sniffing) by hostile parties.
 
 # Experience Playback [XP]
 ---
@@ -56,28 +61,28 @@ Along with AR and VR console games, multiplayer interactive alternate-reality ga
 
 These games present stories and plots experienced through skinned AR environments and interactions with other players (and paid NPCs) both online and in-person, with more detailed VR immersion scenarios available as well.
 
-MARGs function as [[Mesh Introduction#VPNs Virtual Private Networks|VPNs]].  Much like social networks, they treat their customers as products and heavily monitor their activities.  Hacked game accounts can reveal a treasure trove of tracking data.
+MARGs function as [VPNs](Mesh%20Introduction.md#vpns-virtual-private-networks).  Much like social networks, they treat their customers as products and heavily monitor their activities.  Hacked game accounts can reveal a treasure trove of tracking data.
 
 
 # Location Services or Mapping
 ---
 You can almost always pinpoint your location on an inhabited world or in a habitat by measuring signals either from orbiting GPS satellites or nearby mesh nodes.  Finding your way is easy with AR cues such as visual trails or arrows or audio directions.  Location services can tell you where to find the nearest local autocook, give you review on nearby cafes, and tell you who in the area matches your dating profile, personal interests, or is looking for a game match.
 
-A side effect of location services is that your movements are logged by every nearby mesh node due to automated pings and your physical activity can be correlated with your online activity and [[Authentication & Encryption#Mesh ID|mesh ID]].  This feature is considered an advantage by parents watching over their kids, businesses monitoring their employees, and friends seeking out other friends, but can be a detriment to those seeking a low profile.
+A side effect of location services is that your movements are logged by every nearby mesh node due to automated pings and your physical activity can be correlated with your online activity and [mesh ID](Hacking/Authentication%20&%20Encryption.md#mesh-id).  This feature is considered an advantage by parents watching over their kids, businesses monitoring their employees, and friends seeking out other friends, but can be a detriment to those seeking a low profile.
 
 # Media & News
 ---
-Recorded and streamed VR, XP, 3D video, music spoken word, podcasts, and even old-fashioned flat vids and audiobooks are offered by a variety of services.  The sheer amount of media available is dauting -- most people carry personal libraries in their head that contain far more than they will ever consume.  Entertainment for even niche interests is never farther than a few mental menus away.  News and media feeds are highly personalized and curated to your tastes by your [[AIs & Muses#Muses|muse]].
+Recorded and streamed VR, XP, 3D video, music spoken word, podcasts, and even old-fashioned flat vids and audiobooks are offered by a variety of services.  The sheer amount of media available is dauting -- most people carry personal libraries in their head that contain far more than they will ever consume.  Entertainment for even niche interests is never farther than a few mental menus away.  News and media feeds are highly personalized and curated to your tastes by your [muse](AIs%20&%20Muses.md#muses).
 
 Many venues transmit their own local AR media channels, to keep social groupings focused on the same vibe.  When you can stream a live performance from a DJ on Mars directly into your head almost anywhere, most club-goers prefer getting on the same channel so they can all dance to the same beat, experience the same visuals, and share the energy.
 
 # Mobile Offices
 ---
-Online collaboration tools, remote networking, and ALI assistants mean that work is rarely tied to a physical location -- most people carry their jobs with them.  For security purposes, [[Mesh Introduction#VPNs Virtual Private Networks|VPNs]] are mandatory.  Encrypted data module implants are often mandatory for employees that carry sensitive company data in their heads, possibly protected by a dedicated corporate security AI.  Many hypercorps retain remote access privileges to their workers' mesh inserts and implants.
+Online collaboration tools, remote networking, and ALI assistants mean that work is rarely tied to a physical location -- most people carry their jobs with them.  For security purposes, [VPNs](Mesh%20Introduction.md#vpns-virtual-private-networks) are mandatory.  Encrypted data module implants are often mandatory for employees that carry sensitive company data in their heads, possibly protected by a dedicated corporate security AI.  Many hypercorps retain remote access privileges to their workers' mesh inserts and implants.
 
 # Coveillance
 ---
-Public sensor feeds are available to everyone on the mesh -- everyone is watched by everyone else.  These sensors provide real-time coverage of most public areas within a habitat, though they are subject to vandalism and sabotage.  Many private networks are also available, some of which are accessible for a fee or if you know the right people.  Sensors and coveillance are covered in detail in [[Surveillance Hacking]].
+Public sensor feeds are available to everyone on the mesh -- everyone is watched by everyone else.  These sensors provide real-time coverage of most public areas within a habitat, though they are subject to vandalism and sabotage.  Many private networks are also available, some of which are accessible for a fee or if you know the right people.  Sensors and coveillance are covered in detail in [Surveillance Hacking](Hacking/Surveillance%20Hacking.md#surveillance-hacking).
 
 
 # Social Networks
@@ -88,14 +93,14 @@ Reputation also plays a vital part in social networks, serving as a measure of e
 
 The drawback to some social networks is that *you* are the product.  *CivicNet*, *eXploreNet*, *Fame*, and similar networks all rack their users' mesh activity and build expansive profiles for advertising purposes.  This data is readily available to certain hypercorps and political entities, or anyone that manages to hack heavily protected social network servers.
 
-> [!info]
-> If you are hacked, your social network accounts may also be at risk.  Your profile could be altered, history viewed, and fake posts, pings, and dings made in your name.
-
+:::info
+If you are hacked, your social network accounts may also be at risk.  Your profile could be altered, history viewed, and fake posts, pings, and dings made in your name.
+:::
 
 
 # Tagging
 ---
 Entoptic tags are a way for people to "tag" a physical person, place or object with virtual data.  These e-tags are stored in networks local to the tagged item and move with the item if it changes location.  E-tags are viewable in AR and can hold almost any type of data, though short notes and pictures are the most common.  E-tags are often linked to particular social networks or circles within that network so that people can leave notes, reviews, memorabilia, media, and similar things for friends and colleagues.
 
-Finding hidden tags in an area requires an [[Skills#Interface|Interface Test]] at -30 at best or may be impossible without access to the right networks/devices (GM discretion).  Even when found, they may require [[Devices#Encryption|decryption]].
+Finding hidden tags in an area requires an [Interface Test](../Skills.md#interface) at -30 at best or may be impossible without access to the right networks/devices (GM discretion).  Even when found, they may require [decryption](Devices.md#encryption).
  
