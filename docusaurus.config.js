@@ -1,8 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+import {themes as prismThemes} from 'prism-react-renderer';
 
 // Define requirements for math and katex
 const math = require('remark-math');
@@ -174,8 +173,8 @@ const config = {
         copyright: `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License \u1F16D\u1F16F\u1F10F\u1F10E \n Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
     }),
 };
