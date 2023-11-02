@@ -25,8 +25,10 @@ You start with one free sleight, chosen from those available to your specific in
 ## Infection Rating
 Your async has an Infection Rating that represents the exovirus's influence.  This rating changes over time, depending on how frequently you use your abilities.
 
-Your base Infection Rating is Psi trait level $\times$ 10.
-
+Your base Infection Rating 
+$$
+    \text{Psi trait level}\  \times 10.
+$$
 Every time you use psi-gamma sleights or [push a sleight](using_psi.md#pushing-sleights), your Infection Rating [increases](using_psi.md#infection-modifiers).  Every time you recharge, it [decreases](using_psi.md#easing-the-infection).
 
 ### Infection Rating Thresholds
