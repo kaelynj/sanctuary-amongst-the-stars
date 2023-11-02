@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5669],{8994:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/sanctuary-amongst-the-stars/blog/tags/hello","allTagsPath":"/sanctuary-amongst-the-stars/blog/tags","count":2}')}}]);
