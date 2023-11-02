@@ -16,7 +16,7 @@ const config = {
   tagline: 'A campaign website',
   favicon: 'img/favicon.ico',
   // @ts-ignore
-  trailingSlash: 'false',
+  trailingSlash: 'true',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
