@@ -15,6 +15,7 @@ const config = {
   title: 'Eclipse Phase: Sanctuary Amongst The Stars',
   tagline: 'A campaign website',
   favicon: 'img/favicon.ico',
+  // @ts-ignore
   trailingSlash: 'false',
 
   // Set the production url of your site here
