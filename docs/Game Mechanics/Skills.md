@@ -67,11 +67,13 @@ Yu may opt to specialize in a given skill.  Specializations represent a focus in
 > | [Interface](#interface) | Cognition | Active, Technical | [Psi](#psi) | Willpower | Active, Mental, Psi |
 > | [Research](#research) | Intuition | Active, Technical | [Survival](#survival) | Intuition | Active, Mental |
 
-### Active Skills
+## Active Skills
 Active skills represent things your character does.  They usually require some sort of physical action and are the primary skills your character uses in action and combat scenes.
 
-# Athletics
+
+### Athletics
 ---
+
 **Type:** Active, Physical
 
 **Linked Aptitude:** Somatics
@@ -81,7 +83,9 @@ Use Athletics to scale a wall, tread water, throw a grenade, jump a crevasse, va
 
 **Specializations:** Acrobatics, Fly, Climb, Jump, Parkour, Run, Swim, Throw
 
-# Deceive
+
+
+### Deceive
 ---
 **Type:** Active, Social
 
@@ -92,7 +96,7 @@ Use Deceive to act, lie, bluff, misdirect, con someone, impersonate someone, or 
 
 **Specializations:** Act, Bluff, Con, Fast Talk, Impersonate
 
-# Exotic Skill: [Field]
+### Exotic Skill: [Field]
 ---
 **Type:** Active, Field
 This is a catch-all category for less-common skills.  This includes proficiency with unusual and archaic weaponry and skills that have a very narrow focus but require education, training, and experience to properly execute.
@@ -104,7 +108,7 @@ Use Exotic Skill if you want your character to be talented in a field that is no
 **Specializations:** As appropriate to the field
 
 
-# Fray
+### Fray
 ---
 **Type:** Active, Combat
 
@@ -117,7 +121,7 @@ Use Fray to dodge attacks, avoid falling objects, maneuver deftly through a crow
 **Specializations:** Full Defense, Guns, Melee
 
 
-# Free Fall
+### Free Fall
 ---
 **Type:** Active, Physical
 
@@ -129,7 +133,7 @@ Use Free Fall to push yourself down a micrograv tunnel, propel yourself across a
 
 **Specializations:** Jump, Parachute, Pull, Vacsuits
 
-# Guns
+### Guns
 ---
 **Type:** Active, Combat
 
@@ -140,7 +144,7 @@ Guns deal with the maintenance and use of firearms, seeker launchers, and cohere
 **Specializations:** Beam Weapons, Firearms, Plasma Weapons, Railguns, Seekers, Spray Weapons
 
 
-# Hardware: [Field]
+### Hardware: [Field]
 ---
 **Type:** Active, Field, Technical
 
@@ -153,7 +157,7 @@ Hardware handles the design, construction, repair, and alteration of different t
 **Specializations:** As appropriate to the field
 
 
-# Infiltrate
+### Infiltrate
 ---
 **Type:** Active, Physical
 
@@ -164,18 +168,18 @@ Infiltrate is the art of escaping detection.  Use Infiltrate to sneak past a gua
 **Specializations:** Blend In, Hide, Shadow, Sneak
 
 
-# Infosec
+### Infosec
 ---
 **Type:** Active, Technical
 
 **Linked Aptitude:** Cognition
 
-Infosec is short for "information security."  It incorporates training in electronic intrusion and counter-intrusion techniques, as well as use of cryptography tools.  Use Infosec to hack into electronic and mesh systems, subvert them, and protect them.  Also use it to encrypt and decrypt communications and files.  Most Infosec Tests are task actions.  See the sections on [the mesh](The%20Mesh/START%20HERE.md#mesh-introduction) for more details on mesh systems and applications of the Infosec skill.
+Infosec is short for "information security."  It incorporates training in electronic intrusion and counter-intrusion techniques, as well as use of cryptography tools.  Use Infosec to hack into electronic and mesh systems, subvert them, and protect them.  Also use it to encrypt and decrypt communications and files.  Most Infosec Tests are task actions.  See the sections on [the mesh](The%20Mesh/Mesh%20Introduction.md#introduction-to-the-mesh) for more details on mesh systems and applications of the Infosec skill.
 
 **Specializations:** Brainiac, Brute-Force Hack, Decrypt, Probe, Security, Sniff, Spoof, Subvert, VR Hack
 
 
-# Interface
+### Interface
 ---
 **Type:** Active, Technical
 
@@ -185,7 +189,7 @@ Interface is about using and understanding computers, electronics, networks, sen
 
 **Specializations:** Forge, Jam, Scan, Sensors, Weapon Systems
 
-# Kinesics
+### Kinesics
 ---
 **Type:** Active, Social
 
@@ -198,7 +202,7 @@ Though synthmorphs are designed to emote, reading them is more difficult; apply 
 **Specializations:** Detect Deception, Emote, Judge Intent
 
 
-# Medicine: [Field]
+### Medicine: [Field]
 ---
 **Type:** Active, Field, Technical
 
@@ -210,7 +214,7 @@ Medicine fields encompass healthcare, diagnosis and treatment, and the design an
 
 **Specializations:** As appropriate to the field
 
-# Melee
+### Melee
 ---
 **Type:** Active, Combat
 
@@ -220,7 +224,7 @@ Melee deals with fighting, whether unarmed or with held or implanted weapons.  U
 
 **Specializations:** Blades, Clubs, Disarm, Grapple, Implants, Unarmed
 
-# Perceive
+### Perceive
 ---
 **Type:** Active, Mental
 
@@ -231,7 +235,7 @@ The Perceive skill is awareness and use of your physical senses.  Use Perceive t
 
 **Specializations:** hear, Investigate, Scrounge, See, Smell
 
-# Persuade
+### Persuade
 ---
 **Type:** Active, Social
 
@@ -241,7 +245,7 @@ Persuade is the ability to convince others to do what you want through words and
 **Specializations:** Diplomacy, Negotiate, Motivate
 
 
-# Pilot: [Field]
+### Pilot: [Field]
 ---
 **Type:** Active, Field, Vehicle
 
@@ -253,7 +257,7 @@ Pilot is about maneuvering and controlling non-humanoid morphs, bots, and vehicl
 
 **Specializations:** As appropriate to the field
 
-# Program
+### Program
 ---
 **Type:** Active, Technical
 
@@ -264,7 +268,7 @@ Program deals with writing and modifying software code.  Use Program to write a 
 **Specializations:** AIs, Infomorphs, Malware, Nanofabrication, Piracy, VR
 
 
-# Provoke
+### Provoke
 ---
 **Type:** Active, Social
 
@@ -274,7 +278,7 @@ Provoke is your talent at emotional manipulation.  Use Provoke to taunt an oppon
 
 **Specializations:** Calm, Fluster, Inspire, Interrogate, Intimidate, Seduce, Taunt
 
-# Psi
+### Psi
 **Type:** Active, Mental, Psi
 
 **Linked Aptitude:** Willpower
@@ -283,7 +287,7 @@ Psi is the wielding of psychic abilities (sleights) to detect, manipulate, or ha
 
 **Specializations:** Control, Psi, Assault, Sense
 
-# Research
+### Research
 ---
 **Type:** Active, Technical
 
@@ -294,7 +298,7 @@ Research is your Google Fu, your skill at finding, analyzing, and understanding 
 **Specializations:** Blogs, Cloud Services, Deep Mesh, News Archives, Social Networks, Science Archives, Track
 
 
-# Survival
+### Survival
 ---
 **Type:** Active, Physical
 

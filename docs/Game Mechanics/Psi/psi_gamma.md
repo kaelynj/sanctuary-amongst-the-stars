@@ -102,17 +102,17 @@ You may not affect extra targets with this sleight, unless you have more than on
 ### Burst of Adrenaline
 **Action:** Complex $\cdot$ **Duration:** Minutes $\cdot$ **Infection Mod:** 6
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You revive the target with a rush of endorphins and energy.  They receive +1 [Vigor pool](../Action%20&%20Combat/Pools.md#vigor) for WIL $\div$ 5 minutes.  A target may only benefit from one burst of adrenaline at a time.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You revive the target with a rush of endorphins and energy.  They receive +1 [Vigor pool](../Pools.md#vigor) for WIL $\div$ 5 minutes.  A target may only benefit from one burst of adrenaline at a time.
 
 ### Burst of Clarity
 **Action:** Complex $\cdot$ **Duration:** Minutes $\cdot$ **Infection Mod:** 6
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You refresh the target's mind, enabling them to see things in a new light.  They receive +1 [Insight pool](../Action%20&%20Combat/Pools.md#insight) for WIL $\div$ 5 minutes.  A target may only benefit from one burst of clarity at a time.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You refresh the target's mind, enabling them to see things in a new light.  They receive +1 [Insight pool](../Pools.md#insight) for WIL $\div$ 5 minutes.  A target may only benefit from one burst of clarity at a time.
 
 ### Burst of Confidence
 **Action:** Complex $\cdot$ **Duration:** Minutes $\cdot$ **Infection Mod:** 6
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You instill the target with renewed determination and empowerment.  They receive +1 [Moxie pool](../Action%20&%20Combat/Pools.md#moxie) for WIL $\div$ 5 minutes.  A target may only benefit from one burst of confidence at a time.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You instill the target with renewed determination and empowerment.  They receive +1 [Moxie pool](../Pools.md#moxie) for WIL $\div$ 5 minutes.  A target may only benefit from one burst of confidence at a time.
 
 ### Cloud Memory
 **Action:** Complex $\cdot$ **Duration:** Minutes $\cdot$ **Infection Mod:** 6

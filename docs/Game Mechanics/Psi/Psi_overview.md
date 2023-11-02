@@ -8,7 +8,7 @@ In *Eclipse Phase*, psi abilities are the result of an infection by the mutant W
 
 #### Prerequisites
 
-To be an async, you must purchase the psi trait during character creation.  It is possible to become an async in game via infection by the Watts-MacLeod strain.  To wield psi, you must purchase [psi sleights](psi-sleights#psi-sleights) with CP or [Rez Points](../../Player%20Resources/rez-points#rez-points).  To use psi-gamma sleights, you will also need the [Psi skill](../Action%20&%20Combat/Skills#psi), though you may default to WIL.
+To be an async, you must purchase the psi trait during character creation.  It is possible to become an async in game via infection by the Watts-MacLeod strain.  To wield psi, you must purchase [psi sleights](psi-sleights#psi-sleights) with CP or [Rez Points](../../Player%20Resources/rez-points#rez-points).  To use psi-gamma sleights, you will also need the [Psi skill](../Skills#psi), though you may default to WIL.
 
 #### Morphs & Psi
 Async abilities only function on a biological substrate -- meaning that you require a biological brain and nervous system.  An async sleeved in a synthmorph, infomorph, or a biomorph with a cyberbrain may not use their sleights.
@@ -18,7 +18,7 @@ The process of infection has a permanent effect on your async's mind.  Upon beco
 
 # Sleights
 ---
-Asyncs manipulate their egos and otherwise create effects that cannot be matched or mimicked by technological means.  To use these abilities, they train their mental processes and practice cognitive algorithms called sleights, which they can subconsciously recall and use as necessary.  Sleights fall into two categories: [psi-chi](psi_chi#psi-chi-sleights) (cognitive enhancement) and [psi-gamma](psi_gamma#psi-gamma-sleights) (brainwave reading and manipulation).  Psi-chi sleights are passive, always-on abilities.  Psi-gamma sleights must be activated, requiring an action and a [Psi skill test](../Action%20&%20Combat/Skills#psi).
+Asyncs manipulate their egos and otherwise create effects that cannot be matched or mimicked by technological means.  To use these abilities, they train their mental processes and practice cognitive algorithms called sleights, which they can subconsciously recall and use as necessary.  Sleights fall into two categories: [psi-chi](psi_chi.md#psi-chi-sleights) (cognitive enhancement) and [psi-gamma](psi_gamma.md#psi-gamma-sleights) (brainwave reading and manipulation).  Psi-chi sleights are passive, always-on abilities.  Psi-gamma sleights must be activated, requiring an action and a [Psi skill test](../Skills.md#psi).
 
 You start with one free sleight, chosen from those available to your specific infection sub-strain.  All other sleights must be bought with Customization Points (during character creation) or Rez Points (during gameplay).
 
@@ -29,7 +29,7 @@ Your base Infection Rating
 $$
     \text{Psi trait level}\  \times 10.
 $$
-Every time you use psi-gamma sleights or [push a sleight](using_psi#pushing-sleights), your Infection Rating [increases](using_psi#infection-modifiers).  Every time you recharge, it [decreases](using_psi#easing-the-infection).
+Every time you use psi-gamma sleights or [push a sleight](using_psi.md#pushing-sleights), your Infection Rating [increases](using_psi.md#infection-modifiers).  Every time you recharge, it [decreases](using_psi.md#easing-the-infection).
 
 ### Infection Rating Thresholds
 As your infection takes a stronger hold, your sleights become more powerful:
@@ -48,7 +48,7 @@ One key aspect to roleplaying an async is to treat the infection as a distinct, 
 
 # Watts-Macleod Sub-Strains
 ---
-As an async, you are affected by a specific sub-strain of the Watts-MacLeod virus.  This sub-strain determines how the exovirus affects you personally.  It influences what Mental Disorder trait you start with and provides you with a free bonus sleight.  It also impacts the behavioral compulsions and spurred motivations that infection inflicts upon you (see [influence effects](influence_effects#influence-effects)).  The sub-strain ischosen during character creation (or when your character is infected during gameplay).
+As an async, you are affected by a specific sub-strain of the Watts-MacLeod virus.  This sub-strain determines how the exovirus affects you personally.  It influences what Mental Disorder trait you start with and provides you with a free bonus sleight.  It also impacts the behavioral compulsions and spurred motivations that infection inflicts upon you (see [influence effects](influence_effects.md#influence-effects)).  The sub-strain ischosen during character creation (or when your character is infected during gameplay).
 
 ## *The Architect*
 Your infection possesses a distinct curiosity and sense of intelligence.  You often see things from a perspective that is different.  It drives you to delve into the inner mechanics of things and examine how they work -- whether they be machines or biological entities.  The urges push beyond exploration and learning -- you are often compelled to build and construct new things: architecture with inexplicable functions, strange devices, or even new forms of life.  Though the virus's exact motivation and intent remains unclear, it leaves you with an unmistakable sense of purpose.

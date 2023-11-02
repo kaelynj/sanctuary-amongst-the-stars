@@ -11,7 +11,7 @@ In most societies, ALIs are considered things or property rather than people and
 ## Personality
 ALI personality matrices are encoded with individual identities and character traits.  They seem conscious and self-aware, though detailed probing will reveal shallow personalities and other limitations.  They lack self-interest and initiative, and their emotional programming is narrow (based on empathy along) or non-existent, though they may be programmed to anticipate the needs and desires of users and pre-emptively take action on their behalf.  Though sentient, it remains a matter of debate whether ALIs are fully sapient.
 
-Given their limited personality, ALIs are less emotive and more difficult to read.  Apply a **-30** modifier to [Kinesics Tests](../Action%20&%20Combat/Skills.md#Kinesics) [[Skills#Kinesics|Kinesics Tests]] made against them.  When combined with non-expressive synthetic morphs, increase this modifier to -60.  Some ALIs lack emotive capability altogether and are simply impossible to read.
+Given their limited personality, ALIs are less emotive and more difficult to read.  Apply a **-30** modifier to [Kinesics Tests](../Skills.md#Kinesics) [[Skills#Kinesics|Kinesics Tests]] made against them.  When combined with non-expressive synthetic morphs, increase this modifier to -60.  Some ALIs lack emotive capability altogether and are simply impossible to read.
 
 ## Commanding ALIs
 Due to built-in safety features, ALIs must serve and obey the instructions of authorized users within their normal functioning parameters.  They are also programmed to follow the law (in the inner system) or an ethical code (autonomist areas).  If need be, however, ALIs can be quite clever in how they interpret commands and act upon them.  More importantly, their psychological programming is based on human modes of thought and an understanding and support of transhuman goals and interests.  This is part of an effort to create "friendly AI."  An ALI will be reluctant to follow commands that will have a negative impact on the user or other transhumans.  Pre-programmed imperatives can force it to ignore or disobey orders taht are dangerous.  In the case of accidents, they are sometimes coded to minimize harm and damage and sometimes coded to protect the user at all costs.  Of course, ALIs designed for military and weapon systems do not face such restrictions.
@@ -20,7 +20,7 @@ Due to built-in safety features, ALIs must serve and obey the instructions of au
 Lacking generalized intelligence, ALIs are inept and clueless when it comes to situations outside their specialty.  Secondary skills tend to be less competent than an equivalent transhuman.  They are generally incapable of creative or "outside-the-box" thinking.
 
 ## Aptitudes, Skills, and Pools
-ALIs usually have aptitudes of 10, with a maximum of 15.  Most have 5-7 active skills, with a maximum of 10.  Their skills cannot exceed 40 (including aptitudes), with the exception of one active skill appropriate to the ALI's specialty, which can be 60.  most have 3-5 [Know skills](../Action%20&%20Combat/Skills.md#Know), with a maximum of 10.  Their Know skills cannot exceed 80.
+ALIs usually have aptitudes of 10, with a maximum of 15.  Most have 5-7 active skills, with a maximum of 10.  Their skills cannot exceed 40 (including aptitudes), with the exception of one active skill appropriate to the ALI's specialty, which can be 60.  most have 3-5 [Know skills](../Skills.md#Know), with a maximum of 10.  Their Know skills cannot exceed 80.
 
 ALIs cannot default; if they don't possess a skill, they can't use it.  They can use specializations (which can exceed their maximums).
 
@@ -55,12 +55,12 @@ Muse personalities are customizable.  They are bundled with a subscription to a 
 Transhumans develop strong bonds to their muses due to their omnipresence and devotion.  Your specific relationship may vary, depending on your own personality, history, and views on sentient programs.  Some transhumans treat their muses as intelligent toys, servants, or pets.  Others are closer, viewing them as confidantes, mentors, comrades, or even paramours.  A few, however, have contentious or even hostile relationships, especially if the muse has taken on an unwelcome guardian role.
 
 ## What Your Muse Can Do For You
-The primary use for muses is to handle trivial online tasks, thus freeing you up for more important things.  This can be quite handy during time crunches or chaotic situations -- it is otherwise quite inconvenient when you need to google something in the middle of a firefight.  If you are note skilled in [Infosec](../Action%20&%20Combat/Skills.md#infosec) and don't have or trust a team hacker, your muse can also act as your PAN's [system defender](Hacking/Countermeasures.md#system-defender).  Its important to remember that muses can also assist you in certain tasks, providing a [teamwork bonus](../Action%20&%20Combat/Making%20Tests.md#teamwork).
+The primary use for muses is to handle trivial online tasks, thus freeing you up for more important things.  This can be quite handy during time crunches or chaotic situations -- it is otherwise quite inconvenient when you need to google something in the middle of a firefight.  If you are note skilled in [Infosec](../Skills.md#infosec) and don't have or trust a team hacker, your muse can also act as your PAN's [system defender](Hacking/Countermeasures.md#system-defender).  Its important to remember that muses can also assist you in certain tasks, providing a [teamwork bonus](../dice-basics.md#teamwork).
 
 Here are a few specific examples of tasks your muse can take on:
 - Protect your PAN as system defender
 - Shield your account shell or other software in mesh combat.
-- Make [Research Tests](../Action%20&%20Combat/Skills.md#research) to find information for you.
+- Make [Research Tests](../Skills.md#research) to find information for you.
 - Falsify or fluctuate your mesh ID
 - Scan newsfeeds and mesh updates for keyword alerts.
 - Teleoperate and command robots and ALIs

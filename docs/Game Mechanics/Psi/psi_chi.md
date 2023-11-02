@@ -46,7 +46,7 @@ Psi-chi sleights are available to anyone with the Psi trait.  Psi-gamma sleights
 ### Charisma
 You inhibitions are lowered, social intuition expanded, and emotional intelligence augmented.  This enhances your ability to navigate social situations and process emotional information.  
 
-*Increase [Moxie](../Action%20&%20Combat/Pools.md#moxie) pool by 1.*
+*Increase [Moxie](../Pools.md#moxie) pool by 1.*
 
 
 ### Control Behavior
@@ -61,13 +61,13 @@ You are more imaginative and inclined to think outside the box.  Apply a +10 mod
 ### Enhanced Memory
 You have a perfect memory.  Unlike transhumans with hyperthymesia, this is not strictly autobiographical.  You can be asked a random date and immediately recall trivial details such as the day of the week it was, what you did that day, what the weather was like, and the exact wording of a paragraph you read.  Your memory is always "on" -- in fact, you perceive reality and memory much like a split screen and are often caught in reverie.  Enhanced memory has no effect on psychosurgery memory editing.
 
-You can push this sleight to recall your memories from a sort of third-person point of view, allowing you to make [Perceive Tests](../Action%20&%20Combat/Skills.md#perceive) to notice details you may have previously missed.
+You can push this sleight to recall your memories from a sort of third-person point of view, allowing you to make [Perceive Tests](../Skills.md#perceive) to notice details you may have previously missed.
 
 ### Grok
 You intuitively understand how to use an unfamiliar object, vehicle, or device, no matter how alien, advanced, or bizarre.  You may make a COG Check to determine how to activate or use it, simply by looking at and handling it.  This sleight does not provide any understanding of the principles or technologies involved -- you simply grasp how to make it work.  This sleight is only effective with unfamiliar devices, it provides no bonus when using devices with which you are familiar.
 
 ### Heightened Awareness
-Your situational awareness is boosted, providing an instinctive sense about an area and any potential threats nearby.  +10 to [Perceive Tests](../Action%20&%20Combat/Skills.md#perceive).
+Your situational awareness is boosted, providing an instinctive sense about an area and any potential threats nearby.  +10 to [Perceive Tests](../Skills.md#perceive).
 
 ### High-Pain Threshold
 You can block out, ignore, or otherwise isolate pain.  Ignore the modifiers from a single wound (this is cumulative with other effects, up to a maximum of three wound effects).
@@ -76,7 +76,7 @@ You can block out, ignore, or otherwise isolate pain.  Ignore the modifiers from
 You have an inner well of energy, making it easier to recuperate.  You recover +1 pool points during short recharges.
 
 ### Patter Recognition
-You are adept at spotting patterns and correlating non-random elements.  This is useful for translating languages, breaking codes, or finding clues hidden among massive amounts of data.  Apply a +10 modifier to appropriate [Infosec](../Action%20&%20Combat/Skills.md#infosec), [Perceive](../Action%20&%20Combat/Skills.md#perceive), or [Research Tests](../The%20Mesh/Research.md#research-tests) where you have a sufficiently large sample and time enough to study, as determined by the GM.  This might range from a few hours of investigating inscriptions left by long-dead aliens to a week or more of researching a lengthy cipher.  This does not apply to brute-force hacking or [Infosec](../Action%20&%20Combat/Skills.md#infosec) tests made by decrypt apps to break a code.  You also learn new languages easily; reduce the timeframe to weeks rather than months.
+You are adept at spotting patterns and correlating non-random elements.  This is useful for translating languages, breaking codes, or finding clues hidden among massive amounts of data.  Apply a +10 modifier to appropriate [Infosec](../Skills.md#infosec), [Perceive](../Skills.md#perceive), or [Research Tests](../The%20Mesh/Research.md#research-tests) where you have a sufficiently large sample and time enough to study, as determined by the GM.  This might range from a few hours of investigating inscriptions left by long-dead aliens to a week or more of researching a lengthy cipher.  This does not apply to brute-force hacking or [Infosec](../Skills.md#infosec) tests made by decrypt apps to break a code.  You also learn new languages easily; reduce the timeframe to weeks rather than months.
 
 ### Predictive Boost
 Your brain's Bayesian probability functions are accelerated, enhancing your ability to estimate and predict the outcomes of events as they unfold in real-time around you.  In effect, you have an intuitive sense for the most likely outcomes.  +2 Initiative.
@@ -85,25 +85,25 @@ Your brain's Bayesian probability functions are accelerated, enhancing your abil
 You mind's defenses are solidified.  You gain mental armor equal to your WIL $\div$ 3 against psi attacks.
 
 ### Qualia
-You have a more intuitive grasp of the world around you.  +1 [Insight Pool](../Action%20&%20Combat/Pools.md#insight).
+You have a more intuitive grasp of the world around you.  +1 [Insight Pool](../Pools.md#insight).
 
 ### Savant Calculation
 You have an incredible faculty for intuitive mathematics involving complex, chaotic systems.  You can calculate your odds when gambling, predict the outcome of stock market upheavals, and guesstimate the rubble distribution pattern from an explosion.  You can also measure exact distances with a look, solve math problems faster than computers, and tell how many microbots make up a swarmanoid.  This talent, however, is not conscious, it is intuitive.  You do not know the equations you are solving, you simply know the solution.  You may make COG Checks to calculate answers to complex mathematical questions.
 
 ### Scramble
-Scramble helps you to hide from another async using the [ego sense](psi_gamma.md#ego-sense) sleight.  Apply a -30 modifier to the async's [Psi Test](../Action%20&%20Combat/Skills.md#psi).
+Scramble helps you to hide from another async using the [ego sense](psi_gamma.md#ego-sense) sleight.  Apply a -30 modifier to the async's [Psi Test](../Skills.md#psi).
 
 ### Self-Control
 Your will is tempered and unyielding.  +10 to WIL Checks.
 
 ### Social Cunning
-Your emotional intelligence is sharpened and focused, making you more manipulative and exploitative of weaknesses.  +10 to [Persuade](../Action%20&%20Combat/Skills.md#persuade) and [Provoke](../Action%20&%20Combat/Skills.md#provoke) tests.
+Your emotional intelligence is sharpened and focused, making you more manipulative and exploitative of weaknesses.  +10 to [Persuade](../Skills.md#persuade) and [Provoke](../Skills.md#provoke) tests.
 
 ### Somatic Control
-You have excellent physiological control.  +1 to [Vigor Pool](../Action%20&%20Combat/Pools.md#vigor).
+You have excellent physiological control.  +1 to [Vigor Pool](../Pools.md#vigor).
 
 ### Superior Kinesics
-You have finer control over your emotive signals, body language, and micro-expressions and are more capable at interpreting the same in others.  +10 to [Deceive](../Action%20&%20Combat/Skills.md#deceive) and [Kinesics](../Action%20&%20Combat/Skills.md#kinesics) tests.
+You have finer control over your emotive signals, body language, and micro-expressions and are more capable at interpreting the same in others.  +10 to [Deceive](../Skills.md#deceive) and [Kinesics](../Skills.md#kinesics) tests.
 
 ### Xeno-Empathy
 You have an intuitive understanding of non-human, non-terrestrial organisms (animal analogues).  You can make a SAV Check to acquire insight into the creature's ecological niche, motivations, needs, and likely behavioral responses (if non-sapient) or mental/emotional state (if sapient).

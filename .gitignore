@@ -3,6 +3,7 @@ docs/Campaign Information/One-Shots/*
 .vscode/*
 .obsidian/*
 /docs/.obsidian/*
+
 # Dependencies
 /node_modules
 

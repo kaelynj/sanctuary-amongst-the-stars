@@ -9,9 +9,9 @@ Online research is a crucial element of most *Eclipse Phase* scenarios, as chara
 
 Research Tests are handled as task actions.  The suggested timeframe is 1 hour, though this should be modified by the GM according to the amount of data you must sift through to get the result and the needs of the plot.  Searches that require you to access non-local parts of the mesh may increase the timeframe due to bonus details and nuance.  A critical success leads to a breakthrough understand.  A critical failure, however, results in false and misleading information.
 
-For searches that are more detailed, difficult, or central to the plot, make a [Research Test](../Action%20&%20Combat/Skills.md#research) (or have your muse make one for you).  If you are searching for data tied to a particular subject or field of study, you can use an appropriate [Know skill](../Action%20&%20Combat/Skills.md#know-skills) as a complementary skill.
+For searches that are more detailed, difficult, or central to the plot, make a [Research Test](../Skills.md#research) (or have your muse make one for you).  If you are searching for data tied to a particular subject or field of study, you can use an appropriate [Know skill](../Skills.md#know-skills) as a complementary skill.
 
-For searches that are more detailed, difficult, or central to the plot, make a [Research Test](#research-tests) (or have your muse make one for you).  If you are searching for data tied to a particular subject or field of study, you can use an appropriate [Know](../Action%20&%20Combat/Skills.md#know-skills) skill as a complementary skill.
+For searches that are more detailed, difficult, or central to the plot, make a [Research Test](#research-tests) (or have your muse make one for you).  If you are searching for data tied to a particular subject or field of study, you can use an appropriate [Know](../Skills.md#know-skills) skill as a complementary skill.
 
 <details>
    <summary> GMing Research Tests </summary> 
@@ -56,9 +56,9 @@ For searches that are more detailed, difficult, or central to the plot, make a [
 
 # Online Research
 ---
-The mesh is a treasure trove of data for those skilled in exploring its nooks and filtering out the detritus.  Use the [Research skill](../Action%20&%20Combat/Skills.md#Research) when looking things up online.  You can search for news, research papers, public sensor feeds, social network activity, personal information, corporate information, SolArchive entries, criminal records, government data, leaked reports, mesh-connected devices, and much, much more.  Digitized data of all kinds can be searched: text, pictures, audio, video, XP, raw data, software, etc.  This data is culled from all manner of sources: archives, databases, directories, social networks, cloud services, blogs/vlogs, forums, chat rooms, and regular mesh sites.  Research is conducted using various public and private search engines, both general and specialized, as well as data indices and search AIs.
+The mesh is a treasure trove of data for those skilled in exploring its nooks and filtering out the detritus.  Use the [Research skill](../Skills.md#Research) when looking things up online.  You can search for news, research papers, public sensor feeds, social network activity, personal information, corporate information, SolArchive entries, criminal records, government data, leaked reports, mesh-connected devices, and much, much more.  Digitized data of all kinds can be searched: text, pictures, audio, video, XP, raw data, software, etc.  This data is culled from all manner of sources: archives, databases, directories, social networks, cloud services, blogs/vlogs, forums, chat rooms, and regular mesh sites.  Research is conducted using various public and private search engines, both general and specialized, as well as data indices and search AIs.
 
-You also use [Research](../Action%20&%20Combat/Skills.md#research) when looking for information on a specific network or device to which you have access: a sensor mote, someone's ecto or tablet, a robot , or an opponent's  mesh inserts (see [Searching Specific Systems](#searching-specific-systems)).  Likewise, since everyone inevitably uses and interacts with the mesh, Research skill is also a way to identify, backtrack, and/or gather information on people as long as they have not hidden their identity with a shroud of disinformation (see [Tracking](Tracking.md)).
+You also use [Research](../Skills.md#research) when looking for information on a specific network or device to which you have access: a sensor mote, someone's ecto or tablet, a robot , or an opponent's  mesh inserts (see [Searching Specific Systems](#searching-specific-systems)).  Likewise, since everyone inevitably uses and interacts with the mesh, Research skill is also a way to identify, backtrack, and/or gather information on people as long as they have not hidden their identity with a shroud of disinformation (see [Tracking](Tracking.md)).
 
 # Search Challenges
 Due to the sheet amount of data available, finding what you're looking for can be a daunting task.  Thankfully, information is fairly well-organized, thanks to the hard work of "spider" AIs that cruise the mesh and update data and search indices.
@@ -118,10 +118,10 @@ The combination of abundant computing, archived data, and ubiquitous public sens
 
 
 ## Private and Proprietary Data
-Not everything can be found online.  Some data may only be acquired by asking the right people (see [Networking](../Transhuman%20Tech/Networking.md)).  Information that is considered secret or proprietary could be stored away in private networks behind firewalls, in off-mesh hardwired networks, or in commercial archives.  This would requrie you to gain access to such networks in order to get the dat you need (though a successful Research Test may tell you where to look).
+Not everything can be found online.  Some data may only be acquired by asking the right people (see [Networking](../Transhuman%20Tech/reputation.md#reputation)).  Information that is considered secret or proprietary could be stored away in private networks behind firewalls, in off-mesh hardwired networks, or in commercial archives.  This would requrie you to gain access to such networks in order to get the dat you need (though a successful Research Test may tell you where to look).
 
 ## Analyzing the Results
-Just because you've acquired the data doesn't mean you understand it.  You may need to make a skill test using [Know](../Action%20&%20Combat/Skills.md#know-skills) or another appropriate skill to analyze the results and discover what you're looking for.  For example, a [Research Test](#research-tests) might pull up the chemical details of a particular alien toxin, but a [*Know: Chemistry* Test](../Action%20&%20Combat/Skills.md#know-skills) may be necessary to actually understand the repercussions and concoct an antidote.
+Just because you've acquired the data doesn't mean you understand it.  You may need to make a skill test using [Know](../Skills.md#know-skills) or another appropriate skill to analyze the results and discover what you're looking for.  For example, a [Research Test](#research-tests) might pull up the chemical details of a particular alien toxin, but a [*Know: Chemistry* Test](../Skills.md#know-skills) may be necessary to actually understand the repercussions and concoct an antidote.
 
 # Real-Time Alerts
 ---
@@ -129,7 +129,7 @@ You may ask your muse to monitor mesh feeds for news or other mentions as they o
 
 # Searching Specific Systems
 ---
-You can also use the [Research skill](../Action%20&%20Combat/Skills.md#research) to scan for specific keywords, file names, media, or other data on a system.  When searching a single device such as a mote or host, this simply takes a complex action.  For larger devices and networks, this is a task action with a longer timeframe; see the *Searching Timeframes* table below for suggestions.
+You can also use the [Research skill](../Skills.md#research) to scan for specific keywords, file names, media, or other data on a system.  When searching a single device such as a mote or host, this simply takes a complex action.  For larger devices and networks, this is a task action with a longer timeframe; see the *Searching Timeframes* table below for suggestions.
 
 The rules above assume you are looking for something specific.  Sometimes, however, you may simply be browsing through an opponent's captured device, looking for something interesting, incriminating, or that otherwise stands out as a clue.  If you are searching a system without knowing exactly what you are looking for, the process can take significantly longer.  In this case, make a [Research Test](#research-tests) for every hour you search.  The GM should apply a negative modifier between 0 and -30 based on the size of the system and the density of information it contains.  If you succeed, you find one clue or other intriguing bit of data, plus one per superior success.  Note that encrypted files must first be decrypted before they can be searched.
 

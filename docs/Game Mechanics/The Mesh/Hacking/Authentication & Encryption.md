@@ -7,7 +7,7 @@ Mesh security relies heavily on authentication and encryption to identify legiti
 
 ## Mesh ID
 ---
-Your mesh ID is a unique identifier code that distinguishes you from every other user and device on the mesh.  Your cranial computer or ecto automatically associates this ID address with your accounts and screen names, enabling you to receive messages and other transmissions.  This ID is automatically generated each time you come online and required for almost all online interactions.  These interactions are universally logged, leaving a data trail that can be used to [track your activity](Tracking.md).  Fortunately, [anonymizing services](../Tracking.md#anonymous-proxy-services) are available for those who value their privacy.
+Your mesh ID is a unique identifier code that distinguishes you from every other user and device on the mesh.  Your cranial computer or ecto automatically associates this ID address with your accounts and screen names, enabling you to receive messages and other transmissions.  This ID is automatically generated each time you come online and required for almost all online interactions.  These interactions are universally logged, leaving a data trail that can be used to [track your activity](../Tracking.md).  Fortunately, [anonymizing services](../Tracking.md#anonymous-proxy-services) are available for those who value their privacy.
 
 Many mesh IDs are publicly registered (and in some jurisdictions, this is legally mandated).  Looking up a registered mesh ID is trivial.  Registration data may include a name, physical address, and social media profile if so desired.
 

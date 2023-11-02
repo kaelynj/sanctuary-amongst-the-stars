@@ -11,7 +11,7 @@ Drawing on a sleight to procure an effect does not always require a test.  Each 
 Psi-chi sleights only affect the async.  Psi-gamma sleights may be used on the self or other biological life at a short distance.  While there is no modifier for using a ranged sleight on yourself, using ranged sleights on others imposes a modifier according to the distance.
 
 #### Touch:
-Touch range gives you +20 modifier to your [Psi Test](../Action%20&%20Combat/Skills.md#psi) (but not on sleights used on yourself).  You must have physical contact with the target (clothing, armor, vacsuits, etc. do not impeded).  if the target avoids being touched, this requires a successful melee attack as a quick action, applying the touch-only +20 modifier.  This attack does not cause damage, but the target may use [Fray](../Action%20&%20Combat/Skills.md#fray) to avoid.  If you fail to touch, you may still use the sleight at **Point-Blank** range.
+Touch range gives you +20 modifier to your [Psi Test](../Skills.md#psi) (but not on sleights used on yourself).  You must have physical contact with the target (clothing, armor, vacsuits, etc. do not impeded).  if the target avoids being touched, this requires a successful melee attack as a quick action, applying the touch-only +20 modifier.  This attack does not cause damage, but the target may use [Fray](../Skills.md#fray) to avoid.  If you fail to touch, you may still use the sleight at **Point-Blank** range.
 
 #### Point-Blank:
 +10 Psi Test (but not on sleights used on yourself).  You must be within 2 meters of the target or less.
@@ -36,7 +36,7 @@ At the GM's discretion, psi sleights may not work on alien creatures at all, dep
 
 ## Opposed Tests
 ---
-Psi that targets another character is handled as an [opposed test](../Action%20&%20Combat/Making%20Tests.md#opposed-test), the async's [Psi](../Action%20&%20Combat/Skills.md#psi) versus the defender's WIL Check.  [Moxie pool](../Action%20&%20Combat/Pools.md#moxie) may be used by both.  Willing characters may choose not to resist, but they must be aware of what is happening (either the async has warned them or they have experienced it before).  Unconscious or sleeping characters cannot resist.
+Psi that targets another character is handled as an [opposed test](../dice-basics.md#opposed-test), the async's [Psi](../Skills.md#psi) versus the defender's WIL Check.  [Moxie pool](../Pools.md#moxie) may be used by both.  Willing characters may choose not to resist, but they must be aware of what is happening (either the async has warned them or they have experienced it before).  Unconscious or sleeping characters cannot resist.
 
 #### Psi Full Defense:
 Like [full defense](../Action%20&%20Combat/action-factors.md#full-defense) in physical combat, you may spend a complex action to concentrate your mental defenses, gaining a +30 modifier to resist sleights until your next action.
@@ -77,7 +77,7 @@ Whenever you use psi-gamma sleights, two things happen.  First, your [Infection 
 ### Infection Test
 The target number for your Infection Test equals your current Infection Rating (including the modifier from the sleight you are using).  If this test fails, nothing happens, and you pull off the sleight without any negative effects.  If it succeeds, you suffer an [influence effect](#the-infections-influence) appropriate to the sub-strain.
 
-You may not spend pool to affect the Infection Test, but you may spend [Moxie](../Action%20&%20Combat/Pools.md#moxie) to avoid making the Infection Test altogether, powering through the sleight with sheer willpower.  However, your Infection Rating still increases.
+You may not spend pool to affect the Infection Test, but you may spend [Moxie](../Pools.md#moxie) to avoid making the Infection Test altogether, powering through the sleight with sheer willpower.  However, your Infection Rating still increases.
 
 #### Critical Failure:
 If you roll a critical failure, the exovirus temporarily loses its grip on you.  You are immune to [influence effects](influence_effects.md#influence-effects) until your next recharge.
@@ -120,9 +120,9 @@ Choose one of the following effects for your pushed sleight:
 
 You may also push already active psi-chi sleights.  In this case, increase your [Infection Rating](Psi_overview.md#infection-rating) by 5 and make an [Infection Test](#infection-test).  Psi-chi pushes are temporary, lasting only WIL $\div$ 5 minutes.
 
-[Moxie pool](../Action%20&%20Combat/Pools.md#moxie) may be used when pushing to negate the physical damage, but you must still make an Infection Test as normal.  If 2 points of Moxie are spent, however, the test is negated entirely.
+[Moxie pool](../Pools.md#moxie) may be used when pushing to negate the physical damage, but you must still make an Infection Test as normal.  If 2 points of Moxie are spent, however, the test is negated entirely.
 
-Additionally, pushing a sleight is not necessarily obvious, though the mental effort and pain/damage may be apparent with a [Kinesics Test](../Action%20&%20Combat/Skills.md#kinesics).
+Additionally, pushing a sleight is not necessarily obvious, though the mental effort and pain/damage may be apparent with a [Kinesics Test](../Skills.md#kinesics).
 
 
 
