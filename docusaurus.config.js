@@ -19,7 +19,7 @@ const config = {
   trailingSlash: 'true',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://kaelynj.github.io/sanctuary-amongst-the-stars/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/sanctuary-amongst-the-stars/',
