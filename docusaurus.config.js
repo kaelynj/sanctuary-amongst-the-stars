@@ -15,6 +15,7 @@ const config = {
   title: 'Eclipse Phase: Sanctuary Amongst The Stars',
   tagline: 'A campaign website',
   favicon: 'img/favicon.ico',
+  trailingSlash: 'false',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
