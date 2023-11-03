@@ -8,13 +8,13 @@ In *Eclipse Phase*, psi abilities are the result of an infection by the mutant W
 
 #### Prerequisites
 
-To be an async, you must purchase the psi trait during character creation.  It is possible to become an async in game via infection by the Watts-MacLeod strain.  To wield psi, you must purchase [psi sleights](psi-sleights#psi-sleights) with CP or [Rez Points](../../Player%20Resources/rez-points#rez-points).  To use psi-gamma sleights, you will also need the [Psi skill](../Skills#psi), though you may default to WIL.
+To be an async, you must purchase the psi trait during character creation.  It is possible to become an async in game via infection by the Watts-MacLeod strain.  To wield psi, you must purchase [psi sleights](psi_gamma.md#psi-gamma-sleights) with CP or [Rez Points](../../Player%20Resources/rez-points.md#downtime-actions).  To use psi-gamma sleights, you will also need the [Psi skill](../Skills.md#psi), though you may default to WIL.
 
 #### Morphs & Psi
 Async abilities only function on a biological substrate -- meaning that you require a biological brain and nervous system.  An async sleeved in a synthmorph, infomorph, or a biomorph with a cyberbrain may not use their sleights.
 
 #### Mental Fragmentation
-The process of infection has a permanent effect on your async's mind.  Upon becoming infect, you either suffered a mental breakdown or underwent a long, slow process of mental subversion.  Either way, you acquired either an [Addiction](../../Player%20Resources/Character%20Creation/traits#addiction) or [Mental Disorder](../../Player%20Resources/Character%20Creation/traits#mental-disorder) negative trait according to your specific sub-strain
+The process of infection has a permanent effect on your async's mind.  Upon becoming infect, you either suffered a mental breakdown or underwent a long, slow process of mental subversion.  Either way, you acquired either an [Addiction](../../Player%20Resources/Character%20Creation/traits.md#addiction) or [Mental Disorder](../../Player%20Resources/Character%20Creation/traits.md#mental-disorder) negative trait according to your specific sub-strain
 
 # Sleights
 ---

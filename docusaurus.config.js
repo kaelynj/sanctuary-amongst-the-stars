@@ -1,13 +1,11 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
+import {themes as prismThemes} from 'prism-react-renderer';
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 // Define requirements for math and katex
-const math = require('remark-math');
-const katex = require('rehype-katex');
-
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 
 
 /** @type {import('@docusaurus/types').Config} */
@@ -54,8 +52,8 @@ const config = {
             'https://github.com/kaelynj/sanctuary-amongst-the-stars',
           
           // Add in support for katex equations
-          remarkPlugins: [math],
-          rehypePlugins: [katex],
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
         },
         blog: {
           showReadingTime: true,
@@ -174,8 +172,8 @@ const config = {
         copyright: `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License \u1F16D\u1F16F\u1F10F\u1F10E \n Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
     }),
 };
