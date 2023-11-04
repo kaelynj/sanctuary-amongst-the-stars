@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3843],{6941:e=>{e.exports=JSON.parse('{"permalink":"/sanctuary-amongst-the-stars/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

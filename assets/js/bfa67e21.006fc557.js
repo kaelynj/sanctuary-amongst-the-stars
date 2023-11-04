@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4460],{2764:t=>{t.exports=JSON.parse('{"label":"character introduction","permalink":"/sanctuary-amongst-the-stars/blog/tags/character-introduction","allTagsPath":"/sanctuary-amongst-the-stars/blog/tags","count":1,"unlisted":false}')}}]);

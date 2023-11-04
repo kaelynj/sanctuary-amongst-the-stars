@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6284],{8338:s=>{s.exports=JSON.parse('{"label":"fei","permalink":"/sanctuary-amongst-the-stars/blog/tags/fei","allTagsPath":"/sanctuary-amongst-the-stars/blog/tags","count":1,"unlisted":false}')}}]);
