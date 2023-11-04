@@ -318,13 +318,13 @@ Know skills represent information your character has acquired, things they know.
 
 Points assigned for Active and Know skills are not interchangeable.  If you decided to take away points from a Know skill during character creation, you may only apply those extra points to another Know skill.
 
-# Know: [Field]
+### Know: [Field]
 ---
 **Type:** Know, Field
 
 Know skill represents your accumulated knowledge in a field of work, study, or interest.  Know skills are loosely grouped into four types: academics, arts, interests, and professional training.
 
-# Academics
+### Academics
 ---
 **Linked Aptitude:** Cognition
 
@@ -334,7 +334,7 @@ Academic fields cover all of the disciplines of scientific knowledge and advance
 
 **Specializations:** As appropriate to the field
 
-# Arts
+### Arts
 ---
 **Linked Aptitude:** Intuition
 
@@ -347,7 +347,7 @@ Note that Art fields should not be used in place of Active skills to directly de
 **Specializations:** As appropriate to the field
 
 
-# Interests
+### Interests
 ---
 **Linked Aptitude:** Cognition
 
@@ -357,7 +357,7 @@ Interest fields includes specialized knowledge in any topic that might be consid
 
 **Specializations:** As appropriate to the field
 
-# Professional Training
+### Professional Training
 ---
 **Linked Aptitude:** Cognition
 
@@ -371,7 +371,7 @@ Profession fields cover knowledge and training in the practices and procedures o
 ---
 
 
-### Using Know Skills
+## Using Know Skills
 It may seem like Know skills have fewer in-game applications than Active skills, but they should not be underestimated.  They have three major uses, the first of which is analyzing clues and solving mysteries.  Many *Eclipse Phase* scenarios are based around technological dangers, alien encounters, and scientific phenomenon, and so characters will need a good balance of Know skills to unravel the problem and find solutions.
 
 Just as importantly, Know skills are valuable in helping the characters -- and the players -- understand the world of *Eclipse Phase*.  In particular these skills can be used to assess a situation, identify strengths and weaknesses, make plans, evaluate worth, make comparisons, forecast probable outcomes, or understand the applicable science, socio-economic factors, or cultural or historical context.  In this regard, Know skills can be a valuable tool for GMs to assist the players, prompting for Know skill rolls to help flesh out details of the game setting that might otherwise be overlooked or not readily apparent.
