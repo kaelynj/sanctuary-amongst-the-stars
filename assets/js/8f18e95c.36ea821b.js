@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[360],{3499:e=>{e.exports=JSON.parse('{"authors":[{"name":"Kaelyn J","title":"Gamemaster","url":"https://github.com/kaelynj","imageURL":"https://github.com/kaelynj.png","key":"ferris","page":null,"count":4}]}')}}]);

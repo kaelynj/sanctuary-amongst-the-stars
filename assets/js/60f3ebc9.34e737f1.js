@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8046],{5898:s=>{s.exports=JSON.parse('{"label":"mars","permalink":"/sanctuary-amongst-the-stars/blog/tags/mars","allTagsPath":"/sanctuary-amongst-the-stars/blog/tags","count":1,"unlisted":false}')}}]);
