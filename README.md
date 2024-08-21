@@ -31,9 +31,3 @@ And to serve the built website, execute:
 ```bash
 npm run serve
 ```
-```
-```
-```
-```
-```
-```
