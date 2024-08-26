@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksanctuary_amongst_the_starts=self.webpackChunksanctuary_amongst_the_starts||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/sanctuary-amongst-the-stars/blog","blogTitle":"Blog","authorsListPath":"/sanctuary-amongst-the-stars/blog/authors"}')}}]);
