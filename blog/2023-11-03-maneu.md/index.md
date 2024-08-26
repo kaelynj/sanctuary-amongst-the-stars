@@ -1,8 +1,8 @@
 ---
 slug: maneau
 title: The Origins of Maneau
-authors: [ferris]
-tags: [facebook, hello, docusaurus]
+authors: [Ferris]
+tags: [Maneau, colony, start]
 hide_table_of_contents: true
 ---
 
