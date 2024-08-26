@@ -31,3 +31,12 @@ And to serve the built website, execute:
 ```bash
 npm run serve
 ```
+
+## Run linter
+
+A linter is included to ensure code quality
+```bash
+npm run lint
+```
+```
+```
