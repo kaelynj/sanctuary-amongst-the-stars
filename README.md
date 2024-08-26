@@ -38,5 +38,9 @@ A linter is included to ensure code quality
 ```bash
 npm run lint
 ```
-```
+
+## Run spellchecker
+We've also included a spell checker through [cspell](https://cspell.org/)
+```bash
+npm run spelling
 ```
