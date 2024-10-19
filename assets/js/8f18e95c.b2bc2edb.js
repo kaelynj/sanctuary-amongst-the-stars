@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksanctuary_amongst_the_starts=self.webpackChunksanctuary_amongst_the_starts||[]).push([[360],{3499:t=>{t.exports=JSON.parse('{"authors":[{"name":"Kaelyn J","title":"Gamemaster","url":"https://github.com/kaelynj","imageURL":"https://github.com/kaelynj.png","key":"ferris","page":null,"count":4}]}')}}]);

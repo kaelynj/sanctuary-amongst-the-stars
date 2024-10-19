@@ -54,9 +54,9 @@ A man called only Yasuke begins teaching acolytes his Neo-Bushido philosophy at 
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="maneau-today-10-af">Maneau Today (10 AF)<a href="https://kaelynj.github.io/sanctuary-amongst-the-stars/blog/maneau/#maneau-today-10-af" class="hash-link" aria-label="Direct link to Maneau Today (10 AF)" title="Direct link to Maneau Today (10 AF)">​</a></h2>
 <p>Today Maneau is a cluster of domed habitats, each connected either via subsurface tunnels or domed passageways.  Now the second largest settlement on Enceladus, it had a rocky start.  Just after the fall, a group of refugees settled the area only to find themselves taken hostage against newly awakened synthetic crocodiles.  Initially created as a secret military project, these early attempts at modifying and uplifting animals went horribly wrong.  The project was abandoned and all evidence was buried underneath the ice to (hopefully) never be found again.  Unfortunately, anomalous tectonic activity unearthed them and they were unleashed upon the unsuspecting refugees.  It took the heroic efforts of one of the enslaved children, Jimmy, and the military support of the Titanian commonwealth to free the people.</p>
 <p>Now, Maneau is a port city of about 1.5 million transhumans connecting the orbital habs of Saturn and the network of Bathysphere settlements scattered around Enceladus’ subsurface ocean.  It is part of the Titanian Commonwealth, a direct democracy which reinvests the profits of its microcorps into socialized services.  The colony’s economic output is that of a generalized cultural, industrial, and commercial hub; primarily harvesting and refining raw mineral resources and water-ice.  There is also a strong community of creatives focused on the old Earth practice of “theatre” and houses laboratory offices to microcorps developing new morphs.</p>]]></content:encoded>
-            <category>facebook</category>
-            <category>hello</category>
-            <category>docusaurus</category>
+            <category>Maneau</category>
+            <category>colony</category>
+            <category>start</category>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -76,9 +76,7 @@ A man called only Yasuke begins teaching acolytes his Neo-Bushido philosophy at 
 <p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://kaelynj.github.io/sanctuary-amongst-the-stars/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
 <p>The blog supports tags as well!</p>
 <p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
-            <category>facebook</category>
-            <category>hello</category>
-            <category>docusaurus</category>
+            <category>welcome</category>
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>

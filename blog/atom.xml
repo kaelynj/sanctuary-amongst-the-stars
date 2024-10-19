@@ -60,9 +60,9 @@ A man called only Yasuke begins teaching acolytes his Neo-Bushido philosophy at 
             <name>Kaelyn J</name>
             <uri>https://github.com/kaelynj</uri>
         </author>
-        <category label="facebook" term="facebook"/>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="Maneau" term="Maneau"/>
+        <category label="colony" term="colony"/>
+        <category label="start" term="start"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
@@ -86,9 +86,7 @@ A man called only Yasuke begins teaching acolytes his Neo-Bushido philosophy at 
             <name>Kaelyn J</name>
             <uri>https://github.com/kaelynj</uri>
         </author>
-        <category label="facebook" term="facebook"/>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="welcome" term="welcome"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[MDX Blog Post]]></title>
