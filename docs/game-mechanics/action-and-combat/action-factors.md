@@ -2,8 +2,8 @@
 sidebar_label: Other Action Factors
 ---
 
-# Conditions
+## Conditions
 
-# Full Defense
+## Full Defense
 
-# Surprise
+## Surprise

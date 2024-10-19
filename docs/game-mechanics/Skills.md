@@ -16,7 +16,7 @@ There are 6 aptitude scores which are generated during character creation:
 - **Willpower (WIL)** is your self-control, mental fortitude, and strength of personality.
 
 
-<h3 id="#heading-id">Aptitude Checks</h3>
+### Aptitude Checks
 You will sometimes rely on your aptitudes to make tests rather than learned skills.  Aptitude checks normal only come into play in situations where no skill applies, but raw talent does.  Aptitude check values are a derived stat, based on your aptitude $\times$ 3.  Some examples include:
 
 - **Cognition (COG) Check**: Recall a memory, memorize a number, or resist mental manipulation.
@@ -174,7 +174,7 @@ Infiltrate is the art of escaping detection.  Use Infiltrate to sneak past a gua
 
 **Linked Aptitude:** Cognition
 
-Infosec is short for "information security."  It incorporates training in electronic intrusion and counter-intrusion techniques, as well as use of cryptography tools.  Use Infosec to hack into electronic and mesh systems, subvert them, and protect them.  Also use it to encrypt and decrypt communications and files.  Most Infosec Tests are task actions.  See the sections on [the mesh](the-mesh/mesh-introduction.md#introduction-to-the-mesh) for more details on mesh systems and applications of the Infosec skill.
+Infosec is short for "information security."  It incorporates training in electronic intrusion and counter-intrusion techniques, as well as use of cryptography tools.  Use Infosec to hack into electronic and mesh systems, subvert them, and protect them.  Also use it to encrypt and decrypt communications and files.  Most Infosec Tests are task actions.  See the sections on [the mesh](the-mesh/mesh-introduction.md) for more details on mesh systems and applications of the Infosec skill.
 
 **Specializations:** Brainiac, Brute-Force Hack, Decrypt, Probe, Security, Sniff, Spoof, Subvert, VR Hack
 
@@ -208,7 +208,7 @@ Though synthmorphs are designed to emote, reading them is more difficult; apply 
 
 **Linked Aptitude:** Cognition
 
-Medicine fields encompass healthcare, diagnosis and treatment, and the design and manipulation of biological life forms.  Use Medicine: Biotech to modify morphs or install implants.  Use Medicine: Forensics to conduct autopsies to ascertain cause of death or the biological functions of alien life.  Use Medicine: Paramedic to diagnose ailments and [treat injuries](./action-and-combat/Health.md#healing--repair).  Medicine: Pharmacology is used to synthesize drugs or develop an antidote to a pathogen or toxin.  Medicine: Psychosurgery is used to [heal stress](./action-and-combat/mental-health.md#mental-health) and [manipulate the mind](./transhuman-tech/psychosurgery.md#psychosurgery).  Use Medicine: Veterinary to provide healthcare to smart animals and non-sapient critters.
+Medicine fields encompass healthcare, diagnosis and treatment, and the design and manipulation of biological life forms.  Use Medicine: Biotech to modify morphs or install implants.  Use Medicine: Forensics to conduct autopsies to ascertain cause of death or the biological functions of alien life.  Use Medicine: Paramedic to diagnose ailments and [treat injuries](./action-and-combat/Health.md#healing--repair).  Medicine: Pharmacology is used to synthesize drugs or develop an antidote to a pathogen or toxin.  Medicine: Psychosurgery is used to [heal stress](./action-and-combat/mental-health.md) and [manipulate the mind](./transhuman-tech/psychosurgery.md).  Use Medicine: Veterinary to provide healthcare to smart animals and non-sapient critters.
 
 **Sample Fields:** Biotech, Forensics, Paramedic, Pharmacology, Psychosurgery, Veterinary
 
@@ -283,7 +283,7 @@ Provoke is your talent at emotional manipulation.  Use Provoke to taunt an oppon
 
 **Linked Aptitude:** Willpower
 
-Psi is the wielding of psychic abilities (sleights) to detect, manipulate, or harm others.  Use Psi to target others with [psi-gamma sleights](psi/psi-gamma.md#psi-gamma-sleights).  Psi is resisted with a WIL Check.  You must possess the Psi trait to use this skill.
+Psi is the wielding of psychic abilities (sleights) to detect, manipulate, or harm others.  Use Psi to target others with [psi-gamma sleights](psi/psi-gamma.md).  Psi is resisted with a WIL Check.  You must possess the Psi trait to use this skill.
 
 **Specializations:** Control, Psi, Assault, Sense
 

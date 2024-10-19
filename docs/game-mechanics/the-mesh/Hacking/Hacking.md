@@ -7,7 +7,7 @@ In the digital realm, everything has a vulnerability.  Software is the classic p
 
 Hackers routinely share, trade, and sell their exploits online.  The best of these make their way into pre-packaged exploit app libraries -- software tools that scan a target, openly or with subtlety, probe it for vulnerabilities, and automatically execute attacks.
 
-There are many methods you may use to hack a system.  The first is to circumvent the [authentication](authentication-and-encryption.md#circumventing-authentication) on a legitimate account, but this requires background knowledge of the account and takes time and special effort.  The second is to [sniff the traffic](system-subversion.md#sniff-traffic) of a legitimate user and remotely spoof commands, which can be powerful but limited.  The most common method of hacking is to [directly gain access](#intrusion) to the target and [subvert](system-subversion.md#system-subversion) it from within.
+There are many methods you may use to hack a system.  The first is to circumvent the [authentication](authentication-and-encryption.md#circumventing-authentication) on a legitimate account, but this requires background knowledge of the account and takes time and special effort.  The second is to [sniff the traffic](../Devices.md#sniffing) of a legitimate user and remotely spoof commands, which can be powerful but limited.  The most common method of hacking is to [directly gain access](#intrusion) to the target and [subvert](system-subversion.md) it from within.
 
 :::tip Simple Hacking
 If these rules at first seem intimidating, keep in mind that the core hacking rules are fairly straightforward.  The following guidelines should get you through most situations:
@@ -28,7 +28,7 @@ Almost all intrusion and subversion efforts rely on Hacking Tests.  This [Oppose
 The art of intrusion involves penetrating a system's security, taking advantage of code glitches and flawed security protocols to bypass the target's defenses.  The best methods involve infiltrating a system slowly and quietly, without catching a watchdog's attention.  When called for, however, a hacker can toss aside pretenses and attempt to brute-force their way in.
 
 ### Establishing a Connection
-In order to hack a system, you must establish a direct connection to the target.  If you are making a direct wireless connection, the target system must be wireless-capable and within wireless radio range, and you must know the target is there (see [Stealthed Signals](../Devices.md#stealthed-signals)).  If the system is hardwired, you must physically jack in by using a regular access port (or skinlink, if the system is so equipped) or tap into a cable that carries the system's traffic (requiring a [Hardware: Electronics Test](../../Skills.md#hardware-field) and appropriate equipment, such as an electronics kit).  If you are accessing the target through the mesh, the system must be online and you must know its mesh ID or otherwise be able to find it through [Research](../Research.md#online-research) or [Tracking](../Tracking.md#tracking).
+In order to hack a system, you must establish a direct connection to the target.  If you are making a direct wireless connection, the target system must be wireless-capable and within wireless radio range, and you must know the target is there (see [Stealthed Signals](../Devices.md#stealthed-signals)).  If the system is hardwired, you must physically jack in by using a regular access port (or skinlink, if the system is so equipped) or tap into a cable that carries the system's traffic (requiring a [Hardware: Electronics Test](../../Skills.md#hardware-field) and appropriate equipment, such as an electronics kit).  If you are accessing the target through the mesh, the system must be online and you must know its mesh ID or otherwise be able to find it through [Research](../Research.md#online-research) or [Tracking](../Tracking.md).
 
 ### Brute-Force Attacks
 Brute-force hacking is quick, messy, and loud.  You select the target, trigger your exploit app, and let it quickly and methodically cycle through attacks against the most common vulnerabilities.  Brute-force intrusions require only a complex action, meaning they can be a relevant factor even in combat scenarios.  However, the target is almost always alerted to the digital invasion.
@@ -53,7 +53,7 @@ Intruder status is a simple way of measuring a hacker's situation as they invade
 ### Hidden
 If your status is hidden, the system is completely unaware of your presence and cannot act against you.  Your actions are not recorded in logs and other users cannot detect you.  Your presence may leave some traces, but they will require thorough analysis and time to find.
 
-While hidden, you receive a **+10** modifier on any efforts to [subvert the system](system-subversion.md#system-subversion).
+While hidden, you receive a **+10** modifier on any efforts to [subvert the system](system-subversion.md).
 
 ### Covert
 With covert status, your presence on the system looks legitimate and doesn't attract any unusual attention.  Only extensive checking will turn up abnormalities.  The system is aware of you, but does not consider you a threat.
@@ -76,7 +76,7 @@ Any time you use your [Infosec](../../Skills.md#infosec) skill and engage in hac
 
 If you roll a [critical failure](../../dice-basics.md#criticals) on a Hacking test, you automatically switch your status to [spotted](#spotted) and the system goes on [active alert](Countermeasures.md#active-alert).
 
-If you attack a target in [Mesh Combat](mesh-combat.md#mesh-combat), you must also make a Hacking Test or trigger a [passive alert](Countermeasures.md#passive-alert).
+If you attack a target in [Mesh Combat](mesh-combat.md), you must also make a Hacking Test or trigger a [passive alert](Countermeasures.md#passive-alert).
 
 ### Zeroing In
 If a system is on passive alert, the system defender may attempt to pinpoint intruders.  This requires a complex action and an [Opposed](../../dice-basics.md#opposed-test) [Infosec Test](../../Skills.md#infosec) between defender and each hacker.  If the hacker is hidden, the defender incurs a -30 modifier.  If the defender wins, the hacker's status becomes [spotted](#spotted) and the system goes on [active alert](Countermeasures.md#active-alert).

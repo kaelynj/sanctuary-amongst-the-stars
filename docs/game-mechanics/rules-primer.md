@@ -120,7 +120,7 @@ Moxie pool is linked to social interactions: Savvy, Willpower, and their linked 
 - **Ignore Trauma:** Ignore the effects of 1 trauma for 24 hours.
 - **Refresh Rep:** Restore rep network favors at a cost of 1 point for a Minor favor and 2 points for a Moderate favor.  Major favors may not be refreshed this way.
 - **Acquire a Clue:** Get a tip or lead by gathering information via social interactions without needing to make a test.
-- **Control your Infection:** Avoid making an Infection Test when using a [psi sleight](psi/psi-overview.md#psi-overview) (asyncs only).
+- **Control your Infection:** Avoid making an Infection Test when using a [psi sleight](psi/psi-overview.md) (asyncs only).
 - **Negate Gaffe:** Ignore a player's social gaffe that the character wouldn't make. 
 
 ### Using Vigor

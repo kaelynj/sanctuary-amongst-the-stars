@@ -82,7 +82,7 @@ Online collaboration tools, remote networking, and ALI assistants mean that work
 
 ## Coveillance
 ---
-Public sensor feeds are available to everyone on the mesh -- everyone is watched by everyone else.  These sensors provide real-time coverage of most public areas within a habitat, though they are subject to vandalism and sabotage.  Many private networks are also available, some of which are accessible for a fee or if you know the right people.  Sensors and coveillance are covered in detail in [Surveillance Hacking](Hacking/surveillance-hacking.md#surveillance-hacking).
+Public sensor feeds are available to everyone on the mesh -- everyone is watched by everyone else.  These sensors provide real-time coverage of most public areas within a habitat, though they are subject to vandalism and sabotage.  Many private networks are also available, some of which are accessible for a fee or if you know the right people.  Sensors and coveillance are covered in detail in [Surveillance Hacking](Hacking/surveillance-hacking.md).
 
 
 ## Social Networks
@@ -102,5 +102,5 @@ If you are hacked, your social network accounts may also be at risk.  Your profi
 ---
 Entoptic tags are a way for people to "tag" a physical person, place or object with virtual data.  These e-tags are stored in networks local to the tagged item and move with the item if it changes location.  E-tags are viewable in AR and can hold almost any type of data, though short notes and pictures are the most common.  E-tags are often linked to particular social networks or circles within that network so that people can leave notes, reviews, memorabilia, media, and similar things for friends and colleagues.
 
-Finding hidden tags in an area requires an [Interface Test](../Skills.md#interface) at -30 at best or may be impossible without access to the right networks/devices (GM discretion).  Even when found, they may require [decryption](Devices.md#encryption).
+Finding hidden tags in an area requires an [Interface Test](../Skills.md#interface) at -30 at best or may be impossible without access to the right networks/devices (GM discretion).  Even when found, they may require [decryption](./Hacking/authentication-and-encryption.md#encryption).
  

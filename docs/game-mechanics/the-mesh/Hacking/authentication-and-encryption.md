@@ -16,7 +16,7 @@ Many mesh IDs are publicly registered (and in some jurisdictions, this is legall
 To access any mesh device or service, you need an account.  Your account links to your mesh ID and determines your access privileges -- what you are allowed to see and do with the device/service.  As some systems are more restrictive than others, the GM ultimately decides what privileges an account provides.  There are four types of accounts: **public**, **user**, **security**, and **admin**.
 
 :::note Account Shell
-When you log onto a system, an account shell is created.  This account shell is the user interface that allows you to interact with the system.  This process represents your presence as you access the system.  It can be attacked in [Mesh Combat](mesh-combat.md#mesh-combat).
+When you log onto a system, an account shell is created.  This account shell is the user interface that allows you to interact with the system.  This process represents your presence as you access the system.  It can be attacked in [Mesh Combat](mesh-combat.md).
 :::
 
 

@@ -16,7 +16,7 @@ An action turn represents roughly 3 seconds.  During each turn you may undertake
 
 Additionally, you may take any number of automatic actions per action turn.  The GM may allow you to make additional quick actions, depending on their nature.
 
-Also note that basic movements such as walking or running is an automatic action (see [Movement](./action-and-combat/movement.md#Movement)).  More complex forms of movement, however, may require a quick, complex, or even task actions.
+Also note that basic movements such as walking or running is an automatic action (see [Movement](./action-and-combat/movement.md#movement)).  More complex forms of movement, however, may require a quick, complex, or even task actions.
 
 ## Automatic Actions
 Automatic actions are always "on" reflexive, or otherwise require no effort to initiate.  This includes base and full movement.  **Examples include**: base move, basic perception, breathing, defending against an attack, dropping prone, dropping something, full move, resisting damage, speaking a simple sentence or two.

@@ -98,7 +98,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'gameSidebar',
             position: 'left',
-            label: 'Game Mechanics',
+            label: 'Game mechanics',
           },
           {
             type: 'docSidebar',
@@ -128,15 +128,15 @@ const config = {
             items: [
               {
                 label: 'Game Mechanics',
-                to: '/docs/Game Mechanics/getting-started',
+                to: '/docs/game-mechanics/getting-started',
               },
               {
                 label: 'Player Resources',
-                to: '/docs/Player Resources',
+                to: '/docs/player-resources',
               },
               {
                 label: 'World Information',
-                to: '/docs/World Information',
+                to: '/docs/world-information',
               },
             ],
           },

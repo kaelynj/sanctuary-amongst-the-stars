@@ -63,10 +63,10 @@ Psi sleights have one of four durations: *constant*, *instant*, *temporary*, or 
 Constant sleights are always "on"
 
 #### Temporary:
-Temporary sleights last for a limited duration with no extra effort.  The temporary duration is determined by your $ \text{WIL}\div 5$ and is measured in action turns, minutes, or hours, as noted.  [Influence effects](influence-effects.md#influence-effects) are applied immediately when the sleight is activated, not at the end of the duration.
+Temporary sleights last for a limited duration with no extra effort.  The temporary duration is determined by your $ \text{WIL}\div 5$ and is measured in action turns, minutes, or hours, as noted.  [Influence effects](influence-effects.md) are applied immediately when the sleight is activated, not at the end of the duration.
 
 #### Sustained:
-Sustained sleights last as long as you want, but require active effort and concentration: apply a -10 modifier to all other skill tests while the sleight is sustained.  The async must also stay within ***Close*** range + 10 meters of the target, otherwise the sleight immediately ends.  More than one sleight may be sustained at a time, with a cumulative modifier.  [Influence effects](influence-effects.md#influence-effects) are applied immediately when the sleight is activated, not at the end of the duration.  At the GM's discretion, sleights that are sustained for long periods may incur additional [Infection Modifiers](#infection-modifiers) and [Infection Tests](##infection-tests).
+Sustained sleights last as long as you want, but require active effort and concentration: apply a -10 modifier to all other skill tests while the sleight is sustained.  The async must also stay within ***Close*** range + 10 meters of the target, otherwise the sleight immediately ends.  More than one sleight may be sustained at a time, with a cumulative modifier.  [Influence effects](influence-effects.md) are applied immediately when the sleight is activated, not at the end of the duration.  At the GM's discretion, sleights that are sustained for long periods may incur additional [Infection Modifiers](#infection-modifiers) and [Infection Tests](#infection-test).
 
 ## Infection Modifiers
 ---
@@ -80,7 +80,7 @@ The target number for your Infection Test equals your current Infection Rating (
 You may not spend pool to affect the Infection Test, but you may spend [Moxie](../Pools.md#moxie) to avoid making the Infection Test altogether, powering through the sleight with sheer willpower.  However, your Infection Rating still increases.
 
 #### Critical Failure:
-If you roll a critical failure, the exovirus temporarily loses its grip on you.  You are immune to [influence effects](influence-effects.md#influence-effects) until your next recharge.
+If you roll a critical failure, the exovirus temporarily loses its grip on you.  You are immune to [influence effects](influence-effects.md) until your next recharge.
 
 #### Superior Success:
 Apply a +1 modifier to the influence effect roll per superior success.
@@ -95,7 +95,7 @@ On a critical success, an influence effect is chosen and the GM also picks one o
 ---
 Every time an Infection Test succeeds, the exovirus exerts a bit more control over your psyche.  Every async experiences this differently, depending on their particular sub-strain.
 
-Roll 1d6 and consult your sub-strain's [influence effects](influence-effects.md#influence-effects), applying a +1 per superior success rolled on the Infection Test.  Influence effects kick in immediately as the sleight is activated.  During character creation (or when your PC becomes infected with Watts-MacLeod), you should write down these six influence effects on your character sheet.
+Roll 1d6 and consult your sub-strain's [influence effects](influence-effects.md), applying a +1 per superior success rolled on the Infection Test.  Influence effects kick in immediately as the sleight is activated.  During character creation (or when your PC becomes infected with Watts-MacLeod), you should write down these six influence effects on your character sheet.
 
 - **Physical Damage**:
 You suffer DV 1d6 in the form of fatigue, headaches, and hemorrhaging.
