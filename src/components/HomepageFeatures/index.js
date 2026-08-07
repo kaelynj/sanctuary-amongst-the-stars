@@ -1,50 +1,40 @@
 import React from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
+    title: 'Game Mechanics',
+    icon: '⚙️',
+    description: 'Rules references for dice, skills, combat, PSI, hacking, and transhuman tech.',
+    to: '/docs/game-mechanics/getting-started',
+    accentVar: '--sats-neon-cyan',
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
+    title: 'World Information',
+    icon: '🌌',
+    description: 'Lore on the factions, locations, and history of the Eclipse Phase universe.',
+    to: '/docs/world-information',
+    accentVar: '--sats-neon-magenta',
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
+    title: 'Player Resources',
+    icon: '🧬',
+    description: 'Character creation, gear, reputation, and everything else your character needs.',
+    to: '/docs/player-resources',
+    accentVar: '--sats-neon-purple',
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({icon, title, description, to, accentVar}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
-      </div>
+      <Link to={to} className={styles.featureCard} style={{'--accent': `var(${accentVar})`}}>
+        <div className={styles.featureIcon}>{icon}</div>
+        <h3 className={styles.featureTitle}>{title}</h3>
+        <p className={styles.featureDescription}>{description}</p>
+      </Link>
     </div>
   );
 }

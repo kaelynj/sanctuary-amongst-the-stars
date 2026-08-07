@@ -1,11 +1,39 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 3rem 0;
   width: 100%;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+.featureCard {
+  display: block;
+  margin: 1rem;
+  padding: 2rem 1.5rem;
+  border-radius: 8px;
+  border: 1px solid var(--accent, var(--ifm-color-primary));
+  background: var(--ifm-background-surface-color);
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 0 0px transparent;
+}
+
+.featureCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 0 18px var(--accent, var(--ifm-color-primary));
+  text-decoration: none;
+}
+
+.featureIcon {
+  font-size: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.featureTitle {
+  color: var(--accent, var(--ifm-color-primary));
+  margin-bottom: 0.5rem;
+}
+
+.featureDescription {
+  color: var(--ifm-font-color-base);
+  margin-bottom: 0;
 }

@@ -3,30 +3,51 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
-/*
- /*@import url{"https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap"};
-/* You can override the default Infima variables here. */
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono&display=swap');
+
 :root {
-  /* /*--ifm-font-family-base: 'Noto Sans'; */
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-font-family-base: 'IBM Plex Sans', sans-serif;
+  --ifm-font-family-monospace: 'IBM Plex Mono', monospace;
+
+  --ifm-color-primary: #2cc9c0;
+  --ifm-color-primary-dark: #22b5ac;
+  --ifm-color-primary-darker: #1faaa2;
+  --ifm-color-primary-darkest: #1a8c85;
+  --ifm-color-primary-light: #3dd4cb;
+  --ifm-color-primary-lighter: #48d8cf;
+  --ifm-color-primary-lightest: #6ee2da;
+
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  /* Neon accent colors */
+  --sats-neon-magenta: #f72585;
+  --sats-neon-purple: #7209b7;
+  --sats-neon-cyan: #4cc9f0;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #2cc9c0;
+  --ifm-color-primary-dark: #22b5ac;
+  --ifm-color-primary-darker: #1faaa2;
+  --ifm-color-primary-darkest: #1a8c85;
+  --ifm-color-primary-light: #3dd4cb;
+  --ifm-color-primary-lighter: #48d8cf;
+  --ifm-color-primary-lightest: #6ee2da;
+
+  --ifm-background-color: #1e2130;
+  --ifm-background-surface-color: #252839;
+  --ifm-navbar-background-color: #181a28;
+  --ifm-footer-background-color: #181a28;
+  --ifm-toc-border-color: #2cc9c020;
+
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Default (light) mode: slate gray tones */
+[data-theme='light'] {
+  --ifm-background-color: #e8eaf0;
+  --ifm-background-surface-color: #f0f2f7;
+  --ifm-navbar-background-color: #d4d8e4;
 }
