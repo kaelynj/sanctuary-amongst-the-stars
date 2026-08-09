@@ -1,7 +1,7 @@
 # Uranus 
 ---
 
-Beyond Saturn's orbit, the Solar System turns into a sparsely populated wilderness with just a handful of large settlements and countless smaller ones. Uranus orbits at 10 AU beyond Saturn, and Neptune at 10 AU beyond that. The distances between stations and delta-v required to reach them is enormous, growing larger by measures the farther you travel. Life in the rimward system is both fragile and self-sufficient. It's a hodgepodge of brinkers, anarchists, romantics, scientists, and entrepeneurs -- sometimes all combined.
+Beyond Saturn's orbit, the Solar System turns into a sparsely populated wilderness with just a handful of large settlements and countless smaller ones. Uranus orbits at 10 AU beyond Saturn, and Neptune at 10 AU beyond that. The distances between stations and delta-v required to reach them is enormous, growing larger by measures the farther you travel. Life in the rimward system is both fragile and self-sufficient. It's a hodgepodge of brinkers, anarchists, romantics, scientists, and entrepreneurs -- sometimes all combined.
 
 # The Ice Giants
 Uranus and Neptune are ice giants, comprised of water ice, methane, and ammonia with rocky cores. The resources mined by *skimmers* on both worlds are vital to life beyond Saturn, from the water that keeps settlements alive to the volatiles used to fuel the freighters that plumb the outer trade routes.
@@ -22,7 +22,7 @@ Uranus's equator is inclined ~98 degrees to its orbit. Uranus's magnetic field i
 
 Uranus is perfect for supporting aerostats and the local culture of skimmers have turned harvesting volatiles into a cottage industry. Without strong radiation or winds, these aerostats bumble happily along, converting Uranus into useful materials. They range in size from a few dozen people to single-person operations.
 
-Skimmers like their privacy, but if you let them engage you in conversations, you'll be opening yourself up to dubious stories of derring-do, plausible tales of escaping the authorities, or yarns about shapes in the clouds. Nearly every skimmer has at least one story of a strange heat source, sighting of an off-record ship or aerostat, or something even odder floating among the methane plumes.
+Skimmers like their privacy, but if you let them engage you in conversations, you'll be opening yourself up to dubious stories of daring-do, plausible tales of escaping the authorities, or yarns about shapes in the clouds. Nearly every skimmer has at least one story of a strange heat source, sighting of an off-record ship or aerostat, or something even odder floating among the methane plumes.
 
 
 ## Settlements
@@ -30,7 +30,7 @@ Skimmers like their privacy, but if you let them engage you in conversations, yo
 ### Varuna
 
 - **Habitat Type:** Aerostat
-- **Allegience:** Brinker
+- **Allegiance:** Brinker
 
 Varuna is Uranus's only large aerostat. It's run by an elected council and acts as a hub for skimmers. A few hypercorps maintain small offices here, trading for volatiles. Visitors find Varuna either provincial or charming.
 
@@ -46,7 +46,7 @@ Uranus has six significant satellites and several tiny moonlets in increasingly 
 
 8,000 of Oberon's 10,000 inhabitants live in Chat Noir, a frontier outpost run by a handful of anarchist collectives. It has advanced resleeving, egocasting, and manufacturing facilities, primarily to service the Fissure Gate, the only pandora gate in anarchist control. The gate's discovery transformed Chat Noir from a backwater to a boomtown overnight. So far, the Consortium has been unable to take control of the gate from the anarchists, and Chat Noir's security keeps it that way.
 
-The Cobweb is one of the premier farcasting facilities in the Solar System, taking advantage of Oberon's distant orbit from Uranus's interfering magnetosphere to egocast nearly anywhere. The facility is mobile, crawling across Oberon's surface on spiderlike legs to achieve maximum signal fidelity. The Chat Noir collectives control Cobweb and only those with a high enough @-rep can use it.
+The Cobweb is one of the premier farcasting facilities in the Solar System, taking advantage of Oberon's distant orbit from Uranus's interfering magnetosphere to egocast nearly anywhere. The facility is mobile, crawling across Oberon's surface on spider-like legs to achieve maximum signal fidelity. The Chat Noir collectives control Cobweb and only those with a high enough @-rep can use it.
 
 The Consortium and various hypercorps, tired of dealing with the anarchists' security measures and Chat Noir's lack of more luxurious amenities, have started prospecting to build a second spaceport on Oberon.
 

@@ -1,4 +1,6 @@
 # Surveillance Hacking 
+---
+
 Surveillance is one of the mesh's primary uses.  Knowing how to conduct your business unseen is a necessary skill for characters of all stripes.
 
 ## Detecting Sensors
@@ -21,7 +23,7 @@ If you can't avoid the sensors, trick them.  Privacy devices like the shroud are
 
 # Active Jamming
 ---
-One noisy and short-lived option for countering coveillance is to jam all radio frequencies (see [Jam Signals](system-subversion.md#jam-signals)).  This will not stop sensors from detecting or recording, but it will prevent them from transmittign this information via the mesh using wireless radio -- for as long as the jamming lasts.  hardwired sensors or systems using laser or microwave links are unaffected (though microwave links may be jammed separately).  Jamming is useful as you can do it on the go, but it also impacts everyone and everything around you and is likely to attract the attention of security forces.  In a similar manner, dazzlers may be used to temporarily blind cameras.
+One noisy and short-lived option for countering coveillance is to jam all radio frequencies (see [Jam Signals](system-subversion.md#jam-signals)).  This will not stop sensors from detecting or recording, but it will prevent them from transmitting this information via the mesh using wireless radio -- for as long as the jamming lasts.  hardwired sensors or systems using laser or microwave links are unaffected (though microwave links may be jammed separately).  Jamming is useful as you can do it on the go, but it also impacts everyone and everything around you and is likely to attract the attention of security forces.  In a similar manner, dazzlers may be used to temporarily blind cameras.
 
 # Hacking Sensors
 ---

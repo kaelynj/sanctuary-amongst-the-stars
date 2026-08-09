@@ -1,4 +1,8 @@
+# AIs and Muses
+---
+
 AIs are self-aware software.  Like other code, they must be run on a computerized device.  They may be crashed in mesh combat, copied, erased, stored as inert data, infected with viruses, and reprogrammed.
+
 
 ## ALIs
 ---
@@ -9,12 +13,12 @@ Most ALIs are run on bots, vehicles, and other devices to assist transhumans or 
 In most societies, ALIs are considered things or property rather than people and accorded no special rights.  They may also be banned from certain roles or activities.  A few polities treat them as persons with limited or full civil rights and protections.
 
 ### Personality
-ALI personality matrices are encoded with individual identities and character traits.  They seem conscious and self-aware, though detailed probing will reveal shallow personalities and other limitations.  They lack self-interest and initiative, and their emotional programming is narrow (based on empathy along) or non-existent, though they may be programmed to anticipate the needs and desires of users and pre-emptively take action on their behalf.  Though sentient, it remains a matter of debate whether ALIs are fully sapient.
+ALI personality matrices are encoded with individual identities and character traits.  They seem conscious and self-aware, though detailed probing will reveal shallow personalities and other limitations.  They lack self-interest and initiative, and their emotional programming is narrow (based on empathy along) or non-existent, though they may be programmed to anticipate the needs and desires of users and preemptively take action on their behalf.  Though sentient, it remains a matter of debate whether ALIs are fully sapient.
 
 Given their limited personality, ALIs are less emotive and more difficult to read.  Apply a **-30** modifier to [Kinesics Tests](../Skills.md#kinesics) [[Skills#Kinesics|Kinesics Tests]] made against them.  When combined with non-expressive synthetic morphs, increase this modifier to -60.  Some ALIs lack emotive capability altogether and are simply impossible to read.
 
 ### Commanding ALIs
-Due to built-in safety features, ALIs must serve and obey the instructions of authorized users within their normal functioning parameters.  They are also programmed to follow the law (in the inner system) or an ethical code (autonomist areas).  If need be, however, ALIs can be quite clever in how they interpret commands and act upon them.  More importantly, their psychological programming is based on human modes of thought and an understanding and support of transhuman goals and interests.  This is part of an effort to create "friendly AI."  An ALI will be reluctant to follow commands that will have a negative impact on the user or other transhumans.  Pre-programmed imperatives can force it to ignore or disobey orders taht are dangerous.  In the case of accidents, they are sometimes coded to minimize harm and damage and sometimes coded to protect the user at all costs.  Of course, ALIs designed for military and weapon systems do not face such restrictions.
+Due to built-in safety features, ALIs must serve and obey the instructions of authorized users within their normal functioning parameters.  They are also programmed to follow the law (in the inner system) or an ethical code (autonomist areas).  If need be, however, ALIs can be quite clever in how they interpret commands and act upon them.  More importantly, their psychological programming is based on human modes of thought and an understanding and support of transhuman goals and interests.  This is part of an effort to create "friendly AI."  An ALI will be reluctant to follow commands that will have a negative impact on the user or other transhumans.  Pre-programmed imperatives can force it to ignore or disobey orders that are dangerous.  In the case of accidents, they are sometimes coded to minimize harm and damage and sometimes coded to protect the user at all costs.  Of course, ALIs designed for military and weapon systems do not face such restrictions.
 
 ### Limitations
 Lacking generalized intelligence, ALIs are inept and clueless when it comes to situations outside their specialty.  Secondary skills tend to be less competent than an equivalent transhuman.  They are generally incapable of creative or "outside-the-box" thinking.
@@ -31,7 +35,7 @@ By design, ALIs are incapable of self-improvement.  to acquire or improve a skil
 For all other rules, ALIs are treated as [infomorphs](Infomorphs.md).
 
 ### Traits
-ALIs have the Modified Behavior (Obedient, Level 3) and Real-World Naivete traits.  GMs may assing other traits as they see fit.
+ALIs have the Modified Behavior (Obedient, Level 3) and Real-World Naivete traits.  GMs may assign other traits as they see fit.
 
 ### Lucidity and Trauma
 ALIs are capable of suffering mental stress and trauma, and so have Lucidity, Trauma Threshold, and Insanity Rating stats.
@@ -70,7 +74,7 @@ Here are a few specific examples of tasks your muse can take on:
 - Run audio through an online, real-time language translation service
 - Put you in privacy mode and proactively stealth your wireless signal
 - Track people for you
-- Anticipate your needs and pre-empt your requests
+- Anticipate your needs and preempt your requests
 - Monitor your health (via medichines) and the status of ware/gear.
 - Summon help if something happens to you.
 

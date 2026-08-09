@@ -6,7 +6,7 @@ sidebar_label: Mesh Actions
 # Mesh Actions
 Your actions online are largely influenced by the particular system(s) you are accessing.  The following list is not comprehensive, but should give your and your GM a basis for handling online tasks.
 
-Keep in mind that your actions are limited by your current [[Devices#Accounts & Access Privileges|device access priviliges]].  If you wish to do something that your privileges do not allow -- access a file in a restricted directory, edit a log, manipulate a security device -- then you must hack the system to do so.  Actions that specifically require hacking are detailed under [[Hacking]], and [[Hacking#System Subversion|Subversion]].
+Keep in mind that your actions are limited by your current [[Devices#Accounts & Access Privileges|device access privileges]].  If you wish to do something that your privileges do not allow -- access a file in a restricted directory, edit a log, manipulate a security device -- then you must hack the system to do so.  Actions that specifically require hacking are detailed under [[Hacking]], and [[Hacking#System Subversion|Subversion]].
 
 Unless otherwise noted, these actions each take a complex action but require no skill test, assuming you have access privileges.
 
@@ -15,7 +15,7 @@ Unless otherwise noted, these actions each take a complex action but require no 
 These actions apply to [[Devices#Motes|motes]], [[Devices#Hosts|hosts]], [[Devices#Servers|servers]], and most other electronics.  Any user can take these actions, though high-security systems may restrict some of these to users with security or admin privileges.
 
 ##### Access Another System
-You can authenticate and [[Devices#Acounts & Access Privileges|access]] an account on another system.  This creates an account shell, representing your presence on that system.
+You can authenticate and [[Devices#Accounts & Access Privileges|access]] an account on another system.  This creates an account shell, representing your presence on that system.
 
 ##### Apply Tag
 You can mark a physical person, place, or thing with an e-tag viewable in AR.
@@ -39,7 +39,7 @@ You can command any slaved device, ALI, or teleoperated bot with only a quick ac
 Exit a system
 
 ##### Modify Files
-You can view, change, upload, download, and delete any files you have access privileges for.  Deleted files can still be recovered with an [[Skills#Interface|Inteface Test]] for 1 week, though you can also choose to wipe (permanently delete) a file so that no recovery is possible; however, archived backups may also exist.
+You can view, change, upload, download, and delete any files you have access privileges for.  Deleted files can still be recovered with an [[Skills#Interface|Interface Test]] for 1 week, though you can also choose to wipe (permanently delete) a file so that no recovery is possible; however, archived backups may also exist.
 
 ##### Operate Device
 Most devices have built-in hardware and electronic functions that you can directly control. Turn on your vehicle, load an autocook blueprint, turn up the heat, turn off the sprinklers, open the door, set a timer, fire a weapon system, adjust settings, etc.  At the GM's discretion some functions may require skill tests.
@@ -87,7 +87,7 @@ You can see both the apps available on the device as well as the ones currently 
 You can view the public social network profile and rep scores of anyone within physical range (or within range of sensors you are accessing), unless they are in [[Mesh Introduction#Privacy Mode|privacy mode]].
 
 ##### View Sensor Feeds
-Many devices include miniaturized sensors.  These can be viewed or streamed directly into your augmented reality.  use [[Skills#Perceive|Perceive]] Tests for most sensors; others may require [[Skills#Know|Know]] tests (for example: a chem sniffer's results are analyzed with Know: Chemistry).  Sensors used for security pruposes are usually limited to accounts with security or admin privileges.
+Many devices include miniaturized sensors.  These can be viewed or streamed directly into your augmented reality.  use [[Skills#Perceive|Perceive]] Tests for most sensors; others may require [[Skills#Know|Know]] tests (for example: a chem sniffer's results are analyzed with Know: Chemistry).  Sensors used for security purposes are usually limited to accounts with security or admin privileges.
 
 ##### View System Status
 Get a report on the system's "health" and integrity, that status of its built-in functions, the progress of ongoing processes, security alerts/intruder status, and so on.
@@ -159,7 +159,7 @@ You can completely erase all data from the system: all files, apps, accounts, in
 
 A script is a simple program -- a batch of instructions -- that you can embed in a system to be executed at a later scheduled time or upon a certain trigger event, without your presence.  When activated, the script will undertake a series of pre-defined actions, in order.  Scripts are commonly used by hackers to subvert a system while they are occupied elsewhere, but they can also be used with your own systems (though it is usually easier to tell ALIs what to do)..
 
-Scripts can be programmed on the fly or pre-programmed.  When composing the script, you must detail what actions the script will take, in what order, and at what times (or trigger events).  The script cannot contain more steps/takss than your [[Skills#Program|Program Skill]] / 10.  To program a script, you must success in a [[Skills#Program|Program Test]] with a timeframe of 1 hour per step.  Superior successes provide 1 point of [[Pools#Insight|Insight pool]] that the script may use for making tests.
+Scripts can be programmed on the fly or pre-programmed.  When composing the script, you must detail what actions the script will take, in what order, and at what times (or trigger events).  The script cannot contain more steps/tasks than your [[Skills#Program|Program Skill]] / 10.  To program a script, you must success in a [[Skills#Program|Program Test]] with a timeframe of 1 hour per step.  Superior successes provide 1 point of [[Pools#Insight|Insight pool]] that the script may use for making tests.
 
 To load a script into a system, you must have the necessary access privileges or must succeed in a [[Hacking|Hacking]].  If successful, the script is loaded into the system and will run as programmed.  Once the script is activated, it carries out the pre-programmed sequence of actions.  The script is considered to have the same access privileges as the account that runs it.  The programmer's [[Skills#Infosec|Infosec]], [[Skills#Interface|Interface]], and [[Skills#Research|Research]] skills are used for any tests called for by those actions, but only the script's own Insight pools may be used.
 

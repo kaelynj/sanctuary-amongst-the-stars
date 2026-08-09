@@ -10,4 +10,4 @@ The *Conch* started its life as a refugee ship, when Brazilian and Panamanian fa
 
 Then things got strange. The hyperelite Lhagva family purchased the ship, replaced the entire crew, and transferred three family members there. These three brothers -- Bold, Batkhuu, and Battulga -- were wanted for various white-collar crimes in the inner system and were put into voluntary exile to avoid embarrassment.
 
-The brothers quickly insinuated themselves among the vairous social groups and started treating the Conch like their own private social experiment. Those who refuse to conform or fall out of the brothers' favor find themselves shoved out the nearest airlock.
+The brothers quickly insinuated themselves among the various social groups and started treating the Conch like their own private social experiment. Those who refuse to conform or fall out of the brothers' favor find themselves shoved out the nearest airlock.

@@ -1,4 +1,6 @@
 # System Subversion
+---
+
 Once you have successfully penetrated a system, your options will depend on your access privileges and the nature of the system.  Many of the actions you take as an intruder are not that different from a regular user (i.e. searching files, operating devices, etc.) See [Mesh Actions](../mesh-actions.md).
 
 Any time you attempt to do something that your [access privileges](authentication-and-encryption.md#accounts--access-privileges) do not allow for, you must [hack](Hacking.md) the system to do what you want.  In most cases, this requires a [Hacking Test](Hacking.md#hacking-test).  Apply modifiers from ongoing [system alerts](Countermeasures.md#security-alerts).  If you win the contest, you succeed, but each attempt puts you in risk of discovery if you roll a superior or critical failure (see [Exposure](Hacking.md#exposure)).
@@ -59,7 +61,7 @@ To install a backdoor, you must have access to the system, take a complex action
 
 ## Install Blocker
 ---
-To deter countermeasures, you can activate a process that will pre-emptively block a specific app, command, or action on that system.  For example, you could install a blocker to prevent a shutdown from being initiated, stop an app from launching, or prevent a device function from being activated.  Creating a blocker requires a complex action and a [Hacking Test](Hacking.md#hacking-test); the particular action it blocks must be specified.  If successful, any attempt to conduct that action automatically fails.  To undo a blocker, it must first be located (requiring a [Research Test](../Research.md)) and then deleted (a complex action).  System reboots will also remove all blockers.
+To deter countermeasures, you can activate a process that will preemptively block a specific app, command, or action on that system.  For example, you could install a blocker to prevent a shutdown from being initiated, stop an app from launching, or prevent a device function from being activated.  Creating a blocker requires a complex action and a [Hacking Test](Hacking.md#hacking-test); the particular action it blocks must be specified.  If successful, any attempt to conduct that action automatically fails.  To undo a blocker, it must first be located (requiring a [Research Test](../Research.md)) and then deleted (a complex action).  System reboots will also remove all blockers.
 
 :::info
 Blockers are not omnipotent; GMs should use their best judgement when defining their limitations.
@@ -85,7 +87,7 @@ You can intercept and monitor wireless signals (see [Sniffing](../Devices.md#sni
 
 ## Suppress Alarm
 ---
-You can attempt to turn off a passive alert by winning a [Hacking Test](Hacking.md#hacking-test).  The system will have alerted any defenders as soon as the alert was triggered, so this will not necessarily deter scrutiny, but it may sidestep automatic countermeasures such as [re-authentication](Countermeasures.md#reauthenticate-automatic) or [reduce privileges](Countermeasures.md#reduce-privileges-automatic).  The same action can be used to reduce an [active aler](Countermeasures.md#active-alert) to a [passive alert](Countermeasures.md#passive-alert) (which can then be subsequently turned off with another suppress action).
+You can attempt to turn off a passive alert by winning a [Hacking Test](Hacking.md#hacking-test).  The system will have alerted any defenders as soon as the alert was triggered, so this will not necessarily deter scrutiny, but it may sidestep automatic countermeasures such as [re-authentication](Countermeasures.md#reauthenticate-automatic) or [reduce privileges](Countermeasures.md#reduce-privileges-automatic).  The same action can be used to reduce an [active alert](Countermeasures.md#active-alert) to a [passive alert](Countermeasures.md#passive-alert) (which can then be subsequently turned off with another suppress action).
 
 ## Suppress Process
 ---

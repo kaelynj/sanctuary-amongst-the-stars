@@ -18,9 +18,9 @@ oMost Neptunian life is concentrated on the planet's moons or on the few habs th
 
 The brinkers on Mushroom embody the term paranoid: egocasting from a handful of trusted stations is the only way in. If you try to approach by ship, your molecules join Neptune's beautiful swirling clouds. Once aboard, you're held in psychosurgery until they determine why you're there. If the don't like the reason, you're 'cast off.
 
-Mushroom is one of the few places to get an up-close look at neptune's roiling clouds and weather, but little research happens here. There are no radio or mesh transmissions allowed out; anyone found attempting to do so is exiled. The stat uses a few stretgically places repeater satellites to receive transmissions, so the inhabitants at least stay up on current events and sports scores.
+Mushroom is one of the few places to get an up-close look at neptune's roiling clouds and weather, but little research happens here. There are no radio or mesh transmissions allowed out; anyone found attempting to do so is exiled. The stat uses a few strategically places repeater satellites to receive transmissions, so the inhabitants at least stay up on current events and sports scores.
 
-Whos' footing the bill for this little venture and why? Ask any Neptunian about Mushroom and you'll get a shrug and a quick change of subject.
+Who's footing the bill for this little venture and why? Ask any Neptunian about Mushroom and you'll get a shrug and a quick change of subject.
 
 Supposedly there's a habitat called Jaques even deeper than Mushroom. But it probably doesn't exist.
 
@@ -36,7 +36,7 @@ Glitch's systems allow infomorphs to communicate incredible amounts of informati
 - **Habitat Type:** Cylinder
 - **Allegiance:** Mercurial
 
-Mahogany was founded on the principle that uplifts and AGIs didn't require human intervention. It's now an inspriation for other mercurial colonies, but Mahogany's autonomy doesn't mean isolation. Its residents actively participate in system-wide scientific research, political activism, and media production. Mahogonans are most concered with helping mercuriials avoid persecution and establish new communities.
+Mahogany was founded on the principle that uplifts and AGIs didn't require human intervention. It's now an inspiration for other mercurial colonies, but Mahogany's autonomy doesn't mean isolation. Its residents actively participate in system-wide scientific research, political activism, and media production. Mahogonans are most concerned with helping mercurials avoid persecution and establish new communities.
 
 ### Afrik
 - **Habitat Type:** Torus

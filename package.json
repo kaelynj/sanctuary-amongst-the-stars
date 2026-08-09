@@ -14,7 +14,7 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "lint": "npx eslint src/**/*.js",
-    "spelling": "npx cspell --config src/config/cspell.json docs/**/**.md blog/**/*.md",
+    "spelling": "npx cspell --config src/config/cspell.json \"docs/**/*.md\" \"blog/**/*.md\"",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids"
   },

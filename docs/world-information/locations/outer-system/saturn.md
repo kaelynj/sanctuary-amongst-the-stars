@@ -53,7 +53,7 @@ Known colloquially as Phelan's, this scum flotilla is a waystation between Satur
 
 Salah was conceived by the Al Thani family of Qatar, who heavily financed various efforts to expand into space. Originally intended as a grandiose display of wealth and power, Salah is now seen by many Muslims as an opportunity to bring the *ummah* together again and give them a place of their own to call home. However, the Al Thani family is working hard to open Salah to Consortium hypercorps, offering them a foothold in the outer system. Already their designs have run counter to the community's wishes.
 
-Salah is a place of faith and tolerance. While many of them follow the teachings of the Prophet, a great many Hindus, some Christians, and some Jewish refugees have been given quarter here. Salah was designed to inspire. Vast parks and green spaces combine with architecture meant to emulate everything from the Hagia Sophia to the Al Haram to Canterbury Catherdral. It is hard not to stand within Salah and feel awe.
+Salah is a place of faith and tolerance. While many of them follow the teachings of the Prophet, a great many Hindus, some Christians, and some Jewish refugees have been given quarter here. Salah was designed to inspire. Vast parks and green spaces combine with architecture meant to emulate everything from the Hagia Sophia to the Al Haram to Canterbury Cathedral. It is hard not to stand within Salah and feel awe.
 
 
 ### Twelve Commons (Epimetheus and Janus)

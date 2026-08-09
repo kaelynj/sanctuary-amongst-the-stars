@@ -118,7 +118,7 @@ The combination of abundant computing, archived data, and ubiquitous public sens
 
 
 ## Private and Proprietary Data
-Not everything can be found online.  Some data may only be acquired by asking the right people (see [Networking](../transhuman-tech/reputation.md)).  Information that is considered secret or proprietary could be stored away in private networks behind firewalls, in off-mesh hardwired networks, or in commercial archives.  This would requrie you to gain access to such networks in order to get the dat you need (though a successful Research Test may tell you where to look).
+Not everything can be found online.  Some data may only be acquired by asking the right people (see [Networking](../transhuman-tech/reputation.md)).  Information that is considered secret or proprietary could be stored away in private networks behind firewalls, in off-mesh hardwired networks, or in commercial archives.  This would require you to gain access to such networks in order to get the dat you need (though a successful Research Test may tell you where to look).
 
 ## Analyzing the Results
 Just because you've acquired the data doesn't mean you understand it.  You may need to make a skill test using [Know](../Skills.md#know-skills) or another appropriate skill to analyze the results and discover what you're looking for.  For example, a Research Test might pull up the chemical details of a particular alien toxin, but a [*Know: Chemistry* Test](../Skills.md#know-skills) may be necessary to actually understand the repercussions and concoct an antidote.
