@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksanctuary_amongst_the_starts=globalThis.webpackChunksanctuary_amongst_the_starts||[]).push([[485],{3238(t){t.exports=JSON.parse('{"metadata":{"permalink":"/sanctuary-amongst-the-stars/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
