@@ -19,7 +19,7 @@ You attack a local or remote target by attempting to destabilize its underlying 
 If a system defender is actively shielding the target ([[Mesh Actions#Shield Software|Shield Software]]), this is an opposed test against their [[Skills#Infosec|Infosec]] skill.  If not, it is a standard success test.  Remote attacks are opposed by the [[Countermeasures#Firewall|Firewall]] rating (or the defender's Infosec skill if actively defended).  Firewalls are trained to detect mesh attacks.  Any time an intruder makes a mesh attack, they must also make a [[Hacking#Hacking Test|Hacking Test]].  If they lose, a [[Countermeasures#Passive Countermeasures|passive alert]] is triggered.
 
 ##### [[Mesh Actions#Identify Attacker|Attack Awareness]]
-It is not automatically apparent where a mesh attack originates from -- or even that it is underway.  If you, your software, or the operating system of the device you are accessing/running on take damage or wounds, you will experience this as malfunction software -- an unfortunately common occurrence, even in #EclipsePhase .  If you supsect you are under attack, you may take a complex action and make an [[Skills#Infosec|Infosec Test]] to identify the attacker and their mesh ID.
+It is not automatically apparent where a mesh attack originates from -- or even that it is underway.  If you, your software, or the operating system of the device you are accessing/running on take damage or wounds, you will experience this as malfunction software -- an unfortunately common occurrence, even in #EclipsePhase .  If you suspect you are under attack, you may take a complex action and make an [[Skills#Infosec|Infosec Test]] to identify the attacker and their mesh ID.
 
 
 ## Mesh Damage & Armor
@@ -33,7 +33,7 @@ Some hardened apps, infomorphs, and systems have built-in redundancies to protec
 ---
 If the damage inflicted upon you exceeds your software's [[Health#Wound|Wound]], a wound is inflicted.  In mesh combat, wounds represent broken processes, instability, memory leaks, and other errors.  Each wound inflicts a cumulative -10 modifier to all actions.  Unlike physical wounds, mesh wounds do not trigger checks for knockdown or unconsciousness.
 
-**OPTIONAL RULE:** For each eound, there is a cumulative 10% change you suffer a [[Mesh Combat#Glitches|glitch]].
+**OPTIONAL RULE:** For each round, there is a cumulative 10% change you suffer a [[Mesh Combat#Glitches|glitch]].
 
 ## Mesh Durability
 ---
@@ -95,6 +95,6 @@ Glitches represent additional errors and malfunctions that may affect software o
 | --- | --- |
 | 1-2 | **Lost Connectivity:** All communication links to remote systems are dropped.  If you are accessing a remote system, you are logged out.  if the affected target is a cyberbrain, its morph collapses or freezes up |
 | 3 | **Encoding Error:** If you are a covert or hidden intruder, you become spotted.  if you mesh ID was anonymized, your real ID is leaked and logged.  If you are a legitimate user/software, the system now identifies you as a spotted intruder and will enact appropriate countermeasures.  A firewall or operating system inflicted with this glitch will consider the entire system to be compromised and initiate a reboot.
-| 4 | **Memory Loss:** Egos within infomorphs/cyberbrains lose access to certain memories.  the GM selects one set of memories or one skill -- these memories or skill are unabailable until you reboot.  Targeted apps and operating systems forget important data, potentially becoming unusable in certain circumstances. Targeted account shells must take an action to re-authenticate, perhaps requiring a [[Hacking|Hacking Test]] if they lack credentials.
-| 5 | **Hung Process:** One of your apps or other connected software (determined by the GM) freezes up and stops functioning until it is restarted (taking 1d6 action turns).  This could even be another process on the system you have recently interacted with (perhaps preventing certain actions).  For cyberbrains, this may mean loasing access to a part of your morph's functionality, such as a limb, a sense, or other ware.
+| 4 | **Memory Loss:** Egos within infomorphs/cyberbrains lose access to certain memories.  the GM selects one set of memories or one skill -- these memories or skill are unavailable until you reboot.  Targeted apps and operating systems forget important data, potentially becoming unusable in certain circumstances. Targeted account shells must take an action to re-authenticate, perhaps requiring a [[Hacking|Hacking Test]] if they lack credentials.
+| 5 | **Hung Process:** One of your apps or other connected software (determined by the GM) freezes up and stops functioning until it is restarted (taking 1d6 action turns).  This could even be another process on the system you have recently interacted with (perhaps preventing certain actions).  For cyberbrains, this may mean losing access to a part of your morph's functionality, such as a limb, a sense, or other ware.
 | 6 | **Overload**: A malfunctioning process voraciously consumes system resources.  You are unable to use pool for mesh-related actions for 1d6 turns.  Apps struck by this glitch can only function every other action turn.  Overloaded operating systems may randomly disconnect users.

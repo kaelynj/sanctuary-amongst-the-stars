@@ -1,7 +1,10 @@
-The #rimward system's scattered and more isolated population has given rise to unique political movements and entities.  It is home to experimenters, innovators, and iconoclasts, side-by-side with those who cling to the past, regressive policies, and outmoded ideas.
-
+# Outer System Polities
 ---
-# Anarchists
+
+The rimward system's scattered and more isolated population has given rise to unique political movements and entities.  It is home to experimenters, innovators, and iconoclasts, side-by-side with those who cling to the past, regressive policies, and outmoded ideas.
+
+
+## Anarchists
 ---
 #### Memes:
 - #Anarchism
@@ -30,7 +33,7 @@ That distinction may be why so many outer-system habs gravitate towards anarchis
 
 ### Ideal Organization
 
-Anarchists are used to the question, "What's to stop you from murdering as many people as you want?" The answer is, "We do murder as many people as we want: zero."  There's no threat of Hell, no political entity, and no king waiting to chop off your head if you fuck up.  there's only the imperative to treat others in the community with the same kind of respect and kindness you wish to receive.  Understand that this altruism is roote in selfishness; you selfishly want people not to act like assholes towards you, so you should not act like an asshole.
+Anarchists are used to the question, "What's to stop you from murdering as many people as you want?" The answer is, "We do murder as many people as we want: zero."  There's no threat of Hell, no political entity, and no king waiting to chop off your head if you fuck up.  there's only the imperative to treat others in the community with the same kind of respect and kindness you wish to receive.  Understand that this altruism is rooted in selfishness; you selfishly want people not to act like assholes towards you, so you should not act like an asshole.
 
 When anarchists organize, we do so voluntarily and horizontally.  We create militias for self-defense.  We sometimes select individuals to steer public projects towards approval.  And we make no decisions without first allowing everyone affected by that decision to have a say.
 
@@ -56,7 +59,7 @@ We also face military invasion by the Consortium, Jovians, Ultimates, and other 
 ---
 
 
-# The Autonomist Alliance
+## The Autonomist Alliance
 ---
 
 #### Memes:
@@ -94,7 +97,7 @@ Alliance members understand that their largest risk is an organized military ope
 
 
 
-# Extropians
+## Extropians
 ---
 #### Memes:
 - #MarketAnarchism
@@ -104,7 +107,7 @@ Alliance members understand that their largest risk is an organized military ope
 - Extropia ([[The Main Belt]])
 
 
-Extropians are the only ones to truly embrace the free market.  The hypercapitalism destroying Mars and the inner system isn't an actual free market, it's just more of the same liberty-crushing regulatory nonsense with government wolves in corporate clothing.  And the lovey-dovey collectivist bullshit going on across those anarchist habs seems nice in principle, but in reality it's hot garbage.  That lack of laws is good, but do you really want share all of your stuff with strangers, rely on your neighbors for abckup, and sacrifice yourself to the collective?  We're the happy medium between the two ,the truly free market that lets individuals express themselves.
+Extropians are the only ones to truly embrace the free market.  The hypercapitalism destroying Mars and the inner system isn't an actual free market, it's just more of the same liberty-crushing regulatory nonsense with government wolves in corporate clothing.  And the lovey-dovey collectivist bullshit going on across those anarchist habs seems nice in principle, but in reality it's hot garbage.  That lack of laws is good, but do you really want share all of your stuff with strangers, rely on your neighbors for backup, and sacrifice yourself to the collective?  We're the happy medium between the two ,the truly free market that lets individuals express themselves.
 
 ### Entering the Contract
 
@@ -131,7 +134,7 @@ Meanwhile, the autonomists criticize us for allowing contracts that are "exploit
 
 
 
-# The Jovian Republic
+## The Jovian Republic
 ---
 
 #### Memes:
@@ -164,14 +167,14 @@ This relationship is also a function of the Republic's slingshot taxation, one o
 
 ---
 
-# Scum
+## Scum
 
 #### Memes:
 - #Hedonism
 - #Immediacy
 - #Morphological-Freedom
 
-The Scum are societal dropouts.  They have walked away from normie transhuman culture to pursue their own radical self-expression.  They have rejected consumerism, work, and the other spectacles and shackles that people live under.  Their central imperative is to live life to the fullest and they pursue this with drugs, body mods, sex, art, and anything else that captures their interest.  Some consider this hedonistic, depraved, or even criminal.  The scum response would be that a lifef in a cage isn't worth living.
+The Scum are societal dropouts.  They have walked away from normie transhuman culture to pursue their own radical self-expression.  They have rejected consumerism, work, and the other spectacles and shackles that people live under.  Their central imperative is to live life to the fullest and they pursue this with drugs, body mods, sex, art, and anything else that captures their interest.  Some consider this hedonistic, depraved, or even criminal.  The scum response would be that a life in a cage isn't worth living.
 
 Scum resemble anarchists (and some are).  Most take politics less seriously, however, though they adopt various communal methods of organization.  They have little regard for rules that impede personal growth and pleasure, so long as everyone is a willing participant.  However many scum groups adopt guiding principles that include concepts like self-reliance, radical inclusion, and active consent.  Scum often cohere into tribes, camps, crews, or packs based on thematic concepts or general affinity, but these are ephemeral and fluctuate frequently.
 
@@ -190,16 +193,16 @@ Scum swarms are valued as bringers of (temporary) entertainment to the habitats 
 
 ---
 
-# The Titanian Commonwealth
+## The Titanian Commonwealth
 
 #### Memes:
 - #Cyberdemocracy
-- #Technosocialsm
+- #Technosocialism
 
 #### Main Habitats:
 - Aarhus (Titan)
 - New Quebec (Titan)
-- Nyhaven (Titan)
+- Nyhavn (Titan)
 
 60 million transhumans live on Titan, and we have forged a model society for the future of transhumanity.  Everyone is welcome, everyone contributes, and everyone breathes free together.  It is our hope that we will serve as an example for the rest of the system to one day emulate.
 

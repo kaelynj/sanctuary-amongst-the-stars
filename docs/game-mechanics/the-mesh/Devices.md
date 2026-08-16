@@ -41,7 +41,7 @@ Everyone uses software to do things online.  Most of your online interactions ar
 ### Apps
 Apps include programs that are run on your own hardware devices.  Many of these provide specialized functions to make use of the device, such as the smartlink app to help you target your weapon, the chemical analysis app that runs on your chem sniffer, or the software systems that allow you to remotely pilot a bot.
 
-While mose apps are also available as online services, tehere are advantages to running it on your local device.  You might, for example, be cut off or distanced from the mesh on an exoplanet, remote asteroid, or within a secured corporate facility.
+While mose apps are also available as online services, there are advantages to running it on your local device.  You might, for example, be cut off or distanced from the mesh on an exoplanet, remote asteroid, or within a secured corporate facility.
 
 Perhaps the most important app on each device is your firewall.  [[Countermeasures#Firewall|Firewalls]] provide the smart security that protects each system.
 

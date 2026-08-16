@@ -72,7 +72,7 @@ A side effect of location services is that your movements are logged by every ne
 
 ## Media & News
 ---
-Recorded and streamed VR, XP, 3D video, music spoken word, podcasts, and even old-fashioned flat vids and audiobooks are offered by a variety of services.  The sheer amount of media available is dauting -- most people carry personal libraries in their head that contain far more than they will ever consume.  Entertainment for even niche interests is never farther than a few mental menus away.  News and media feeds are highly personalized and curated to your tastes by your [muse](ais-and-muses.md#muses).
+Recorded and streamed VR, XP, 3D video, music spoken word, podcasts, and even old-fashioned flat vids and audiobooks are offered by a variety of services.  The sheer amount of media available is daunting -- most people carry personal libraries in their head that contain far more than they will ever consume.  Entertainment for even niche interests is never farther than a few mental menus away.  News and media feeds are highly personalized and curated to your tastes by your [muse](ais-and-muses.md#muses).
 
 Many venues transmit their own local AR media channels, to keep social groupings focused on the same vibe.  When you can stream a live performance from a DJ on Mars directly into your head almost anywhere, most club-goers prefer getting on the same channel so they can all dance to the same beat, experience the same visuals, and share the energy.
 
