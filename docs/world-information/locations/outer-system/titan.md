@@ -1,6 +1,8 @@
 # Titan 
 ---
 
+**Posted by:** *Isabella Dandolo, Firewall Proxy*
+
 As transhumanity's fate approached, scientists settled on Titan to study its unique lakes and rivers of liquid methane. Soon they settled the moon with the dream of creating a place where all transhumans could live free together. The Titanian Commonwealth, home to 60 million transhumans, is the realization of that dream.
 
 Saturn's largest moon is shrouded in a permanent orange atmospheric haze, hellishly cold (average -180 C), and whipped by winds produced by tidal forces four times stronger than those influencing Earth's climate. On its face, it appears even less hospitable than the airless balls of ice and rock comprising every wold between Titan and Mars. The meager sunlight reaching its surface is insufficient to grow any but the hardiest plants, the mostly nitrogen atmosphere is dangerously toxic, and the surface is dotted with lakes and seas of liquid methane. 

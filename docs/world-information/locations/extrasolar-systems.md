@@ -1,6 +1,8 @@
 # Extrasolar Systems
 ---
 
+**Posted by:** *The Entirely Unofficial Gatecrashing Wiki*
+
 The discovery and limited understanding of the pandora gates has ushered in a new era for transhumanity. A true diaspora for our species is underway as we spread out across the galaxy. The number of new worlds discovered via the gate network is nearly countless, and increasing constantly. While many if not most worlds accessed to date have been of limited utility, a number of exceptional locations have been discovered and colonized. What follows is a brief but not exhaustive overview of some of the most notable worlds.
 
 :::info Solarchive Search -> Exoplanets of Note

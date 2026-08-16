@@ -1,6 +1,8 @@
 # ITN Cyclers
 ---
 
+**Posted by:** *Jarvis Tryscuz, Firewall Sentinel*
+
 ITN Cyclers are large ships, swarms, or habitats that lumber along the Interplanetary Transport Network. This predetermined route is a system of gravity assists, quick burn maneuvers, and the occasional aerobrake that allows a vessel to travel the Solar System using very little fuel. It's been plotted out to several thousand years, and most self-sufficient ITN Cyclers carry enough fuel to last at least a thousand before they need a top-up.
 
 ### Conch

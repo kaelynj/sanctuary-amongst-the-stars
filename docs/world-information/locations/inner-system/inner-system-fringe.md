@@ -1,6 +1,8 @@
 # Inner System Fringe
 ---
 
+**Posted by:** *Jarvis Tryscuz, Firewall Sentinel*
+
 More than 10,000 asteroids tumble around inside Mars's orbit, and a full tenth of them are over a kilometer in diameter, which means they can house a bubble, cylinder, or beehive habitat. All this to say that you don't have to flee rimward to hide; there are plenty of places sunward the Consortium won't go or simple doesn't know about.
 
 Economic exploitation of these asteroids isn't as lucrative as mining in the Main Belt. Many of them are in eccentric orbits that put them far from the ecliptic. There are still quite a few bodies in the inner system that haven't been properly mapped or detected. The inner-fringe settlements here range from paranoid to hedonistic to downright criminal.

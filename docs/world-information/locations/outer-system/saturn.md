@@ -1,5 +1,8 @@
 # Saturn
 ---
+
+**Posted by:** *Isabella Dandolo, Firewall Proxy*
+
 The smaller of our system’s two gas giants.  Jupiter’s cool sibling.  Everyone here is free: there’s no oppressive political bloc telling you how to run your life every minute of every day.  There’s room to spare for its more than 80 million transhuman inhabitants, all of whom can express themselves as they see fit.  There are major centers of learning for those who want to expand their mind, pharmaceuticals for the same, employment opportunities, space to hide, space to party, and space to live and love.  Saturn’s famous wide, thin rings stretch from 7,000 km above the clouds, to nearly 80,000 km. More than 60 moons and moonlets orbit Saturn, including Titan, the only satellite in the Solar System with a thick natural atmosphere.
 
 ## Ringers

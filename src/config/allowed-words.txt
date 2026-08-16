@@ -76,6 +76,7 @@ cryptosystems
 cyberbrain
 cyberbrains
 cyberdemocracy
+Dandolo
 darkcasters
 Digimorph
 Disassociative
@@ -196,6 +197,7 @@ killsat
 killsats
 Kontakt
 Kristiansund
+Kristoffson
 Kuiper
 Kurds
 København
@@ -410,6 +412,7 @@ transhumanity's
 transhumanity’s
 Transhumans
 transhumans
+Tryscuz
 Tulihand
 Tulihand's
 Ukko

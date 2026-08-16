@@ -1,6 +1,8 @@
 # Pandora Gates
 ---
 
+**Posted by:** *Giselle Patel, former Pathfinder employee*
+
 In the time shortly after the Fall, transhumanity needed hope, and we found it in the pandora gates. Just as we lost out home, the galaxy suddenly opened up to us. The gates work as wormholes allowing one to travel from one point in the galaxy to another in moments. Even more significant, the gates are programmable, allowing us to pick and choose our destination (at least for the most part, the process is not exactly refined). So, imagine getting thrown to the curb by your partner only to find an endless sea of people offering you a place to crash. Sure, you've only got a hastily packed suitcase and a shattered heart, but at you've at least got options.
 
 Each of the gates works more or less the same as the others, but that's where the similarities end. Each gate has a different group managing it, and they range from hardcore profit-driven hyper-capitalists to idealistic autonomist collectives. They all have their own rules and procedures. What is standard protocol at the Fissure Gate will get you escorted out of the spaceport in handcuffs at the Martian Gate. To understand each of the gates, you have to understand their contexts -- political, social, economic, and historical.

@@ -1,6 +1,8 @@
 # Outer System Fringe
 ---
 
+**Posted by:** *Jarvis Tryscuz, Firewall Sentinel*
+
 For most of transhumanity, the fringe is shorthand for "shit you wouldn't want your mother to know about." That's partially true. There's plenty of criminal or amoral shit going down in those big open spaces between pockets of civilization. There's also plenty of communities of hard-working folks who just want to be left the hell alone.
 
 Everything interesting happens in the dark. And it's very dark out there.

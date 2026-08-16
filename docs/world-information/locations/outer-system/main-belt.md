@@ -1,5 +1,6 @@
 # Main Belt
 ---
+
 **Posted By:** *Madge Zolversson, Ego Hunter*
 
 The Main Belt's the kinda place you might get your morph hacked, or all your credits stolen, or end up in debt slavery on Extropia, or at the bottom of a cortical stack pile on Legba. You might also make a fortune selling morph mods illegal anywhere else, discover an asteroid with rich veins to mine, or you could just make a living tracking down all th criminals who come there to lay low -- you'll never run out of work!

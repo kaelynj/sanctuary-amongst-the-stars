@@ -1,6 +1,8 @@
 # Uranus 
 ---
 
+**Posted by:** *Kristoffson, Firewall Proxy*
+
 Beyond Saturn's orbit, the Solar System turns into a sparsely populated wilderness with just a handful of large settlements and countless smaller ones. Uranus orbits at 10 AU beyond Saturn, and Neptune at 10 AU beyond that. The distances between stations and delta-v required to reach them is enormous, growing larger by measures the farther you travel. Life in the rimward system is both fragile and self-sufficient. It's a hodgepodge of brinkers, anarchists, romantics, scientists, and entrepreneurs -- sometimes all combined.
 
 # The Ice Giants

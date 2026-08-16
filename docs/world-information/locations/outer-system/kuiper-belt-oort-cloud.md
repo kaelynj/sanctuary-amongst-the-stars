@@ -1,6 +1,8 @@
 # The Kuiper Belt & Oort Cloud
 ---
 
+**Posted by:** *Jarvis Tryscuz, Firewall Sentinel*
+
 The K-Belt and Oort Cloud are leftovers from the formation of the Solar System: pieces of debris that never bumbled together to form a proper planet. Out here all you'll find are iceteroids that haven't been convinced to become comets yet and the occasional frozen dwarf planet. Life this far out is either a brinker's paradise or a punishment posting.
 
 The Kuiper Belt extends from 30, 50, 55 AU. There are a few scattered settlements in the K-Belt; it's a combination of Old West homesteading and living like some filthy medieval hermit. The even less-dense Oort Cloud starts around 2,000 AU and extends to interstellar space. No one really lives there. The furthest we've gotten a probe so far is around 30,000 AU.

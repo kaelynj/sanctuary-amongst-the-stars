@@ -1,6 +1,8 @@
 # Quarantine Zones
 ---
 
+**Posted by:** *When No-Go Means We Go*
+
 Throughout the system, places attacked by the TITANs during the Fall remain off limits.  The weapons used to destroy the TITAN machines frequently left these locations uninhabitable or destroyed beyond repair. In many places we simply failed to complete the job, leaving exsurgents and other threats lingering in the ruins.
 
 Abandoned TITAN projects have been located throughout the system, many hidden in the outer system well away from the fights near Earth and Mars. More than one gatecrashing team has detected signs of the TITANs' passing on unexplored exoplanets as well. Charging stations, launch sites, nanofab and research facilities, and even active machines have been discovered. Thankfully, no team has stumbled across and active TITAN...yet.

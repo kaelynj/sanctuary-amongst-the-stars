@@ -1,6 +1,8 @@
 # Neptune
 ---
 
+**Posted by:** *Kristoffson, Firewall Proxy*
+
 Cold, dark, and beautiful. That's Neptune. So far away that the rest of the system might as well not exist. Farcasting here is expensive, and arriving by ship is even more expensive and takes years. The planet itself is several shades of dark blue, and the highest winds in the Solar System batter anyone who tries to descend into its clouds.
 
 ## Neptunian Culture
